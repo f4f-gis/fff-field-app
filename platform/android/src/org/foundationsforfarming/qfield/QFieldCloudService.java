@@ -29,7 +29,7 @@
  OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-package ch.opengis.qfield;
+package org.foundationsforfarming.qfield;
 
 import android.app.ForegroundServiceStartNotAllowedException;
 import android.app.Notification;

@@ -15,7 +15,7 @@
  *                                                                         *
  ***************************************************************************/
 
-package ch.opengis.qfield;
+package org.foundationsforfarming.qfield;
 
 import android.content.ContentResolver;
 import android.content.ContentUris;

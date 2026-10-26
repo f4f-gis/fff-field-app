@@ -436,12 +436,12 @@ QString QfCloudUtils::subscriptionManagementUrl( const QString &serverUrl, const
   // TODO: change to plan_code once opengisch/QFieldCloud#1539 merged
   if ( plan.compare( QStringLiteral( "Community" ), Qt::CaseInsensitive ) == 0 )
   {
-    return QStringLiteral( "https://app.qfield.cloud/plans" );
+    return QStringLiteral( "https://fff-summer202627.southafricanorth.cloudapp.azure.com/plans" );
   }
 
   if ( projectOwner.isEmpty() || projectOwner == username )
   {
-    return QStringLiteral( "https://app.qfield.cloud/settings/%1/billing" ).arg( username );
+    return QStringLiteral( "https://fff-summer202627.southafricanorth.cloudapp.azure.com/settings/%1/billing" ).arg( username );
   }
 
   return QString();

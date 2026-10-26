@@ -20,8 +20,8 @@
 
 QfInternalGnssReceiver::QfInternalGnssReceiver( QObject *parent )
   : QfAbstractGnssReceiver( parent )
-  , mGeoPositionSource( std::unique_ptr<QGeoPositionInfoSource>( QGeoPositionInfoSource::createDefaultSource( { { "desktopId", "ch.opengis.qfield" } }, nullptr ) ) )
-  , mGeoSatelliteSource( std::unique_ptr<QGeoSatelliteInfoSource>( QGeoSatelliteInfoSource::createDefaultSource( { { "desktopId", "ch.opengis.qfield" } }, nullptr ) ) )
+  , mGeoPositionSource( std::unique_ptr<QGeoPositionInfoSource>( QGeoPositionInfoSource::createDefaultSource( { { "desktopId", "org.foundationsforfarming.qfield" } }, nullptr ) ) )
+  , mGeoSatelliteSource( std::unique_ptr<QGeoSatelliteInfoSource>( QGeoSatelliteInfoSource::createDefaultSource( { { "desktopId", "org.foundationsforfarming.qfield" } }, nullptr ) ) )
 {
   if ( mGeoPositionSource )
   {

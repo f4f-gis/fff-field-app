@@ -19,11 +19,11 @@ if [[ -n ${CI_TAG} ]]; then
 	# ^-- SC2155: Declare and assign separately to avoid masking return values.
 
 	if [[ ${ALL_FILES_ACCESS} == "ON" ]]; then
-		export APP_NAME="QField~"
-		export APP_PACKAGE_NAME="qfield_all_access"
+		export APP_NAME="FfF~"
+		export APP_PACKAGE_NAME="field_all_access"
 	else
-		export APP_NAME="QField"
-		export APP_PACKAGE_NAME="qfield"
+		export APP_NAME="FfF"
+		export APP_PACKAGE_NAME="field"
 	fi
 	export APP_ICON="qfield_logo"
 	export APP_VERSION="${CI_TAG}" # v1.2.3 or v1.2.3-rc4
@@ -37,11 +37,11 @@ elif [[ ${CI_PULL_REQUEST} = false ]]; then
 	CUSTOM_APP_PACKAGE_NAME=$(echo ${NIGHTLY_PACKAGE_NAME} | awk '{print $NF}' FS=.)
 
 	if [[ ${ALL_FILES_ACCESS} == "ON" ]]; then
-		export APP_NAME="${CUSTOM_APP_NAME:-QField~ Dev}"
-		export APP_PACKAGE_NAME="${CUSTOM_APP_PACKAGE_NAME:-qfield_all_access_dev}"
+		export APP_NAME="${CUSTOM_APP_NAME:-FfF~ Dev}"
+		export APP_PACKAGE_NAME="${CUSTOM_APP_PACKAGE_NAME:-field_all_access_dev}"
 	else
-		export APP_NAME="${CUSTOM_APP_NAME:-QField Dev}"
-		export APP_PACKAGE_NAME="${CUSTOM_APP_PACKAGE_NAME:-qfield_dev}"
+		export APP_NAME="${CUSTOM_APP_NAME:-FfF Dev}"
+		export APP_PACKAGE_NAME="${CUSTOM_APP_PACKAGE_NAME:-field_dev}"
 	fi
 	export APP_ICON="qfield_logo_beta"
 	export APP_VERSION=""
@@ -58,11 +58,11 @@ elif [[ ${CI_PULL_REQUEST} = false ]]; then
 else
 	echo "Building pull request beta"
 	if [[ ${ALL_FILES_ACCESS} == "ON" ]]; then
-		export APP_NAME="QField~ Beta ${CI_PULL_REQUEST_NUMBER}"
-		export APP_PACKAGE_NAME="qfield_all_access_beta"
+		export APP_NAME="FfF~ Beta ${CI_PULL_REQUEST_NUMBER}"
+		export APP_PACKAGE_NAME="field_all_access_beta"
 	else
-		export APP_NAME="QField Beta ${CI_PULL_REQUEST_NUMBER}"
-		export APP_PACKAGE_NAME="qfield_beta"
+		export APP_NAME="FfF Beta ${CI_PULL_REQUEST_NUMBER}"
+		export APP_PACKAGE_NAME="field_beta"
 	fi
 
 	export APP_ICON="qfield_logo_pr"

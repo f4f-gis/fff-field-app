@@ -333,7 +333,7 @@ Page {
                   if (Qt.platform.os === "windows") {
                     Qt.openUrlExternally("https://apps.microsoft.com/detail/xp99h3bcx4bw7f");
                   } else if (Qt.platform.os === "android") {
-                    Qt.openUrlExternally("market://details?id=ch.opengis.qfield");
+                    Qt.openUrlExternally("market://details?id=org.foundationsforfarming.field");
                   } else if (Qt.platform.os === "ios") {
                     Qt.openUrlExternally("itms-apps://itunes.apple.com/app/qfield-for-qgis/id1531726814");
                   }

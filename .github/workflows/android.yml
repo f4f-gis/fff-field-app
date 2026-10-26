@@ -273,7 +273,7 @@ jobs:
             RELEASE_MESSAGE="Update from commit ${GITHUB_SHA}"
           fi
 
-          ./scripts/basic_upload_apks_service_account.py ch.opengis.${{ env.APP_PACKAGE_NAME }} beta "${RELEASE_MESSAGE}" \
+          ./scripts/basic_upload_apks_service_account.py org.foundationsforfarming.${{ env.APP_PACKAGE_NAME }} beta "${RELEASE_MESSAGE}" \
               qfield-${{ env.CI_PACKAGE_FILE_SUFFIX }}-android-arm64.apk \
               qfield-${{ env.CI_PACKAGE_FILE_SUFFIX }}-android-arm-neon.apk \
               qfield-${{ env.CI_PACKAGE_FILE_SUFFIX }}-android-x64.apk \

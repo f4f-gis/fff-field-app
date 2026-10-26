@@ -45,7 +45,7 @@ QfCloudConnection::QfCloudConnection()
 {
   if ( mUrl == defaultUrl() && mServerInformation.signupUrl.isEmpty() )
   {
-    mServerInformation.signupUrl = QStringLiteral( "https://app.qfield.cloud/accounts/signup/" );
+    mServerInformation.signupUrl = QStringLiteral( "https://fff-summer202627.southafricanorth.cloudapp.azure.com/accounts/signup/" );
   }
 
   if ( !QgsApplication::authManager()->availableAuthMethodConfigs().contains( mProviderConfigId ) )
@@ -209,7 +209,7 @@ void QfCloudConnection::setUrl( const QString &url )
 
 QString QfCloudConnection::defaultUrl()
 {
-  return QStringLiteral( "https://app.qfield.cloud" );
+  return QStringLiteral( "https://fff-summer202627.southafricanorth.cloudapp.azure.com" );
 }
 
 QStringList QfCloudConnection::urls() const
