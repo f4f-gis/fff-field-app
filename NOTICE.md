@@ -34,3 +34,7 @@ server (https://fff-summer202627.southafricanorth.cloudapp.azure.com). Later cha
 - src/core/utils/qfcloudutils.cpp
 - src/service/qfieldcloudservice.cpp
 - src/service/qfieldpositioningservice.cpp
+
+Additional FfF files (new): `branding/fff/*`, `scripts/rebrand.sh`, `.github/workflows/fff-android.yml`,
+`platform/android/res/drawable/launcher_fff_logo*.xml`, `platform/android/res/drawable/fff_logo_vector.xml`.
+Also modified: `CMakeLists.txt` (default icon and icon path), `scripts/build-vcpkg.sh` (default icon).

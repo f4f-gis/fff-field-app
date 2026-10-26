@@ -1,0 +1,189 @@
+---
+# FfF Android build (FfF fork of QField)
+#
+# Builds a signed arm64 APK of the FfF app.
+#   - Manual run:  Actions tab -> "FfF Android" -> Run workflow   (test build, version "dev")
+#   - Release:     push a tag like fff-v1.0.0                       (release build, attached to a GitHub Release)
+#
+# Repository secrets (Settings -> Secrets and variables -> Actions):
+#   FFF_KEYSTORE_B64   base64 of the release keystore (.p12)
+#   FFF_KEY_ALIAS      key alias inside the keystore
+#   FFF_KEYSTORE_PASS  keystore password (also used as key password)
+# Without these secrets the build still runs and produces an unsigned/debug APK.
+#
+# The first run builds all dependencies (Qt, QGIS, GDAL, ...) from source and can take
+# several hours. Built dependencies are cached, so later runs are much faster. If the
+# first run stops at the time limit, just run it again: it continues from the cache.
+
+name: FfF Android
+on:
+  workflow_dispatch:
+  push:
+    tags:
+      - 'fff-v*'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fff-android-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 360
+    env:
+      TRIPLET: arm64-android
+      APP_NAME: FfF
+      APP_PACKAGE_NAME: field
+      APP_ICON: fff_logo
+      VCPKG_CACHE_DIR: /home/runner/vcpkg-cache
+      VCPKG_BINARY_SOURCES: clear;files,/home/runner/vcpkg-cache,readwrite
+      BUILD_TYPE: Release
+      CMAKE_BUILD_DIR: /home/runner/builddir
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7.0.1
+        with:
+          submodules: recursive
+
+      - name: Reclaim disk space
+        run: |
+          df -h .
+          sudo rm -rf /usr/share/dotnet /opt/ghc /usr/local/share/boost "$AGENT_TOOLSDIRECTORY"
+          df -h .
+
+      - name: Prepare variables
+        shell: bash
+        run: |
+          NDK_VERSION=29.0.14206865
+          echo "JAVA_HOME=${JAVA_HOME_17_X64}" >> $GITHUB_ENV
+          echo "ANDROID_BUILD_TOOLS_VERSION=35.0.1" >> $GITHUB_ENV
+          echo "ANDROID_NDK_VERSION=${NDK_VERSION}" >> $GITHUB_ENV
+          echo "ANDROID_NDK=/usr/local/lib/android/sdk/ndk/${NDK_VERSION}" >> $GITHUB_ENV
+          echo "ANDROID_NDK_HOME=/usr/local/lib/android/sdk/ndk/${NDK_VERSION}" >> $GITHUB_ENV
+          echo "ANDROID_NDK_ROOT=/usr/local/lib/android/sdk/ndk/${NDK_VERSION}" >> $GITHUB_ENV
+          echo "ndk.dir=/usr/local/lib/android/sdk/ndk/${NDK_VERSION}" >> local.properties
+
+          source ./scripts/version_number.sh
+          if [[ "${GITHUB_REF_TYPE}" == "tag" && "${GITHUB_REF_NAME}" == fff-v* ]]; then
+            APP_VERSION="${GITHUB_REF_NAME#fff-}"                      # fff-v1.2.3 -> v1.2.3
+            APK_VERSION_CODE=$(apk_version_code "${APP_VERSION}" "${TRIPLET}")
+            APP_VERSION_STR=$(app_version_str "${APP_VERSION}")
+          else
+            APP_VERSION="v0.0.0"
+            APK_VERSION_CODE=${GITHUB_RUN_NUMBER}
+            APP_VERSION_STR="dev-${GITHUB_SHA::7}"
+          fi
+          echo "APP_VERSION=${APP_VERSION}" >> $GITHUB_ENV
+          echo "APK_VERSION_CODE=${APK_VERSION_CODE}" >> $GITHUB_ENV
+          echo "APP_VERSION_STR=${APP_VERSION_STR}" >> $GITHUB_ENV
+          echo "APK_NAME=fff-${APP_VERSION_STR// /-}-arm64.apk" >> $GITHUB_ENV
+          echo "Version ${APP_VERSION_STR} (code ${APK_VERSION_CODE})"
+
+      - name: Install CMake and Ninja
+        uses: lukka/get-cmake@latest
+        with:
+          cmakeVersion: 3.29.0
+
+      - name: Prepare build environment
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y gperf autopoint '^libxcb.*-dev' libxrandr-dev libx11-xcb-dev libsm-dev libegl1-mesa-dev libglu1-mesa-dev libxrender-dev libxi-dev libxkbcommon-dev libxkbcommon-x11-dev autoconf-archive libgstreamer-gl1.0-0 libgstreamer-plugins-base1.0-0 libfuse2 libcups2-dev nasm libltdl-dev
+          wget -q https://github.com/Kitware/CMake/releases/download/v3.31.6/cmake-3.31.6-linux-x86_64.sh -O /tmp/cmakeinstall.sh
+          chmod +x /tmp/cmakeinstall.sh
+          sudo /tmp/cmakeinstall.sh --prefix=/usr/local --exclude-subdir
+          rm /tmp/cmakeinstall.sh
+          mkdir -p "${VCPKG_CACHE_DIR}"
+
+      - name: Restore dependency cache
+        id: cache
+        uses: actions/cache/restore@v6
+        with:
+          path: /home/runner/vcpkg-cache
+          key: fff-vcpkg-arm64-${{ hashFiles('vcpkg.json', 'vcpkg/**', 'CMakeLists.txt') }}-${{ github.run_id }}
+          restore-keys: |
+            fff-vcpkg-arm64-${{ hashFiles('vcpkg.json', 'vcpkg/**', 'CMakeLists.txt') }}-
+            fff-vcpkg-arm64-
+
+      # Builds every dependency the first time. Stops after 5 h so the cache can still be saved.
+      - name: Install dependencies and configure
+        timeout-minutes: 300
+        run: |
+          cmake -S "${GITHUB_WORKSPACE}" \
+                -B "${CMAKE_BUILD_DIR}" \
+                -G Ninja \
+                -D CMAKE_BUILD_TYPE=${BUILD_TYPE} \
+                -D ANDROID_SDK_ROOT=${ANDROID_SDK_ROOT} \
+                -D ANDROID_NDK_VERSION="${ANDROID_NDK_VERSION}" \
+                -D ANDROID_BUILD_TOOLS_VERSION="${ANDROID_BUILD_TOOLS_VERSION}" \
+                -D VCPKG_TARGET_TRIPLET="${TRIPLET}" \
+                -D VCPKG_INSTALL_OPTIONS="--allow-unsupported" \
+                -D WITH_ALL_FILES_ACCESS=OFF \
+                -D WITH_SPIX=OFF \
+                -D APP_VERSION="${APP_VERSION}" \
+                -D APK_VERSION_CODE="${APK_VERSION_CODE}" \
+                -D APP_VERSION_STR="${APP_VERSION_STR}" \
+                -D APP_PACKAGE_NAME="${APP_PACKAGE_NAME}" \
+                -D APP_ICON="${APP_ICON}" \
+                -D APP_ICON_PATH="${GITHUB_WORKSPACE}/branding/fff" \
+                -D APP_NAME="${APP_NAME}"
+
+      - name: Save dependency cache
+        if: always()
+        uses: actions/cache/save@v6
+        with:
+          path: /home/runner/vcpkg-cache
+          key: fff-vcpkg-arm64-${{ hashFiles('vcpkg.json', 'vcpkg/**', 'CMakeLists.txt') }}-${{ github.run_id }}
+
+      - name: Upload dependency build logs
+        uses: actions/upload-artifact@v7
+        if: failure()
+        with:
+          name: build-logs-arm64
+          path: ${{ env.CMAKE_BUILD_DIR }}/**/*.log
+
+      - name: Build
+        run: cmake --build "${CMAKE_BUILD_DIR}" --config ${BUILD_TYPE}
+
+      - name: Set up signing key
+        env:
+          FFF_KEYSTORE_B64: ${{ secrets.FFF_KEYSTORE_B64 }}
+        run: |
+          if [ -n "${FFF_KEYSTORE_B64}" ]; then
+            echo "${FFF_KEYSTORE_B64}" | base64 --decode > ./keystore.p12
+            echo "Release keystore installed"
+          else
+            echo "::warning::No FFF_KEYSTORE_B64 secret - the APK will not be release-signed"
+          fi
+
+      - name: Package APK
+        env:
+          KEYNAME: ${{ secrets.FFF_KEY_ALIAS }}
+          KEYPASS: ${{ secrets.FFF_KEYSTORE_PASS }}
+          STOREPASS: ${{ secrets.FFF_KEYSTORE_PASS }}
+        run: |
+          cmake --build "${CMAKE_BUILD_DIR}" --target bundle --config Release
+          OUT="${CMAKE_BUILD_DIR}/src/app/android-build/build/outputs/apk"
+          ls -R "${OUT}" || true
+          if   [ -f "${OUT}/release/android-build-release-signed.apk" ]; then cp "${OUT}/release/android-build-release-signed.apk" "/tmp/${APK_NAME}"
+          elif [ -f "${OUT}/debug/android-build-debug.apk" ];           then cp "${OUT}/debug/android-build-debug.apk"            "/tmp/${APK_NAME/.apk/-debug.apk}"
+          else echo "::error::No APK produced"; exit 1; fi
+          rm -f ./keystore.p12
+
+      - name: Upload APK
+        uses: actions/upload-artifact@v7
+        with:
+          name: fff-android-arm64-${{ env.APP_VERSION_STR }}
+          path: /tmp/fff-*.apk
+
+      - name: Publish GitHub Release (tags only)
+        if: ${{ github.ref_type == 'tag' }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release create "${GITHUB_REF_NAME}" /tmp/fff-*.apk \
+            --title "FfF ${APP_VERSION_STR}" \
+            --notes "FfF field app ${APP_VERSION_STR} (Android arm64). Source code: this repository at tag ${GITHUB_REF_NAME}. FfF is a modified version of QField (GPL-2.0-or-later); see NOTICE.md."
