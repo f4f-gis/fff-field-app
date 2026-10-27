@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
     <string name="done_unpacking_msg">İşlem tamamlandı, QGIS\'i başlatın.</string>
-    <string name="unpacking_title">QField hazırlanıyor</string>
+    <string name="unpacking_title">FfF hazırlanıyor</string>
     <string name="unpacking_msg">Bu tek seferlik işlem kısa bir süre alacak</string>
     <string name="unpacking_msg_following">Nearly there, hang tight!</string>
     <string name="use_internal_storage">Dahili Hafızayı Kullanın</string>
@@ -10,15 +10,15 @@
 QGIS dahili diskiniz üzerinden de çalışılabilir; ancak kısıtlı yerden dolayı bu tavsiye edilmemektedir. 
 \"İptal\" seçeneği tavsiye edilmektedir, bağlı USB kablonuzu çıkarın ve QGIS\'i yeniden başlatın.</string>
     <string name="primary_storage">Dahili hafıza</string>
-    <string name="secondary_storage">QField dosyaları dizini</string>
+    <string name="secondary_storage">FfF dosyaları dizini</string>
     <string name="secondary_storage_extra">Ek dosyalar dizini</string>
     <string name="secondary_storage_read_only">Harici depolama (okuma)</string>
     <string name="inaccessible">erişilemez</string>
     <string name="loading">Yüklüyor</string>
     <string name="select_project">Bir QGIS projesi veya veriseti seçin</string>
     <string name="recent_projects">Son proje ve verisetleri</string>
-    <string name="rate_title">QField\'ı değerlendirin</string>
-    <string name="rate_message">QField\'ı kullanmaktan memnunsanız, lütfen değerlendirmek için vaktinizi ayırın. Desteğiniz için teşekkürler!</string>
+    <string name="rate_title">FfF\'ı değerlendirin</string>
+    <string name="rate_message">FfF\'ı kullanmaktan memnunsanız, lütfen değerlendirmek için vaktinizi ayırın. Desteğiniz için teşekkürler!</string>
     <string name="rate_now">Değerlendir</string>
     <string name="remind_later">Daha sonra hatırlat</string>
     <string name="no_thanks">Hayır, teşekkürler!</string>
@@ -29,10 +29,10 @@ QGIS dahili diskiniz üzerinden de çalışılabilir; ancak kısıtlı yerden do
     <string name="added_to_favorites">Favorilere eklendi</string>
     <string name="removed_from_favorites">Favorilerden çıkarıldı</string>
     <string name="external_files_title">Önemli Not</string>
-    <string name="external_files_message"><![CDATA[QField dosya dizini, USB kablosu aracılığıyla dosya ve projeleri cihazınıza kopyalamak için kullanılabilir. Dizinin mutlak yolunu başlık çubuğunda görebilirsiniz.<br/><br/>Cihazınızdan QField\'ı kaldırırsanız, bu dizinin içeriği <i>silinecektir</i>.]]></string>
+    <string name="external_files_message"><![CDATA[FfF dosya dizini, USB kablosu aracılığıyla dosya ve projeleri cihazınıza kopyalamak için kullanılabilir. Dizinin mutlak yolunu başlık çubuğunda görebilirsiniz.<br/><br/>Cihazınızdan FfF\'ı kaldırırsanız, bu dizinin içeriği <i>silinecektir</i>.]]></string>
     <string name="external_files_ok">Tamam</string>
     <string name="grant_permission">Tüm dosyalara erişim</string>
-    <string name="grant_all_files_permission"><![CDATA[QField, yerel projeleri ve veri kümelerini açabilmek ve özel projeksiyon ızgaraları, yazı tipleri ve temel haritaları destekleyebilmek için tüm dosyalara erişim iznine ihtiyaç duyar. <i>Zorunlu olmasa da, erişime izin verilmesi şiddetle tavsiye edilir. </i><br/><br/> Bir sonraki ekranda, lütfen <b>QField</b>\'ü seçin ve <b>Tüm dosyalara erişime izin ver</b> seçeneğini seçin.]]></string>
+    <string name="grant_all_files_permission"><![CDATA[FfF, yerel projeleri ve veri kümelerini açabilmek ve özel projeksiyon ızgaraları, yazı tipleri ve temel haritaları destekleyebilmek için tüm dosyalara erişim iznine ihtiyaç duyar. <i>Zorunlu olmasa da, erişime izin verilmesi şiddetle tavsiye edilir. </i><br/><br/> Bir sonraki ekranda, lütfen <b>FfF</b>\'ü seçin ve <b>Tüm dosyalara erişime izin ver</b> seçeneğini seçin.]]></string>
     <string name="grant">İzin ver</string>
     <string name="deny_always">Kalıcı Olarak Reddet</string>
     <string name="deny_once">Bir Kez Reddet</string>
@@ -57,10 +57,10 @@ QGIS dahili diskiniz üzerinden de çalışılabilir; ancak kısıtlı yerden do
     <string name="storage_information_message">İster mevcut bir QField 1.x kullanıcısı olup projelerinizin ve veri kümelerinizin neden kaybolduğunu merak ediyor olun, ister QField\'ı yeni kullanmaya başlamış olun, depolama işlemleri belgelerini okumanızı öneririz. Bu belgelere erişim için kısayol, başlık çubuğundaki eylemler menüsünde bulunacaktır.</string>
     <string name="storage_information_view">Belgeleri göster</string>
     <string name="storage_information_dismiss">Daha sonra okuyacağım.</string>
-    <string name="import_project_wait">QField projeyi içe aktarırken lütfen bekleyin.</string>
-    <string name="import_dataset_wait">QField veri setini/setlerini içe aktarırken lütfen bekleyin.</string>
-    <string name="update_project_wait">QField yerel projeyi güncelliyor, lütfen bekleyin.</string>
-    <string name="upload_pending_attachments">Şu anda QFieldCloud\'a ekler yükleniyor.</string>
+    <string name="import_project_wait">FfF projeyi içe aktarırken lütfen bekleyin.</string>
+    <string name="import_dataset_wait">FfF veri setini/setlerini içe aktarırken lütfen bekleyin.</string>
+    <string name="update_project_wait">FfF yerel projeyi güncelliyor, lütfen bekleyin.</string>
+    <string name="upload_pending_attachments">Şu anda FfF Cloud\'a ekler yükleniyor.</string>
     <string name="operation_unsupported">İşlem Desteklenmiyor</string>
     <string name="import_operation_unsupported">Cihazınız bu içe aktarma işlemini desteklemiyor.</string>
     <string name="export_operation_unsupported">Cihazınız bu dışa aktarma işlemini desteklemiyor.</string>

@@ -157,7 +157,7 @@ bool QfCloudConnection::isReachable() const
 
 QMap<QString, QString> QfCloudConnection::sErrors = QMap<QString, QString>(
   {
-    { "unknown_error", QObject::tr( "QFieldCloud Unknown Error" ) },
+    { "unknown_error", QObject::tr( "FfF Cloud Unknown Error" ) },
     { "status_not_ok", QObject::tr( "Status not ok" ) },
     { "empty_content", QObject::tr( "Empty content" ) },
     { "object_not_found", QObject::tr( "Object not found" ) },

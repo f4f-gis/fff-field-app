@@ -122,7 +122,7 @@ void QfCloudStatus::fetchStatus()
       {
         mHasProblem = true;
         mStatusType = StatusType::Incident;
-        mStatusMessage = tr( "QFieldCloud server is not reachable" );
+        mStatusMessage = tr( "FfF Cloud server is not reachable" );
         mDetailsMessage = tr( "The server at %1 could not be reached. Please check your internet connection." ).arg( mUrl );
 
         if ( mStatusPageUrl.isEmpty() && mUrl == QStringLiteral( "https://app.qfield.cloud" ) )
@@ -185,14 +185,14 @@ void QfCloudStatus::parseStatusResponse( const QByteArray &data )
 
     if ( hasMaintenance )
     {
-      messages << tr( "QFieldCloud is under maintenance" );
+      messages << tr( "FfF Cloud is under maintenance" );
       details << mMaintenanceMessage;
       mStatusType = StatusType::Maintenance;
     }
 
     if ( databaseDegraded || storageDegraded )
     {
-      messages << tr( "QFieldCloud service is degraded" );
+      messages << tr( "FfF Cloud service is degraded" );
       mStatusType = StatusType::Degraded;
     }
 

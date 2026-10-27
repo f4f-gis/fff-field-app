@@ -99,7 +99,7 @@ void QfAndroidPlatformUtilities::afterUpdate()
       auto activity = qtAndroidContext();
       if ( activity.isValid() )
       {
-        QJniObject messageJni = QJniObject::fromString( QObject::tr( "Please wait while QField installation finalizes." ) );
+        QJniObject messageJni = QJniObject::fromString( QObject::tr( "Please wait while FfF installation finalizes." ) );
         activity.callMethod<void>( "showBlockingProgressDialog", "(Ljava/lang/String;)V", messageJni.object<jstring>() );
       }
     } );

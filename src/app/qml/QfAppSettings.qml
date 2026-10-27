@@ -1120,7 +1120,7 @@ Page {
               }
 
               Label {
-                text: qsTr("Configure a network proxy to route QField's traffic through a proxy server. Useful for corporate networks and VPNs.")
+                text: qsTr("Configure a network proxy to route FfF's traffic through a proxy server. Useful for corporate networks and VPNs.")
                 font: QfTheme.tipFont
                 color: QfTheme.secondaryTextColor
                 wrapMode: Text.WordWrap

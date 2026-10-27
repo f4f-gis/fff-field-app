@@ -1145,8 +1145,8 @@ Kohteen geometriat yhdistetään kohteeseen &apos;%1&apos;, johon sisällytetä�
 <context>
     <name>LocalFilesModel</name>
     <message>
-        <source>QField files directory</source>
-        <translation type="vanished">QField tiedostojen hakemisto</translation>
+        <source>FfF files directory</source>
+        <translation type="vanished">FfF tiedostojen hakemisto</translation>
     </message>
     <message>
         <source>Imported projects</source>
@@ -1907,42 +1907,42 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">Lue lisää QFieldCloudista</translation>
     </message>
     <message>
-        <source>QFieldCloud</source>
+        <source>FfF Cloud</source>
         <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>QFieldCloudPackageLayersFeedback</name>
     <message>
-        <source>Problematic QFieldCloud layer packaging</source>
-        <translation type="vanished">Ongelmallinen QFieldCloud tason pakkaus</translation>
+        <source>Problematic FfF Cloud layer packaging</source>
+        <translation type="vanished">Ongelmallinen FfF Cloud tason pakkaus</translation>
     </message>
     <message>
-        <source>Some layers have not been packaged correctly on QFieldCloud. These layers might be misconfigured or their data source is not accessible from the QFieldCloud server.</source>
-        <translation type="vanished">Joitakin tasoja ei ole pakattu oikein QFieldCloudiin. Nämä tasot voivat olla määritetty väärin tai niiden tietolähde ei ole käytettävissä QFieldCloud-palvelimelta.</translation>
+        <source>Some layers have not been packaged correctly on FfF Cloud. These layers might be misconfigured or their data source is not accessible from the FfF Cloud server.</source>
+        <translation type="vanished">Joitakin tasoja ei ole pakattu oikein FfF Cloudiin. Nämä tasot voivat olla määritetty väärin tai niiden tietolähde ei ole käytettävissä FfF Cloud-palvelimelta.</translation>
     </message>
     <message>
-        <source>QFieldCloud had troubles packaging your project</source>
-        <translation type="vanished">QFieldCloudilla oli ongelmia projektisi pakkaamisessa</translation>
+        <source>FfF Cloud had troubles packaging your project</source>
+        <translation type="vanished">FfF Cloudilla oli ongelmia projektisi pakkaamisessa</translation>
     </message>
     <message>
-        <source>Some layers have not been packaged correctly on QFieldCloud. These layers might be misconfigured or their data source is not accessible from the QFieldCloud server. Please check the logs of the latest packaging job on the qfield.cloud website.</source>
-        <translation type="vanished">Joitakin tasoja ei ole pakattu oikein QFieldCloudiin. Nämä tasot voivat olla määritetty väärin tai niiden tietolähde ei ole käytettävissä QFieldCloud-palvelimelta. Tarkista viimeisimmän pakkaustyön lokit qfield.cloud-verkkosivustolta.</translation>
+        <source>Some layers have not been packaged correctly on FfF Cloud. These layers might be misconfigured or their data source is not accessible from the FfF Cloud server. Please check the logs of the latest packaging job on the qfield.cloud website.</source>
+        <translation type="vanished">Joitakin tasoja ei ole pakattu oikein FfF Cloudiin. Nämä tasot voivat olla määritetty väärin tai niiden tietolähde ei ole käytettävissä FfF Cloud-palvelimelta. Tarkista viimeisimmän pakkaustyön lokit qfield.cloud-verkkosivustolta.</translation>
     </message>
 </context>
 <context>
     <name>QFieldCloudPopup</name>
     <message>
-        <source>QFieldCloud</source>
-        <translation type="vanished">QFieldCloud</translation>
+        <source>FfF Cloud</source>
+        <translation type="vanished">FfF Cloud</translation>
     </message>
     <message>
-        <source>The current project is not stored on QFieldCloud.&lt;br&gt;&lt;br&gt;</source>
-        <translation type="vanished">Nykyistä projektia ei ole tallennettu QFieldCloudiin.&lt;br&gt;&lt;br&gt;</translation>
+        <source>The current project is not stored on FfF Cloud.&lt;br&gt;&lt;br&gt;</source>
+        <translation type="vanished">Nykyistä projektia ei ole tallennettu FfF Cloudiin.&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
-        <source>Storing projects on QFieldCloud offers seamless synchornization, offline editing, and team management.&lt;br&gt;&lt;br&gt;</source>
-        <translation type="vanished">Projektien tallentaminen QFieldCloudiin tarjoaa saumatonta synkronointia, offline-muokkausta ja tiimin hallintaa.&lt;br&gt;&lt;br&gt;</translation>
+        <source>Storing projects on FfF Cloud offers seamless synchornization, offline editing, and team management.&lt;br&gt;&lt;br&gt;</source>
+        <translation type="vanished">Projektien tallentaminen FfF Cloudiin tarjoaa saumatonta synkronointia, offline-muokkausta ja tiimin hallintaa.&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>Learn more about QFieldCloud</source>
@@ -1961,16 +1961,16 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">Tervehdys &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <source>This QFieldCloud project was first downloaded with another cloud account. Please sign in with the original account for this project to use the QFieldCloud functionality.</source>
-        <translation type="vanished">Tämä QFieldCloud-projekti ladattiin ensin toisella pilvitilillä. Kirjaudu sisään tämän projektin alkuperäisellä tilillä käyttääksesi QFieldCloud-toimintoa.</translation>
+        <source>This FfF Cloud project was first downloaded with another cloud account. Please sign in with the original account for this project to use the FfF Cloud functionality.</source>
+        <translation type="vanished">Tämä FfF Cloud-projekti ladattiin ensin toisella pilvitilillä. Kirjaudu sisään tämän projektin alkuperäisellä tilillä käyttääksesi FfF Cloud-toimintoa.</translation>
     </message>
     <message>
         <source>Downloading %1%…</source>
         <translation type="vanished">Ladataan %1%…</translation>
     </message>
     <message>
-        <source>QFieldCloud is preparing the latest data just for you. This might take some time, please hold tight…</source>
-        <translation type="vanished">QFieldCloud valmistelee viimeisintä dataa sinulle.
+        <source>FfF Cloud is preparing the latest data just for you. This might take some time, please hold tight…</source>
+        <translation type="vanished">FfF Cloud valmistelee viimeisintä dataa sinulle.
 Tämä voi viedä jonkin aikaa, ole hyvä ja odota...</translation>
     </message>
     <message>
@@ -1978,8 +1978,8 @@ Tämä voi viedä jonkin aikaa, ole hyvä ja odota...</translation>
         <translation type="vanished">Ladataan %1%…</translation>
     </message>
     <message>
-        <source>QFieldCloud is applying the latest uploaded changes. This might take some time, please hold tight…</source>
-        <translation type="vanished">QFieldCloud tekee viimeisimpiä ladattuja muutoksia. Tässä saattaa mennä jonkin aikaa, odota kärsivällisesti...</translation>
+        <source>FfF Cloud is applying the latest uploaded changes. This might take some time, please hold tight…</source>
+        <translation type="vanished">FfF Cloud tekee viimeisimpiä ladattuja muutoksia. Tässä saattaa mennä jonkin aikaa, odota kärsivällisesti...</translation>
     </message>
     <message>
         <source>A server error has occured, please try again.</source>
@@ -2006,8 +2006,8 @@ Tämä voi viedä jonkin aikaa, ole hyvä ja odota...</translation>
         <translation type="vanished">Synkronoi</translation>
     </message>
     <message>
-        <source>Synchronize the whole project with all modified features and download the freshly updated project with all the applied changes from QFieldCloud.</source>
-        <translation type="vanished">Synkronoi koko projekti kaikilla kohdemuutoksilla ja lataa viimeisin päivitetty projekti kaikilla lisätyillä muutoksilla QFieldCloudista.</translation>
+        <source>Synchronize the whole project with all modified features and download the freshly updated project with all the applied changes from FfF Cloud.</source>
+        <translation type="vanished">Synkronoi koko projekti kaikilla kohdemuutoksilla ja lataa viimeisin päivitetty projekti kaikilla lisätyillä muutoksilla FfF Cloudista.</translation>
     </message>
     <message>
         <source>Push changes</source>
@@ -2166,7 +2166,7 @@ Vaikka voit edelleen tarkastella ja käyttää projektia, sen alustamista suosit
         <translation type="unfinished"/>
     </message>
     <message>
-        <source> (see more in the QField error log)…</source>
+        <source> (see more in the FfF error log)…</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2332,7 +2332,7 @@ syy: %2</translation>
         <translation type="vanished">Järjestelmän viesti:</translation>
     </message>
     <message>
-        <source> (see more in the QField error log)…</source>
+        <source> (see more in the FfF error log)…</source>
         <translation type="vanished">(lue lisää QFieldin virhelokista)...</translation>
     </message>
     <message>
@@ -2343,8 +2343,8 @@ syy: %2</translation>
 <context>
     <name>QFieldCloudScreen</name>
     <message>
-        <source>QFieldCloud Projects</source>
-        <translation type="vanished">QFieldCloud-projektit</translation>
+        <source>FfF Cloud Projects</source>
+        <translation type="vanished">FfF Cloud-projektit</translation>
     </message>
     <message>
         <source>Disconnected from the cloud.</source>
@@ -2375,8 +2375,8 @@ syy: %2</translation>
         <translation type="vanished">Ladataan, %1% haettu…</translation>
     </message>
     <message>
-        <source>QFieldCloud is preparing the latest data just for you. This might take some time, please hold tight…</source>
-        <translation type="vanished">QFieldCloud valmistelee viimeisintä dataa sinulle.
+        <source>FfF Cloud is preparing the latest data just for you. This might take some time, please hold tight…</source>
+        <translation type="vanished">FfF Cloud valmistelee viimeisintä dataa sinulle.
 Tämä voi viedä jonkin aikaa, ole hyvä ja odota...</translation>
     </message>
     <message>
@@ -2619,8 +2619,8 @@ Tämä voi viedä jonkin aikaa, ole hyvä ja odota...</translation>
         <translation type="vanished">Käytä laitteen kameraa</translation>
     </message>
     <message>
-        <source>If disabled, QField will use a minimalist internal camera instead of the camera app on the device.&lt;br&gt;Tip: Enable this option and install the open camera app to create geo tagged photos.</source>
-        <translation type="vanished">Jos pois käytöstä, QField käyttää minimaalista sisäistä kameraa laitteen kamerasovelluksen sijaan. &lt;br&gt;Vinkki: ota tämä vaihtoehto käyttöön ja asenna avoin kamerasovellus luodaksesi sijaintimerkittyjä kuvia.</translation>
+        <source>If disabled, FfF will use a minimalist internal camera instead of the camera app on the device.&lt;br&gt;Tip: Enable this option and install the open camera app to create geo tagged photos.</source>
+        <translation type="vanished">Jos pois käytöstä, FfF käyttää minimaalista sisäistä kameraa laitteen kamerasovelluksen sijaan. &lt;br&gt;Vinkki: ota tämä vaihtoehto käyttöön ja asenna avoin kamerasovellus luodaksesi sijaintimerkittyjä kuvia.</translation>
     </message>
     <message>
         <source>Fast editing mode</source>
@@ -2651,7 +2651,7 @@ Tämä voi viedä jonkin aikaa, ole hyvä ja odota...</translation>
         <translation type="vanished">Lähetä anonymisoituja mittareita</translation>
     </message>
     <message>
-        <source>If enabled, anonymized metrics will be collected and sent to help improve QField for everyone.</source>
+        <source>If enabled, anonymized metrics will be collected and sent to help improve FfF for everyone.</source>
         <translation type="vanished">Jos tämä on käytössä, anonymisoituja mittareita kerätään ja lähetetään QFieldin parantamiseksi kaikille.</translation>
     </message>
     <message>
@@ -2675,8 +2675,8 @@ Tämä voi viedä jonkin aikaa, ole hyvä ja odota...</translation>
         <translation type="vanished">Käyttäjäliittymän kieli:</translation>
     </message>
     <message>
-        <source>To apply the selected user interface language, QField needs to completely shutdown and restart.</source>
-        <translation type="vanished">Valitun käyttöliittymän kielen käyttämiseksi QField on sammutettava kokonaan ja käynnistettävä uudelleen.</translation>
+        <source>To apply the selected user interface language, FfF needs to completely shutdown and restart.</source>
+        <translation type="vanished">Valitun käyttöliittymän kielen käyttämiseksi FfF on sammutettava kokonaan ja käynnistettävä uudelleen.</translation>
     </message>
     <message>
         <source>system</source>
@@ -2813,8 +2813,8 @@ Peruuta tehdäksesi suppeampi laiteskannaus.</translation>
         <translation type="vanished">Käytetään vertikaalista ruudukon siirtoa korkeusarvojen tarkkuuden parantamiseksi.</translation>
     </message>
     <message>
-        <source>QField Settings</source>
-        <translation type="vanished">QField asetukset</translation>
+        <source>FfF Settings</source>
+        <translation type="vanished">FfF asetukset</translation>
     </message>
     <message>
         <source>Time of inactivity in seconds before the screen brightness get be dimmed to preserve battery.</source>
@@ -2896,8 +2896,8 @@ Peruuta tehdäksesi suppeampi laiteskannaus.</translation>
         <translation>Tunnistautuminen vaaditaan</translation>
     </message>
     <message>
-        <source>QFieldCloud Unknown Error</source>
-        <translation>QFieldCloud tuntematon virhe</translation>
+        <source>FfF Cloud Unknown Error</source>
+        <translation>FfF Cloud tuntematon virhe</translation>
     </message>
     <message>
         <source>Status not ok</source>
@@ -2964,8 +2964,8 @@ Peruuta tehdäksesi suppeampi laiteskannaus.</translation>
         <translation>Pilven käyttäjätiedot</translation>
     </message>
     <message>
-        <source>Please wait while QField installation finalizes.</source>
-        <translation>Odota, kunnes QField asennus on valmis.</translation>
+        <source>Please wait while FfF installation finalizes.</source>
+        <translation>Odota, kunnes FfF asennus on valmis.</translation>
     </message>
     <message>
         <source>averaged</source>
@@ -3560,7 +3560,7 @@ Peruuta tehdäksesi suppeampi laiteskannaus.</translation>
         <translation>esim. localhost, 192.168.\*</translation>
     </message>
     <message>
-        <source>Configure a network proxy to route QField&apos;s traffic through a proxy server. Useful for corporate networks and VPNs.</source>
+        <source>Configure a network proxy to route FfF&apos;s traffic through a proxy server. Useful for corporate networks and VPNs.</source>
         <translation>Määritä verkon välityspalvelin, jotta QFieldin liikenne ohjataan proxy‑palvelimen kautta. Hyödyllinen yritysverkoissa ja VPN‑yhteyksissä.</translation>
     </message>
     <message>
@@ -4475,12 +4475,12 @@ Vaikka voit edelleen tarkastella ja käyttää projektia, sen alustamista suosit
 <context>
     <name>QfCloudPackageLayersFeedback</name>
     <message>
-        <source>Some layers have not been packaged correctly. These layers might be misconfigured or their data source is not accessible from the QFieldCloud server.</source>
-        <translation>Joitakin tasoja ei ole paketoitu oikein. Näiden tasojen asetukset saattavat olla virheelliset tai niiden tietolähde ei ole saavutettavissa QFieldCloud-palvelimelta.</translation>
+        <source>Some layers have not been packaged correctly. These layers might be misconfigured or their data source is not accessible from the FfF Cloud server.</source>
+        <translation>Joitakin tasoja ei ole paketoitu oikein. Näiden tasojen asetukset saattavat olla virheelliset tai niiden tietolähde ei ole saavutettavissa FfF Cloud-palvelimelta.</translation>
     </message>
     <message>
-        <source>Please check the detailed feedback below and the latest packaging job logs on the QFieldCloud website.</source>
-        <translation>Tarkista alla olevat yksityiskohtaiset palautteet ja viimeisimmät paketointitehtävän lokit QFieldCloud-sivustolta.</translation>
+        <source>Please check the detailed feedback below and the latest packaging job logs on the FfF Cloud website.</source>
+        <translation>Tarkista alla olevat yksityiskohtaiset palautteet ja viimeisimmät paketointitehtävän lokit FfF Cloud-sivustolta.</translation>
     </message>
 </context>
 <context>
@@ -4529,16 +4529,16 @@ Vaikka voit edelleen tarkastella ja käyttää projektia, sen alustamista suosit
         <translation>Vaara-alue</translation>
     </message>
     <message>
-        <source>QFieldCloud</source>
-        <translation>QFieldCloud</translation>
+        <source>FfF Cloud</source>
+        <translation>FfF Cloud</translation>
     </message>
     <message>
-        <source>This QFieldCloud project was first downloaded with another cloud account. Please sign in with the original account for this project to use the QFieldCloud functionality.</source>
-        <translation>Tämä QFieldCloud-projekti ladattiin ensin toisella pilvitilillä. Kirjaudu sisään tämän projektin alkuperäisellä tilillä käyttääksesi QFieldCloud-toimintoa.</translation>
+        <source>This FfF Cloud project was first downloaded with another cloud account. Please sign in with the original account for this project to use the FfF Cloud functionality.</source>
+        <translation>Tämä FfF Cloud-projekti ladattiin ensin toisella pilvitilillä. Kirjaudu sisään tämän projektin alkuperäisellä tilillä käyttääksesi FfF Cloud-toimintoa.</translation>
     </message>
     <message>
-        <source>QFieldCloud is packaging the latest data just for you; this might take some time, please hold tight</source>
-        <translation>QFieldCloud pakkaa uusimmat tiedot juuri sinua varten; tämä saattaa kestää jonkin aikaa, ole hyvä ja odota</translation>
+        <source>FfF Cloud is packaging the latest data just for you; this might take some time, please hold tight</source>
+        <translation>FfF Cloud pakkaa uusimmat tiedot juuri sinua varten; tämä saattaa kestää jonkin aikaa, ole hyvä ja odota</translation>
     </message>
     <message>
         <source>Downloading, %1% of %2 fetched</source>
@@ -4549,28 +4549,28 @@ Vaikka voit edelleen tarkastella ja käyttää projektia, sen alustamista suosit
         <translation>Ladataan, %1% haettu</translation>
     </message>
     <message>
-        <source>Reaching out to QFieldCloud to download project</source>
-        <translation>Sisäänkirjaudu QFieldCloudiin projektin lataamiseksi</translation>
+        <source>Reaching out to FfF Cloud to download project</source>
+        <translation>Sisäänkirjaudu FfF Cloudiin projektin lataamiseksi</translation>
     </message>
     <message>
         <source>Pushing changes, %1%…</source>
         <translation>Lähetetään muutoksia, %1%…</translation>
     </message>
     <message>
-        <source>QFieldCloud is applying the latest pushed changes. This might take some time, please hold tight…</source>
-        <translation>QFieldCloud ottaa käyttöön viimeisimmät lähetetyt muutokset. Tämä saattaa kestää hetken, olethan kärsivällinen…</translation>
+        <source>FfF Cloud is applying the latest pushed changes. This might take some time, please hold tight…</source>
+        <translation>FfF Cloud ottaa käyttöön viimeisimmät lähetetyt muutokset. Tämä saattaa kestää hetken, olethan kärsivällinen…</translation>
     </message>
     <message>
         <source>Cloudify project</source>
         <translation>Muunna pilviprojektiksi</translation>
     </message>
     <message>
-        <source>Uploading the current project to QFieldCloud.</source>
-        <translation>Lähetetään nykyinen projekti QFieldCloudiin.</translation>
+        <source>Uploading the current project to FfF Cloud.</source>
+        <translation>Lähetetään nykyinen projekti FfF Cloudiin.</translation>
     </message>
     <message>
-        <source>The current project is not stored on QFieldCloud. Storing projects on QFieldCloud offers seamless synchronization, offline editing, and team management.</source>
-        <translation>Nykyistä projektia ei ole tallennettu QFieldCloudiin. Projektien tallentaminen QFieldCloudiin tarjoaa saumattoman synkronoinnin, offline-muokkauksen ja tiiminhallinnan.</translation>
+        <source>The current project is not stored on FfF Cloud. Storing projects on FfF Cloud offers seamless synchronization, offline editing, and team management.</source>
+        <translation>Nykyistä projektia ei ole tallennettu FfF Cloudiin. Projektien tallentaminen FfF Cloudiin tarjoaa saumattoman synkronoinnin, offline-muokkauksen ja tiiminhallinnan.</translation>
     </message>
     <message>
         <source>Learn more about QFieldCloud</source>
@@ -4633,8 +4633,8 @@ Vaikka voit edelleen tarkastella ja käyttää projektia, sen alustamista suosit
         <translation>Synkronoi projekti</translation>
     </message>
     <message>
-        <source>Uploads your edits, then downloads the latest project from QFieldCloud so everything is up to date.</source>
-        <translation>Lähettää muokkauksesi ja lataa sitten uusimman projektin QFieldCloudista, jotta kaikki on ajan tasalla.</translation>
+        <source>Uploads your edits, then downloads the latest project from FfF Cloud so everything is up to date.</source>
+        <translation>Lähettää muokkauksesi ja lataa sitten uusimman projektin FfF Cloudista, jotta kaikki on ajan tasalla.</translation>
     </message>
     <message>
         <source>Last synchronized just now</source>
@@ -4814,7 +4814,7 @@ epäonnistui, syy: %2</translation>
         <translation>Järjestelmän viesti:</translation>
     </message>
     <message>
-        <source> (see more in the QField error log)…</source>
+        <source> (see more in the FfF error log)…</source>
         <translation>(lue lisää QFieldin virhelokista)...</translation>
     </message>
     <message>
@@ -4889,8 +4889,8 @@ epäonnistui, syy: %2</translation>
         <translation>Upload local changes</translation>
     </message>
     <message>
-        <source>QFieldCloud is packaging project, hold tight</source>
-        <translation>QFieldCloud pakkaa projektia, odota hetki</translation>
+        <source>FfF Cloud is packaging project, hold tight</source>
+        <translation>FfF Cloud pakkaa projektia, odota hetki</translation>
     </message>
     <message>
         <source>Downloading project</source>
@@ -4982,7 +4982,7 @@ epäonnistui, syy: %2</translation>
 <context>
     <name>QfCloudScreen</name>
     <message>
-        <source>QFieldCloud Projects</source>
+        <source>FfF Cloud Projects</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -5006,8 +5006,8 @@ epäonnistui, syy: %2</translation>
         <translation>Hae projekteja</translation>
     </message>
     <message>
-        <source>QFieldCloud is packaging the latest data just for you; this might take some time, please hold tight</source>
-        <translation>QFieldCloud pakkaa uusimmat tiedot juuri sinua varten; tämä saattaa kestää jonkin aikaa, ole hyvä ja odota</translation>
+        <source>FfF Cloud is packaging the latest data just for you; this might take some time, please hold tight</source>
+        <translation>FfF Cloud pakkaa uusimmat tiedot juuri sinua varten; tämä saattaa kestää jonkin aikaa, ole hyvä ja odota</translation>
     </message>
     <message>
         <source>Downloading, %1% of %2 fetched</source>
@@ -5018,8 +5018,8 @@ epäonnistui, syy: %2</translation>
         <translation>Ladataan, %1% haettu</translation>
     </message>
     <message>
-        <source>Reaching out to QFieldCloud to download project</source>
-        <translation>Sisäänkirjaudu QFieldCloudiin projektin lataamiseksi</translation>
+        <source>Reaching out to FfF Cloud to download project</source>
+        <translation>Sisäänkirjaudu FfF Cloudiin projektin lataamiseksi</translation>
     </message>
     <message>
         <source>Uploading…</source>
@@ -5114,8 +5114,8 @@ epäonnistui, syy: %2</translation>
         <translation>Haluatko varmasti poistaa kohteen ´%1´?</translation>
     </message>
     <message>
-        <source>QFieldCloud project details fetching failed</source>
-        <translation>QFieldCloud-projektin tietojen hakeminen epäonnistui</translation>
+        <source>FfF Cloud project details fetching failed</source>
+        <translation>FfF Cloud-projektin tietojen hakeminen epäonnistui</translation>
     </message>
     <message>
         <source>Project cloning failed: %1</source>
@@ -5146,8 +5146,8 @@ epäonnistui, syy: %2</translation>
         <translation>Sallitut merkit: 0-9A-Za-z_-</translation>
     </message>
     <message>
-        <source>QFieldCloud</source>
-        <translation>QFieldCloud</translation>
+        <source>FfF Cloud</source>
+        <translation>FfF Cloud</translation>
     </message>
     <message>
         <source>Search for templates</source>
@@ -5205,20 +5205,20 @@ epäonnistui, syy: %2</translation>
 <context>
     <name>QfCloudStatus</name>
     <message>
-        <source>QFieldCloud server is not reachable</source>
-        <translation>QFieldCloud‑palvelimeen ei saada yhteyttä</translation>
+        <source>FfF Cloud server is not reachable</source>
+        <translation>FfF Cloud‑palvelimeen ei saada yhteyttä</translation>
     </message>
     <message>
         <source>The server at %1 could not be reached. Please check your internet connection.</source>
         <translation>Palvelinta %1 ei voitu tavoittaa. Tarkista internet‑yhteytesi.</translation>
     </message>
     <message>
-        <source>QFieldCloud is under maintenance</source>
-        <translation>QFieldCloud on huoltokatkossa</translation>
+        <source>FfF Cloud is under maintenance</source>
+        <translation>FfF Cloud on huoltokatkossa</translation>
     </message>
     <message>
-        <source>QFieldCloud service is degraded</source>
-        <translation>QFieldCloud‑palvelun suorituskyky on heikentynyt</translation>
+        <source>FfF Cloud service is degraded</source>
+        <translation>FfF Cloud‑palvelun suorituskyky on heikentynyt</translation>
     </message>
     <message>
         <source>There is an ongoing incident</source>
@@ -5527,8 +5527,8 @@ epäonnistui, syy: %2</translation>
         <translation>Tiedostotyyppiä ei tueta</translation>
     </message>
     <message>
-        <source>QFieldCloud on-demand attachment error: </source>
-        <translation>QFieldCloud-tilausliitteen virhe:</translation>
+        <source>FfF Cloud on-demand attachment error: </source>
+        <translation>FfF Cloud-tilausliitteen virhe:</translation>
     </message>
     <message>
         <source>Take a photo</source>
@@ -6471,8 +6471,8 @@ Kohteen geometriat yhdistetään kohteeseen &apos;%1&apos;, johon sisällytetä�
         <translation>Lähetä ...</translation>
     </message>
     <message>
-        <source>Push to QFieldCloud</source>
-        <translation>Vie QFieldCloudiin</translation>
+        <source>Push to FfF Cloud</source>
+        <translation>Vie FfF Cloudiin</translation>
     </message>
     <message>
         <source>Export to folder...</source>
@@ -6563,12 +6563,12 @@ Kohteen geometriat yhdistetään kohteeseen &apos;%1&apos;, johon sisällytetä�
         <translation>Lähetä tiedosto(t) WebDAV-palvelimelle</translation>
     </message>
     <message>
-        <source>Push file(s) to QFieldCloud</source>
-        <translation>Vie tiedosto(t) QFieldCloudiin</translation>
+        <source>Push file(s) to FfF Cloud</source>
+        <translation>Vie tiedosto(t) FfF Cloudiin</translation>
     </message>
     <message>
-        <source>Please select one or more files to push to QFieldCloud.</source>
-        <translation>Valitse yksi tai useampi tiedosto viedäksesi ne QFieldCloudiin</translation>
+        <source>Please select one or more files to push to FfF Cloud.</source>
+        <translation>Valitse yksi tai useampi tiedosto viedäksesi ne FfF Cloudiin</translation>
     </message>
     <message>
         <source>Send compressed file(s) to...</source>
@@ -6579,12 +6579,12 @@ Kohteen geometriat yhdistetään kohteeseen &apos;%1&apos;, johon sisällytetä�
         <translation>Poista tiedostoja</translation>
     </message>
     <message>
-        <source>‘%1’ is being uploaded to QFieldCloud</source>
-        <translation>‘%1’ on ladattu QFieldCloud</translation>
+        <source>‘%1’ is being uploaded to FfF Cloud</source>
+        <translation>‘%1’ on ladattu FfF Cloud</translation>
     </message>
     <message>
-        <source>Items being uploaded to QFieldCloud</source>
-        <translation>Kohteita ladataan QFieldCloudiin</translation>
+        <source>Items being uploaded to FfF Cloud</source>
+        <translation>Kohteita ladataan FfF Cloudiin</translation>
     </message>
     <message>
         <source>Remove File(s)</source>
@@ -6706,8 +6706,8 @@ Kohteen geometriat yhdistetään kohteeseen &apos;%1&apos;, johon sisällytetä�
         <translation>Etusivu</translation>
     </message>
     <message>
-        <source>QField files directory</source>
-        <translation>QField tiedostojen hakemisto</translation>
+        <source>FfF files directory</source>
+        <translation>FfF tiedostojen hakemisto</translation>
     </message>
     <message>
         <source>Created projects</source>
@@ -7653,8 +7653,8 @@ Kohteen geometriat yhdistetään kohteeseen &apos;%1&apos;, johon sisällytetä�
         <translation>Varmuuskopioidaanko ja jaetaanko projekti?</translation>
     </message>
     <message>
-        <source>QFieldCloud allows to synchronize and merge the data collected by your team in %1. From small individual projects to large data collection campaigns. </source>
-        <translation>QFieldCloudin avulla voit synkronoida ja yhdistää tiimisi keräämän datan kohteessa %1. Se soveltuu sekä pieniin projekteihin että laajoihin tiedonkeruukampanjoihin.</translation>
+        <source>FfF Cloud allows to synchronize and merge the data collected by your team in %1. From small individual projects to large data collection campaigns. </source>
+        <translation>FfF Cloudin avulla voit synkronoida ja yhdistää tiimisi keräämän datan kohteessa %1. Se soveltuu sekä pieniin projekteihin että laajoihin tiedonkeruukampanjoihin.</translation>
     </message>
     <message>
         <source>Learn more about QFieldCloud here</source>
@@ -8447,9 +8447,9 @@ Kohteen geometriat yhdistetään kohteeseen &apos;%1&apos;, johon sisällytetä�
         <translation>En halua nyt</translation>
     </message>
     <message>
-        <source>QFieldCloud
+        <source>FfF Cloud
 projects</source>
-        <translation>QFieldCloud projektit</translation>
+        <translation>FfF Cloud projektit</translation>
     </message>
     <message>
         <source>Local projects and
@@ -8561,7 +8561,7 @@ project</source>
         <translation>Projektia ei voitu lukea, tiedostoa &quot;%1&quot; ei ole olemassa</translation>
     </message>
     <message>
-        <source>Map printed on %1 using QField</source>
+        <source>Map printed on %1 using FfF</source>
         <translation>Kartta tulostettu kohteeseen %1 käyttäen QFieldiä</translation>
     </message>
     <message>
@@ -9119,12 +9119,12 @@ näyttääksesi toiminnot</translation>
         <translation>Projektin %1 lataus onnistui, sen voi nyt avata</translation>
     </message>
     <message>
-        <source>Changes failed to reach QFieldCloud: %1</source>
-        <translation>Muutosten vienti QFieldCloudiin epäonnistui: %1</translation>
+        <source>Changes failed to reach FfF Cloud: %1</source>
+        <translation>Muutosten vienti FfF Cloudiin epäonnistui: %1</translation>
     </message>
     <message>
-        <source>Changes successfully pushed to QFieldCloud</source>
-        <translation>Muutokset ajettu onnistuneesti QFieldCloudiin</translation>
+        <source>Changes successfully pushed to FfF Cloud</source>
+        <translation>Muutokset ajettu onnistuneesti FfF Cloudiin</translation>
     </message>
     <message>
         <source>Unlock the screen to close project and app</source>
@@ -9227,20 +9227,20 @@ näyttääksesi toiminnot</translation>
         <translation>Vie karttapohja PDF-muotoon käyttämällä määritettyjä projektitulostus- ja atlasasetteluja.</translation>
     </message>
     <message>
-        <source>QFieldCloud</source>
-        <translation>QFieldCloud</translation>
+        <source>FfF Cloud</source>
+        <translation>FfF Cloud</translation>
     </message>
     <message>
-        <source>Upload local changes, synchronize or discard changes to and from QFieldCloud when a cloud project is opened.</source>
-        <translation>Lataa paikalliset muutokset, synkronoi tai hylkää muutokset QFieldCloudiin ja QFieldCloudista, kun pilviprojekti avataan.</translation>
+        <source>Upload local changes, synchronize or discard changes to and from FfF Cloud when a cloud project is opened.</source>
+        <translation>Lataa paikalliset muutokset, synkronoi tai hylkää muutokset FfF Cloudiin ja FfF Cloudista, kun pilviprojekti avataan.</translation>
     </message>
     <message>
         <source>Project folder</source>
         <translation>Projektihakemisto</translation>
     </message>
     <message>
-        <source>Open the project folder to access project files, data sources, and related documents. Useful for managing project resources, manually uploading data to QFieldCloud, and sharing datasets, attachments, and layouts.</source>
-        <translation>Avaa projektikansio käyttääksesi projektitiedostoja, tietolähteitä ja niihin liittyviä dokumentteja. Hyödyllinen projektiresurssien hallintaan, tietojen manuaaliseen lataamiseen QFieldCloudiin sekä tietojoukkojen, liitteiden ja asettelujen jakamiseen.</translation>
+        <source>Open the project folder to access project files, data sources, and related documents. Useful for managing project resources, manually uploading data to FfF Cloud, and sharing datasets, attachments, and layouts.</source>
+        <translation>Avaa projektikansio käyttääksesi projektitiedostoja, tietolähteitä ja niihin liittyviä dokumentteja. Hyödyllinen projektiresurssien hallintaan, tietojen manuaaliseen lataamiseen FfF Cloudiin sekä tietojoukkojen, liitteiden ja asettelujen jakamiseen.</translation>
     </message>
     <message>
         <source>Pending changes are present. Upload these now or press back again to keep them pending and close the cloud project and app.</source>
@@ -9255,12 +9255,12 @@ näyttääksesi toiminnot</translation>
         <translation>Paikalliset muutokset</translation>
     </message>
     <message>
-        <source>This project has pending changes which have not been uploaded yet. Tap the blue cloud button to open the cloud project panel and send them to QFieldCloud.</source>
-        <translation>Tässä projektissa on odottavia muutoksia, joita ei ole vielä ladattu. Napauta sinistä pilvipainiketta avataksesi pilviprojektipaneelin ja lähettääksesi ne QFieldCloudiin.</translation>
+        <source>This project has pending changes which have not been uploaded yet. Tap the blue cloud button to open the cloud project panel and send them to FfF Cloud.</source>
+        <translation>Tässä projektissa on odottavia muutoksia, joita ei ole vielä ladattu. Napauta sinistä pilvipainiketta avataksesi pilviprojektipaneelin ja lähettääksesi ne FfF Cloudiin.</translation>
     </message>
     <message>
-        <source>This cloud project has pending changes which have not been uploaded yet. Open the dashboard using this button, then tap the blue cloud icon to send them to QFieldCloud.</source>
-        <translation>Tässä pilviprojektissa on odottavia muutoksia, joita ei ole vielä ladattu. Avaa hallintapaneeli tästä painikkeesta ja napauta sitten sinistä pilvikuvaketta lähettääksesi ne QFieldCloudiin.</translation>
+        <source>This cloud project has pending changes which have not been uploaded yet. Open the dashboard using this button, then tap the blue cloud icon to send them to FfF Cloud.</source>
+        <translation>Tässä pilviprojektissa on odottavia muutoksia, joita ei ole vielä ladattu. Avaa hallintapaneeli tästä painikkeesta ja napauta sitten sinistä pilvikuvaketta lähettääksesi ne FfF Cloudiin.</translation>
     </message>
     <message>
         <source>Printing %1</source>
@@ -9538,7 +9538,7 @@ näyttääksesi toiminnot</translation>
 <context>
     <name>SystemLoader</name>
     <message>
-        <source>Preparing QField, this is a one time operation that might take some time</source>
+        <source>Preparing FfF, this is a one time operation that might take some time</source>
         <translation type="vanished">Valmistellaan QFieldiä, tämä on kertaluontoinen operaatio, joka voi viedä hieman aikaa</translation>
     </message>
 </context>
@@ -9955,7 +9955,7 @@ näyttääksesi toiminnot</translation>
         <translation type="vanished">Ota yhteyttä</translation>
     </message>
     <message>
-        <source>Hey there, how do you like your experience with QField so far?</source>
+        <source>Hey there, how do you like your experience with FfF so far?</source>
         <translation type="vanished">Hei, mitä pidät kokemuksestasi QFieldin parissa toistaiseksi?</translation>
     </message>
     <message>
@@ -9971,8 +9971,8 @@ näyttääksesi toiminnot</translation>
         <translation type="vanished">Anonymisoitujen mittareiden kerääminen on poistettu käytöstä. Voit ottaa sen uudelleen käyttöön asetuspaneelin kautta.</translation>
     </message>
     <message>
-        <source>To improve stability for everyone, QField collects and sends anonymized metrics.</source>
-        <translation type="vanished">Parantaakseen vakautta kaikille QField kerää ja lähettää anonymisoituja mittareita.</translation>
+        <source>To improve stability for everyone, FfF collects and sends anonymized metrics.</source>
+        <translation type="vanished">Parantaakseen vakautta kaikille FfF kerää ja lähettää anonymisoituja mittareita.</translation>
     </message>
     <message>
         <source>I agree</source>
@@ -9983,8 +9983,8 @@ näyttääksesi toiminnot</translation>
         <translation type="vanished">En halua nyt</translation>
     </message>
     <message>
-        <source>QFieldCloud projects</source>
-        <translation type="vanished">QFieldCloud-projektit</translation>
+        <source>FfF Cloud projects</source>
+        <translation type="vanished">FfF Cloud-projektit</translation>
     </message>
     <message>
         <source>Open local file</source>
@@ -10011,11 +10011,11 @@ näyttääksesi toiminnot</translation>
         <translation type="vanished">Poista viimeisimmistä projekteista</translation>
     </message>
     <message>
-        <source>Welcome to QField. First time using this application? Try out sample projects listed in the list below.</source>
+        <source>Welcome to FfF. First time using this application? Try out sample projects listed in the list below.</source>
         <translation type="vanished">Tervetuloa QFieldiin. Ensimmäinen kerta, kun käytät tätä sovellusta? Kokeile alla olevassa luettelossa lueteltuja esimerkkiprojekteja.</translation>
     </message>
     <message>
-        <source>Welcome back to QField.</source>
+        <source>Welcome back to FfF.</source>
         <translation type="vanished">Tervetuloa takaisin QFieldiin.</translation>
     </message>
 </context>
@@ -10033,8 +10033,8 @@ näyttääksesi toiminnot</translation>
 <context>
     <name>gallery_relation_editor</name>
     <message>
-        <source>QFieldCloud on-demand attachment error: </source>
-        <translation>QFieldCloud-tilausliitteen virhe:</translation>
+        <source>FfF Cloud on-demand attachment error: </source>
+        <translation>FfF Cloud-tilausliitteen virhe:</translation>
     </message>
     <message>
         <source>The external storage&apos;s authentication configuration ID is missing, please insure it is imported into %1</source>
@@ -10231,7 +10231,7 @@ näyttääksesi toiminnot</translation>
         <translation type="vanished">Viestiloki</translation>
     </message>
     <message>
-        <source>About QField</source>
+        <source>About FfF</source>
         <translation type="vanished">Lisätietoja QFieldistä</translation>
     </message>
     <message>
@@ -10243,7 +10243,7 @@ näyttääksesi toiminnot</translation>
         <translation type="vanished">Aktivoidaan paikannuspalvelu</translation>
     </message>
     <message>
-        <source>QField has no permissions to use positioning.</source>
+        <source>FfF has no permissions to use positioning.</source>
         <translation type="vanished">QFieldillä ei ole oikeutta käyttää paikannusta.</translation>
     </message>
     <message>
@@ -10439,12 +10439,12 @@ näyttääksesi toiminnot</translation>
         <translation type="vanished">Projektin %1 lataus onnistui, sen voi nyt avata</translation>
     </message>
     <message>
-        <source>Changes failed to reach QFieldCloud: %1</source>
-        <translation type="vanished">Muutosten vienti QFieldCloudiin epäonnistui: %1</translation>
+        <source>Changes failed to reach FfF Cloud: %1</source>
+        <translation type="vanished">Muutosten vienti FfF Cloudiin epäonnistui: %1</translation>
     </message>
     <message>
-        <source>Changes successfully pushed to QFieldCloud</source>
-        <translation type="vanished">Muutokset ajettu onnistuneesti QFieldCloudiin</translation>
+        <source>Changes successfully pushed to FfF Cloud</source>
+        <translation type="vanished">Muutokset ajettu onnistuneesti FfF Cloudiin</translation>
     </message>
     <message>
         <source>Press back again to close project and app</source>
@@ -10499,7 +10499,7 @@ näyttääksesi toiminnot</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud</source>
+        <source>FfF Cloud</source>
         <translation type="unfinished"/>
     </message>
 </context>

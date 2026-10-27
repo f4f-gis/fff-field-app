@@ -1140,8 +1140,8 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
 <context>
     <name>LocalFilesModel</name>
     <message>
-        <source>QField files directory</source>
-        <translation type="vanished">QField dosyaları dizini</translation>
+        <source>FfF files directory</source>
+        <translation type="vanished">FfF dosyaları dizini</translation>
     </message>
     <message>
         <source>Imported projects</source>
@@ -1902,41 +1902,41 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">QFieldCloud hakkında daha fazla bilgi edinin</translation>
     </message>
     <message>
-        <source>QFieldCloud</source>
+        <source>FfF Cloud</source>
         <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>QFieldCloudPackageLayersFeedback</name>
     <message>
-        <source>Problematic QFieldCloud layer packaging</source>
-        <translation type="vanished">Problemli QFieldCloud katman paketleme</translation>
+        <source>Problematic FfF Cloud layer packaging</source>
+        <translation type="vanished">Problemli FfF Cloud katman paketleme</translation>
     </message>
     <message>
-        <source>Some layers have not been packaged correctly on QFieldCloud. These layers might be misconfigured or their data source is not accessible from the QFieldCloud server.</source>
-        <translation type="vanished">QFieldCloud&apos;da bazı katmanlar doğru bir şekilde paketlenmemiştir. Bu katmanlar yanlış yapılandırılmış olabilir veya veri kaynakları QFieldCloud sunucusundan erişilemez durumdadır.</translation>
+        <source>Some layers have not been packaged correctly on FfF Cloud. These layers might be misconfigured or their data source is not accessible from the FfF Cloud server.</source>
+        <translation type="vanished">FfF Cloud&apos;da bazı katmanlar doğru bir şekilde paketlenmemiştir. Bu katmanlar yanlış yapılandırılmış olabilir veya veri kaynakları FfF Cloud sunucusundan erişilemez durumdadır.</translation>
     </message>
     <message>
-        <source>QFieldCloud had troubles packaging your project</source>
-        <translation type="vanished">QFieldCloud, projenizi paketlerken sorunlar yaşadı</translation>
+        <source>FfF Cloud had troubles packaging your project</source>
+        <translation type="vanished">FfF Cloud, projenizi paketlerken sorunlar yaşadı</translation>
     </message>
     <message>
-        <source>Some layers have not been packaged correctly on QFieldCloud. These layers might be misconfigured or their data source is not accessible from the QFieldCloud server. Please check the logs of the latest packaging job on the qfield.cloud website.</source>
-        <translation type="vanished">QFieldCloud&apos;da bazı katmanlar doğru bir şekilde paketlenmemiştir. Bu katmanlar yanlış yapılandırılmış olabilir veya veri kaynakları QFieldCloud sunucusundan erişilemez durumdadır. Lütfen qfield.cloud web sitesinde en son paketleme işinin günlüklerini kontrol edin.</translation>
+        <source>Some layers have not been packaged correctly on FfF Cloud. These layers might be misconfigured or their data source is not accessible from the FfF Cloud server. Please check the logs of the latest packaging job on the qfield.cloud website.</source>
+        <translation type="vanished">FfF Cloud&apos;da bazı katmanlar doğru bir şekilde paketlenmemiştir. Bu katmanlar yanlış yapılandırılmış olabilir veya veri kaynakları FfF Cloud sunucusundan erişilemez durumdadır. Lütfen qfield.cloud web sitesinde en son paketleme işinin günlüklerini kontrol edin.</translation>
     </message>
 </context>
 <context>
     <name>QFieldCloudPopup</name>
     <message>
-        <source>QFieldCloud</source>
-        <translation type="vanished">QFieldCloud</translation>
+        <source>FfF Cloud</source>
+        <translation type="vanished">FfF Cloud</translation>
     </message>
     <message>
-        <source>The current project is not stored on QFieldCloud.&lt;br&gt;&lt;br&gt;</source>
-        <translation type="vanished">Mevcut proje QFieldCloud&apos;da saklanmamaktadır.&lt;br&gt;&lt;br&gt;</translation>
+        <source>The current project is not stored on FfF Cloud.&lt;br&gt;&lt;br&gt;</source>
+        <translation type="vanished">Mevcut proje FfF Cloud&apos;da saklanmamaktadır.&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
-        <source>Storing projects on QFieldCloud offers seamless synchornization, offline editing, and team management.&lt;br&gt;&lt;br&gt;</source>
+        <source>Storing projects on FfF Cloud offers seamless synchornization, offline editing, and team management.&lt;br&gt;&lt;br&gt;</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1956,24 +1956,24 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">Merhaba &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <source>This QFieldCloud project was first downloaded with another cloud account. Please sign in with the original account for this project to use the QFieldCloud functionality.</source>
-        <translation type="vanished">Bu QFieldCloud projesi ilk olarak başka bir bulut hesabıyla indirildi. Lütfen bu proje için QFieldCloud işlevselliğini kullanmak üzere orijinal hesapla oturum açın.</translation>
+        <source>This FfF Cloud project was first downloaded with another cloud account. Please sign in with the original account for this project to use the FfF Cloud functionality.</source>
+        <translation type="vanished">Bu FfF Cloud projesi ilk olarak başka bir bulut hesabıyla indirildi. Lütfen bu proje için FfF Cloud işlevselliğini kullanmak üzere orijinal hesapla oturum açın.</translation>
     </message>
     <message>
         <source>Downloading %1%…</source>
         <translation type="vanished">İndiriliyor %1%…</translation>
     </message>
     <message>
-        <source>QFieldCloud is preparing the latest data just for you. This might take some time, please hold tight…</source>
-        <translation type="vanished">QFieldCloud, sizin için en son verileri hazırlıyor. Bu biraz zaman alabilir, lütfen bekleyin…</translation>
+        <source>FfF Cloud is preparing the latest data just for you. This might take some time, please hold tight…</source>
+        <translation type="vanished">FfF Cloud, sizin için en son verileri hazırlıyor. Bu biraz zaman alabilir, lütfen bekleyin…</translation>
     </message>
     <message>
         <source>Uploading %1%…</source>
         <translation type="vanished">Yükleniyor %1%…</translation>
     </message>
     <message>
-        <source>QFieldCloud is applying the latest uploaded changes. This might take some time, please hold tight…</source>
-        <translation type="vanished">QFieldCloud, en son yüklenen değişiklikleri uyguluyor. Bu biraz zaman alabilir, lütfen bekleyin…</translation>
+        <source>FfF Cloud is applying the latest uploaded changes. This might take some time, please hold tight…</source>
+        <translation type="vanished">FfF Cloud, en son yüklenen değişiklikleri uyguluyor. Bu biraz zaman alabilir, lütfen bekleyin…</translation>
     </message>
     <message>
         <source>A server error has occured, please try again.</source>
@@ -2000,8 +2000,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">Senkranize Et</translation>
     </message>
     <message>
-        <source>Synchronize the whole project with all modified features and download the freshly updated project with all the applied changes from QFieldCloud.</source>
-        <translation type="vanished">Değiştirilen tüm özelliklerle birlikte projeyi senkronize edin ve QFieldCloud&apos;dan uygulanan tüm değişikliklerle güncellenmiş projeyi indirin.</translation>
+        <source>Synchronize the whole project with all modified features and download the freshly updated project with all the applied changes from FfF Cloud.</source>
+        <translation type="vanished">Değiştirilen tüm özelliklerle birlikte projeyi senkronize edin ve FfF Cloud&apos;dan uygulanan tüm değişikliklerle güncellenmiş projeyi indirin.</translation>
     </message>
     <message>
         <source>Push changes</source>
@@ -2160,7 +2160,7 @@ Projeyi görüntülemeye ve kullanmaya devam edebilseniz de, geri alınamaz veri
         <translation type="unfinished"/>
     </message>
     <message>
-        <source> (see more in the QField error log)…</source>
+        <source> (see more in the FfF error log)…</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2326,8 +2326,8 @@ Projeyi görüntülemeye ve kullanmaya devam edebilseniz de, geri alınamaz veri
         <translation type="vanished">Sistem mesajı: </translation>
     </message>
     <message>
-        <source> (see more in the QField error log)…</source>
-        <translation type="vanished"> (QField hata günlüğünde daha fazla bilgi için bakın)…</translation>
+        <source> (see more in the FfF error log)…</source>
+        <translation type="vanished"> (FfF hata günlüğünde daha fazla bilgi için bakın)…</translation>
     </message>
     <message>
         <source>Failed to copy some of the downloaded files on your device. Check your device storage.</source>
@@ -2337,8 +2337,8 @@ Projeyi görüntülemeye ve kullanmaya devam edebilseniz de, geri alınamaz veri
 <context>
     <name>QFieldCloudScreen</name>
     <message>
-        <source>QFieldCloud Projects</source>
-        <translation type="vanished">QFieldCloud Projeleri</translation>
+        <source>FfF Cloud Projects</source>
+        <translation type="vanished">FfF Cloud Projeleri</translation>
     </message>
     <message>
         <source>Disconnected from the cloud.</source>
@@ -2369,8 +2369,8 @@ Projeyi görüntülemeye ve kullanmaya devam edebilseniz de, geri alınamaz veri
         <translation type="vanished">İndiriliyor, %1% alındı…</translation>
     </message>
     <message>
-        <source>QFieldCloud is preparing the latest data just for you. This might take some time, please hold tight…</source>
-        <translation type="vanished">QFieldCloud, sizin için en son verileri hazırlıyor. Bu biraz zaman alabilir, lütfen bekleyin…</translation>
+        <source>FfF Cloud is preparing the latest data just for you. This might take some time, please hold tight…</source>
+        <translation type="vanished">FfF Cloud, sizin için en son verileri hazırlıyor. Bu biraz zaman alabilir, lütfen bekleyin…</translation>
     </message>
     <message>
         <source>Uploading…</source>
@@ -2612,8 +2612,8 @@ Projeyi görüntülemeye ve kullanmaya devam edebilseniz de, geri alınamaz veri
         <translation type="vanished">Cihaz kamerasını kullan</translation>
     </message>
     <message>
-        <source>If disabled, QField will use a minimalist internal camera instead of the camera app on the device.&lt;br&gt;Tip: Enable this option and install the open camera app to create geo tagged photos.</source>
-        <translation type="vanished">Devre dışı bırakılırsa, QField cihazdaki kamera uygulaması yerine minimalist bir dahili kamera kullanır.&lt;br&gt;İpucu: Bu seçeneği etkinleştirin ve coğrafi etiketli fotoğraflar oluşturmak için açık kamera uygulamasını yükleyin.</translation>
+        <source>If disabled, FfF will use a minimalist internal camera instead of the camera app on the device.&lt;br&gt;Tip: Enable this option and install the open camera app to create geo tagged photos.</source>
+        <translation type="vanished">Devre dışı bırakılırsa, FfF cihazdaki kamera uygulaması yerine minimalist bir dahili kamera kullanır.&lt;br&gt;İpucu: Bu seçeneği etkinleştirin ve coğrafi etiketli fotoğraflar oluşturmak için açık kamera uygulamasını yükleyin.</translation>
     </message>
     <message>
         <source>Fast editing mode</source>
@@ -2644,8 +2644,8 @@ Projeyi görüntülemeye ve kullanmaya devam edebilseniz de, geri alınamaz veri
         <translation type="vanished">Anonimleştirilmiş metrikleri gönder</translation>
     </message>
     <message>
-        <source>If enabled, anonymized metrics will be collected and sent to help improve QField for everyone.</source>
-        <translation type="vanished">Etkinleştirildiğinde, anonimleştirilmiş metrikler toplanacak ve QField&apos;ı herkes için geliştirmeye yardımcı olmak üzere gönderilecektir.</translation>
+        <source>If enabled, anonymized metrics will be collected and sent to help improve FfF for everyone.</source>
+        <translation type="vanished">Etkinleştirildiğinde, anonimleştirilmiş metrikler toplanacak ve FfF&apos;ı herkes için geliştirmeye yardımcı olmak üzere gönderilecektir.</translation>
     </message>
     <message>
         <source>General</source>
@@ -2668,8 +2668,8 @@ Projeyi görüntülemeye ve kullanmaya devam edebilseniz de, geri alınamaz veri
         <translation type="vanished">Arayüz dili:</translation>
     </message>
     <message>
-        <source>To apply the selected user interface language, QField needs to completely shutdown and restart.</source>
-        <translation type="vanished">Seçilen arayüz dilini uygulamak için QField&apos;ın tamamen kapanması ve yeniden başlatılması gerekir.</translation>
+        <source>To apply the selected user interface language, FfF needs to completely shutdown and restart.</source>
+        <translation type="vanished">Seçilen arayüz dilini uygulamak için FfF&apos;ın tamamen kapanması ve yeniden başlatılması gerekir.</translation>
     </message>
     <message>
         <source>system</source>
@@ -2806,8 +2806,8 @@ Bunun yerine minimum cihaz taraması yapmak için iptal edin.</translation>
         <translation type="vanished">Yükseklik doğruluğunu artırmak için dikey grid kaydırması kullanılır.</translation>
     </message>
     <message>
-        <source>QField Settings</source>
-        <translation type="vanished">QField Ayarları</translation>
+        <source>FfF Settings</source>
+        <translation type="vanished">FfF Ayarları</translation>
     </message>
     <message>
         <source>Time of inactivity in seconds before the screen brightness get be dimmed to preserve battery.</source>
@@ -2889,8 +2889,8 @@ Bunun yerine minimum cihaz taraması yapmak için iptal edin.</translation>
         <translation>Doğrulama gerekli</translation>
     </message>
     <message>
-        <source>QFieldCloud Unknown Error</source>
-        <translation>QFieldCloud Bilinmeyen Hata</translation>
+        <source>FfF Cloud Unknown Error</source>
+        <translation>FfF Cloud Bilinmeyen Hata</translation>
     </message>
     <message>
         <source>Status not ok</source>
@@ -2957,8 +2957,8 @@ Bunun yerine minimum cihaz taraması yapmak için iptal edin.</translation>
         <translation>Bulut Kullanıcı Bilgisi</translation>
     </message>
     <message>
-        <source>Please wait while QField installation finalizes.</source>
-        <translation>Lütfen QField kurulumu tamamlanırken bekleyin.</translation>
+        <source>Please wait while FfF installation finalizes.</source>
+        <translation>Lütfen FfF kurulumu tamamlanırken bekleyin.</translation>
     </message>
     <message>
         <source>averaged</source>
@@ -3553,7 +3553,7 @@ Bunun yerine minimum cihaz taraması yapmak için iptal edin.</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Configure a network proxy to route QField&apos;s traffic through a proxy server. Useful for corporate networks and VPNs.</source>
+        <source>Configure a network proxy to route FfF&apos;s traffic through a proxy server. Useful for corporate networks and VPNs.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -4467,11 +4467,11 @@ Projeyi görüntülemeye ve kullanmaya devam edebilseniz de, geri alınamaz veri
 <context>
     <name>QfCloudPackageLayersFeedback</name>
     <message>
-        <source>Some layers have not been packaged correctly. These layers might be misconfigured or their data source is not accessible from the QFieldCloud server.</source>
+        <source>Some layers have not been packaged correctly. These layers might be misconfigured or their data source is not accessible from the FfF Cloud server.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Please check the detailed feedback below and the latest packaging job logs on the QFieldCloud website.</source>
+        <source>Please check the detailed feedback below and the latest packaging job logs on the FfF Cloud website.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -4521,16 +4521,16 @@ Projeyi görüntülemeye ve kullanmaya devam edebilseniz de, geri alınamaz veri
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud</source>
-        <translation>QFieldCloud</translation>
+        <source>FfF Cloud</source>
+        <translation>FfF Cloud</translation>
     </message>
     <message>
-        <source>This QFieldCloud project was first downloaded with another cloud account. Please sign in with the original account for this project to use the QFieldCloud functionality.</source>
-        <translation>Bu QFieldCloud projesi ilk olarak başka bir bulut hesabıyla indirildi. Lütfen bu proje için QFieldCloud işlevselliğini kullanmak üzere orijinal hesapla oturum açın.</translation>
+        <source>This FfF Cloud project was first downloaded with another cloud account. Please sign in with the original account for this project to use the FfF Cloud functionality.</source>
+        <translation>Bu FfF Cloud projesi ilk olarak başka bir bulut hesabıyla indirildi. Lütfen bu proje için FfF Cloud işlevselliğini kullanmak üzere orijinal hesapla oturum açın.</translation>
     </message>
     <message>
-        <source>QFieldCloud is packaging the latest data just for you; this might take some time, please hold tight</source>
-        <translation>QFieldCloud, sizin için en son verileri paketliyor; bu biraz zaman alabilir, lütfen bekleyin</translation>
+        <source>FfF Cloud is packaging the latest data just for you; this might take some time, please hold tight</source>
+        <translation>FfF Cloud, sizin için en son verileri paketliyor; bu biraz zaman alabilir, lütfen bekleyin</translation>
     </message>
     <message>
         <source>Downloading, %1% of %2 fetched</source>
@@ -4541,15 +4541,15 @@ Projeyi görüntülemeye ve kullanmaya devam edebilseniz de, geri alınamaz veri
         <translation>İndiriliyor, %1% alındı</translation>
     </message>
     <message>
-        <source>Reaching out to QFieldCloud to download project</source>
-        <translation>Proje indirmek için QFieldCloud ile iletişime geçiliyor</translation>
+        <source>Reaching out to FfF Cloud to download project</source>
+        <translation>Proje indirmek için FfF Cloud ile iletişime geçiliyor</translation>
     </message>
     <message>
         <source>Pushing changes, %1%…</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud is applying the latest pushed changes. This might take some time, please hold tight…</source>
+        <source>FfF Cloud is applying the latest pushed changes. This might take some time, please hold tight…</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -4557,11 +4557,11 @@ Projeyi görüntülemeye ve kullanmaya devam edebilseniz de, geri alınamaz veri
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Uploading the current project to QFieldCloud.</source>
+        <source>Uploading the current project to FfF Cloud.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>The current project is not stored on QFieldCloud. Storing projects on QFieldCloud offers seamless synchronization, offline editing, and team management.</source>
+        <source>The current project is not stored on FfF Cloud. Storing projects on FfF Cloud offers seamless synchronization, offline editing, and team management.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -4625,7 +4625,7 @@ Projeyi görüntülemeye ve kullanmaya devam edebilseniz de, geri alınamaz veri
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Uploads your edits, then downloads the latest project from QFieldCloud so everything is up to date.</source>
+        <source>Uploads your edits, then downloads the latest project from FfF Cloud so everything is up to date.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -4806,8 +4806,8 @@ Projeyi görüntülemeye ve kullanmaya devam edebilseniz de, geri alınamaz veri
         <translation> Sistem mesajı: </translation>
     </message>
     <message>
-        <source> (see more in the QField error log)…</source>
-        <translation> (QField hata günlüğünde daha fazla bilgi için bakın)…</translation>
+        <source> (see more in the FfF error log)…</source>
+        <translation> (FfF hata günlüğünde daha fazla bilgi için bakın)…</translation>
     </message>
     <message>
         <source>Job creation finished, but the server response is missing required fields: id(string)</source>
@@ -4881,8 +4881,8 @@ Projeyi görüntülemeye ve kullanmaya devam edebilseniz de, geri alınamaz veri
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud is packaging project, hold tight</source>
-        <translation>QFieldCloud, projeyi paketliyor, lütfen bekleyin</translation>
+        <source>FfF Cloud is packaging project, hold tight</source>
+        <translation>FfF Cloud, projeyi paketliyor, lütfen bekleyin</translation>
     </message>
     <message>
         <source>Downloading project</source>
@@ -4974,7 +4974,7 @@ Projeyi görüntülemeye ve kullanmaya devam edebilseniz de, geri alınamaz veri
 <context>
     <name>QfCloudScreen</name>
     <message>
-        <source>QFieldCloud Projects</source>
+        <source>FfF Cloud Projects</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -4998,8 +4998,8 @@ Projeyi görüntülemeye ve kullanmaya devam edebilseniz de, geri alınamaz veri
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud is packaging the latest data just for you; this might take some time, please hold tight</source>
-        <translation>QFieldCloud, sizin için en son verileri paketliyor; bu biraz zaman alabilir, lütfen bekleyin</translation>
+        <source>FfF Cloud is packaging the latest data just for you; this might take some time, please hold tight</source>
+        <translation>FfF Cloud, sizin için en son verileri paketliyor; bu biraz zaman alabilir, lütfen bekleyin</translation>
     </message>
     <message>
         <source>Downloading, %1% of %2 fetched</source>
@@ -5010,8 +5010,8 @@ Projeyi görüntülemeye ve kullanmaya devam edebilseniz de, geri alınamaz veri
         <translation>İndiriliyor, %1% alındı</translation>
     </message>
     <message>
-        <source>Reaching out to QFieldCloud to download project</source>
-        <translation>Proje indirmek için QFieldCloud ile iletişime geçiliyor</translation>
+        <source>Reaching out to FfF Cloud to download project</source>
+        <translation>Proje indirmek için FfF Cloud ile iletişime geçiliyor</translation>
     </message>
     <message>
         <source>Uploading…</source>
@@ -5106,8 +5106,8 @@ Projeyi görüntülemeye ve kullanmaya devam edebilseniz de, geri alınamaz veri
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud project details fetching failed</source>
-        <translation>QFieldCloud proje detayları alınamadı</translation>
+        <source>FfF Cloud project details fetching failed</source>
+        <translation>FfF Cloud proje detayları alınamadı</translation>
     </message>
     <message>
         <source>Project cloning failed: %1</source>
@@ -5138,8 +5138,8 @@ Projeyi görüntülemeye ve kullanmaya devam edebilseniz de, geri alınamaz veri
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud</source>
-        <translation>QFieldCloud</translation>
+        <source>FfF Cloud</source>
+        <translation>FfF Cloud</translation>
     </message>
     <message>
         <source>Search for templates</source>
@@ -5197,7 +5197,7 @@ Projeyi görüntülemeye ve kullanmaya devam edebilseniz de, geri alınamaz veri
 <context>
     <name>QfCloudStatus</name>
     <message>
-        <source>QFieldCloud server is not reachable</source>
+        <source>FfF Cloud server is not reachable</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -5205,11 +5205,11 @@ Projeyi görüntülemeye ve kullanmaya devam edebilseniz de, geri alınamaz veri
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud is under maintenance</source>
+        <source>FfF Cloud is under maintenance</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud service is degraded</source>
+        <source>FfF Cloud service is degraded</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -5519,8 +5519,8 @@ Projeyi görüntülemeye ve kullanmaya devam edebilseniz de, geri alınamaz veri
         <translation>Bu dosya türü işlenemez</translation>
     </message>
     <message>
-        <source>QFieldCloud on-demand attachment error: </source>
-        <translation>QFieldCloud talep üzerine ekleme hatası: </translation>
+        <source>FfF Cloud on-demand attachment error: </source>
+        <translation>FfF Cloud talep üzerine ekleme hatası: </translation>
     </message>
     <message>
         <source>Take a photo</source>
@@ -6457,8 +6457,8 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
         <translation>Gönder...</translation>
     </message>
     <message>
-        <source>Push to QFieldCloud</source>
-        <translation>QFieldCloud&apos;a Gönder</translation>
+        <source>Push to FfF Cloud</source>
+        <translation>FfF Cloud&apos;a Gönder</translation>
     </message>
     <message>
         <source>Export to folder...</source>
@@ -6549,12 +6549,12 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
         <translation>WebDAV&apos;a dosya(lar) yükle</translation>
     </message>
     <message>
-        <source>Push file(s) to QFieldCloud</source>
-        <translation>QFieldCloud&apos;a dosya(lar) gönder</translation>
+        <source>Push file(s) to FfF Cloud</source>
+        <translation>FfF Cloud&apos;a dosya(lar) gönder</translation>
     </message>
     <message>
-        <source>Please select one or more files to push to QFieldCloud.</source>
-        <translation>Lütfen QFieldCloud&apos;a göndermek için bir veya daha fazla dosya seçin.</translation>
+        <source>Please select one or more files to push to FfF Cloud.</source>
+        <translation>Lütfen FfF Cloud&apos;a göndermek için bir veya daha fazla dosya seçin.</translation>
     </message>
     <message>
         <source>Send compressed file(s) to...</source>
@@ -6565,11 +6565,11 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>‘%1’ is being uploaded to QFieldCloud</source>
-        <translation>‘%1’ QFieldCloud&apos;a yükleniyor</translation>
+        <source>‘%1’ is being uploaded to FfF Cloud</source>
+        <translation>‘%1’ FfF Cloud&apos;a yükleniyor</translation>
     </message>
     <message>
-        <source>Items being uploaded to QFieldCloud</source>
+        <source>Items being uploaded to FfF Cloud</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -6692,8 +6692,8 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QField files directory</source>
-        <translation>QField dosyaları dizini</translation>
+        <source>FfF files directory</source>
+        <translation>FfF dosyaları dizini</translation>
     </message>
     <message>
         <source>Created projects</source>
@@ -7639,7 +7639,7 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud allows to synchronize and merge the data collected by your team in %1. From small individual projects to large data collection campaigns. </source>
+        <source>FfF Cloud allows to synchronize and merge the data collected by your team in %1. From small individual projects to large data collection campaigns. </source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -8433,7 +8433,7 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
         <translation>Tercih etmiyorum</translation>
     </message>
     <message>
-        <source>QFieldCloud
+        <source>FfF Cloud
 projects</source>
         <translation type="unfinished"/>
     </message>
@@ -8547,8 +8547,8 @@ project</source>
         <translation>Proje okunamıyor, dosya &quot;%1&quot; mevcut değil</translation>
     </message>
     <message>
-        <source>Map printed on %1 using QField</source>
-        <translation>%1 üzerinde QField kullanılarak harita yazdırıldı</translation>
+        <source>Map printed on %1 using FfF</source>
+        <translation>%1 üzerinde FfF kullanılarak harita yazdırıldı</translation>
     </message>
     <message>
         <source>Could not load resource font: %1</source>
@@ -9104,12 +9104,12 @@ to show actions</source>
         <translation>Proje %1 başarıyla indirildi, şimdi açılabilir durumda</translation>
     </message>
     <message>
-        <source>Changes failed to reach QFieldCloud: %1</source>
-        <translation>Değişiklikler QFieldCloud&apos;a ulaşılamadı: %1</translation>
+        <source>Changes failed to reach FfF Cloud: %1</source>
+        <translation>Değişiklikler FfF Cloud&apos;a ulaşılamadı: %1</translation>
     </message>
     <message>
-        <source>Changes successfully pushed to QFieldCloud</source>
-        <translation>Değişiklikler başarıyla QFieldCloud&apos;a yüklendi</translation>
+        <source>Changes successfully pushed to FfF Cloud</source>
+        <translation>Değişiklikler başarıyla FfF Cloud&apos;a yüklendi</translation>
     </message>
     <message>
         <source>Unlock the screen to close project and app</source>
@@ -9212,11 +9212,11 @@ to show actions</source>
         <translation>Yapılandırılmış proje yazdırma ve atlas düzenlerini kullanarak harita tuvalini PDF&apos;ye aktarın.</translation>
     </message>
     <message>
-        <source>QFieldCloud</source>
-        <translation>QFieldCloud</translation>
+        <source>FfF Cloud</source>
+        <translation>FfF Cloud</translation>
     </message>
     <message>
-        <source>Upload local changes, synchronize or discard changes to and from QFieldCloud when a cloud project is opened.</source>
+        <source>Upload local changes, synchronize or discard changes to and from FfF Cloud when a cloud project is opened.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -9224,8 +9224,8 @@ to show actions</source>
         <translation>Proje klasörü</translation>
     </message>
     <message>
-        <source>Open the project folder to access project files, data sources, and related documents. Useful for managing project resources, manually uploading data to QFieldCloud, and sharing datasets, attachments, and layouts.</source>
-        <translation>Proje klasörünü açarak proje dosyalarına, veri kaynaklarına ve ilgili belgelere erişin. Proje kaynaklarını yönetmek, verileri QFieldCloud&apos;a manuel olarak yüklemek ve veri setlerini, ekleri ve düzenleri paylaşmak için kullanışlıdır.</translation>
+        <source>Open the project folder to access project files, data sources, and related documents. Useful for managing project resources, manually uploading data to FfF Cloud, and sharing datasets, attachments, and layouts.</source>
+        <translation>Proje klasörünü açarak proje dosyalarına, veri kaynaklarına ve ilgili belgelere erişin. Proje kaynaklarını yönetmek, verileri FfF Cloud&apos;a manuel olarak yüklemek ve veri setlerini, ekleri ve düzenleri paylaşmak için kullanışlıdır.</translation>
     </message>
     <message>
         <source>Pending changes are present. Upload these now or press back again to keep them pending and close the cloud project and app.</source>
@@ -9240,11 +9240,11 @@ to show actions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>This project has pending changes which have not been uploaded yet. Tap the blue cloud button to open the cloud project panel and send them to QFieldCloud.</source>
+        <source>This project has pending changes which have not been uploaded yet. Tap the blue cloud button to open the cloud project panel and send them to FfF Cloud.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>This cloud project has pending changes which have not been uploaded yet. Open the dashboard using this button, then tap the blue cloud icon to send them to QFieldCloud.</source>
+        <source>This cloud project has pending changes which have not been uploaded yet. Open the dashboard using this button, then tap the blue cloud icon to send them to FfF Cloud.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -9523,8 +9523,8 @@ to show actions</source>
 <context>
     <name>SystemLoader</name>
     <message>
-        <source>Preparing QField, this is a one time operation that might take some time</source>
-        <translation type="vanished">QField hazırlanıyor, bu biraz zaman alabilecek tek seferlik bir işlemdir</translation>
+        <source>Preparing FfF, this is a one time operation that might take some time</source>
+        <translation type="vanished">FfF hazırlanıyor, bu biraz zaman alabilecek tek seferlik bir işlemdir</translation>
     </message>
 </context>
 <context>
@@ -9940,8 +9940,8 @@ to show actions</source>
         <translation type="vanished">İletişime geç</translation>
     </message>
     <message>
-        <source>Hey there, how do you like your experience with QField so far?</source>
-        <translation type="vanished">Merhaba, QField deneyiminizden şu ana kadar memnun musunuz?</translation>
+        <source>Hey there, how do you like your experience with FfF so far?</source>
+        <translation type="vanished">Merhaba, FfF deneyiminizden şu ana kadar memnun musunuz?</translation>
     </message>
     <message>
         <source>That&apos;s great! We&apos;d love for you to click on the button below and leave a comment on the store.</source>
@@ -9956,8 +9956,8 @@ to show actions</source>
         <translation type="vanished">Anonimleştirilmiş metrik toplama devre dışı bırakıldı. Ayarlar panelinden tekrar etkinleştirebilirsiniz.</translation>
     </message>
     <message>
-        <source>To improve stability for everyone, QField collects and sends anonymized metrics.</source>
-        <translation type="vanished">Herkes için kararlılığı artırmak amacıyla QField anonimleştirilmiş metrikler toplar ve gönderir.</translation>
+        <source>To improve stability for everyone, FfF collects and sends anonymized metrics.</source>
+        <translation type="vanished">Herkes için kararlılığı artırmak amacıyla FfF anonimleştirilmiş metrikler toplar ve gönderir.</translation>
     </message>
     <message>
         <source>I agree</source>
@@ -9968,8 +9968,8 @@ to show actions</source>
         <translation type="vanished">Tercih etmiyorum</translation>
     </message>
     <message>
-        <source>QFieldCloud projects</source>
-        <translation type="vanished">QFieldCloud projeleri</translation>
+        <source>FfF Cloud projects</source>
+        <translation type="vanished">FfF Cloud projeleri</translation>
     </message>
     <message>
         <source>Open local file</source>
@@ -9996,12 +9996,12 @@ to show actions</source>
         <translation type="vanished">Son Projelerden Kaldır</translation>
     </message>
     <message>
-        <source>Welcome to QField. First time using this application? Try out sample projects listed in the list below.</source>
-        <translation type="vanished">QField&apos;a hoş geldiniz. Bu uygulamayı ilk kez mi kullanıyorsunuz? Aşağıda listelenen örnek projeleri deneyin.</translation>
+        <source>Welcome to FfF. First time using this application? Try out sample projects listed in the list below.</source>
+        <translation type="vanished">FfF&apos;a hoş geldiniz. Bu uygulamayı ilk kez mi kullanıyorsunuz? Aşağıda listelenen örnek projeleri deneyin.</translation>
     </message>
     <message>
-        <source>Welcome back to QField.</source>
-        <translation type="vanished">QField&apos;a tekrar hoşgeldiniz.</translation>
+        <source>Welcome back to FfF.</source>
+        <translation type="vanished">FfF&apos;a tekrar hoşgeldiniz.</translation>
     </message>
 </context>
 <context>
@@ -10018,8 +10018,8 @@ to show actions</source>
 <context>
     <name>gallery_relation_editor</name>
     <message>
-        <source>QFieldCloud on-demand attachment error: </source>
-        <translation>QFieldCloud talep üzerine ekleme hatası: </translation>
+        <source>FfF Cloud on-demand attachment error: </source>
+        <translation>FfF Cloud talep üzerine ekleme hatası: </translation>
     </message>
     <message>
         <source>The external storage&apos;s authentication configuration ID is missing, please insure it is imported into %1</source>
@@ -10216,8 +10216,8 @@ to show actions</source>
         <translation type="vanished">Mesaj Günlüğü</translation>
     </message>
     <message>
-        <source>About QField</source>
-        <translation type="vanished">QField Hakkında</translation>
+        <source>About FfF</source>
+        <translation type="vanished">FfF Hakkında</translation>
     </message>
     <message>
         <source>Select template below</source>
@@ -10228,8 +10228,8 @@ to show actions</source>
         <translation type="vanished">Konumlandırma hizmeti aktifleştiriliyor</translation>
     </message>
     <message>
-        <source>QField has no permissions to use positioning.</source>
-        <translation type="vanished">QField&apos;ın konumu kullanmak için izni yok</translation>
+        <source>FfF has no permissions to use positioning.</source>
+        <translation type="vanished">FfF&apos;ın konumu kullanmak için izni yok</translation>
     </message>
     <message>
         <source>Map Canvas Options</source>
@@ -10424,12 +10424,12 @@ to show actions</source>
         <translation type="vanished">Proje %1 başarıyla indirildi, şimdi açılabilir durumda</translation>
     </message>
     <message>
-        <source>Changes failed to reach QFieldCloud: %1</source>
-        <translation type="vanished">Değişiklikler QFieldCloud&apos;a ulaşılamadı: %1</translation>
+        <source>Changes failed to reach FfF Cloud: %1</source>
+        <translation type="vanished">Değişiklikler FfF Cloud&apos;a ulaşılamadı: %1</translation>
     </message>
     <message>
-        <source>Changes successfully pushed to QFieldCloud</source>
-        <translation type="vanished">Değişiklikler başarıyla QFieldCloud&apos;a yüklendi</translation>
+        <source>Changes successfully pushed to FfF Cloud</source>
+        <translation type="vanished">Değişiklikler başarıyla FfF Cloud&apos;a yüklendi</translation>
     </message>
     <message>
         <source>Press back again to close project and app</source>
@@ -10484,7 +10484,7 @@ to show actions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud</source>
+        <source>FfF Cloud</source>
         <translation type="unfinished"/>
     </message>
 </context>

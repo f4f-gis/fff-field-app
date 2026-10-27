@@ -1141,8 +1141,8 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
 <context>
     <name>LocalFilesModel</name>
     <message>
-        <source>QField files directory</source>
-        <translation type="vanished">QField கோப்புகளின் அடைவு</translation>
+        <source>FfF files directory</source>
+        <translation type="vanished">FfF கோப்புகளின் அடைவு</translation>
     </message>
     <message>
         <source>Imported projects</source>
@@ -1903,42 +1903,42 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">QFieldCloud பற்றி மேலும் அறிக</translation>
     </message>
     <message>
-        <source>QFieldCloud</source>
+        <source>FfF Cloud</source>
         <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>QFieldCloudPackageLayersFeedback</name>
     <message>
-        <source>Problematic QFieldCloud layer packaging</source>
-        <translation type="vanished">பிரச்சனைக்குரிய QFieldCloud லேயர் பேக்கேசிங்</translation>
+        <source>Problematic FfF Cloud layer packaging</source>
+        <translation type="vanished">பிரச்சனைக்குரிய FfF Cloud லேயர் பேக்கேசிங்</translation>
     </message>
     <message>
-        <source>Some layers have not been packaged correctly on QFieldCloud. These layers might be misconfigured or their data source is not accessible from the QFieldCloud server.</source>
-        <translation type="vanished">QFieldCloud இல் சில அடுக்குகள் சரியாக தொகுக்கப்படவில்லை. இந்த அடுக்குகள் தவறாக உள்ளமைக்கப்படலாம் அல்லது அவற்றின் தரவு மூலத்தை QFieldCloud சேவையகத்திலிருந்து அணுக முடியாது.</translation>
+        <source>Some layers have not been packaged correctly on FfF Cloud. These layers might be misconfigured or their data source is not accessible from the FfF Cloud server.</source>
+        <translation type="vanished">FfF Cloud இல் சில அடுக்குகள் சரியாக தொகுக்கப்படவில்லை. இந்த அடுக்குகள் தவறாக உள்ளமைக்கப்படலாம் அல்லது அவற்றின் தரவு மூலத்தை FfF Cloud சேவையகத்திலிருந்து அணுக முடியாது.</translation>
     </message>
     <message>
-        <source>QFieldCloud had troubles packaging your project</source>
-        <translation type="vanished">QFieldCloud இல் உங்கள் திட்டத்தை பேக்கேசிங் செய்வதில் சிக்கல் ஏற்பட்டது</translation>
+        <source>FfF Cloud had troubles packaging your project</source>
+        <translation type="vanished">FfF Cloud இல் உங்கள் திட்டத்தை பேக்கேசிங் செய்வதில் சிக்கல் ஏற்பட்டது</translation>
     </message>
     <message>
-        <source>Some layers have not been packaged correctly on QFieldCloud. These layers might be misconfigured or their data source is not accessible from the QFieldCloud server. Please check the logs of the latest packaging job on the qfield.cloud website.</source>
-        <translation type="vanished">QFieldCloud இல் சில அடுக்குகள் சரியாக தொகுக்கப்படவில்லை. இந்த அடுக்குகள் தவறாக உள்ளமைக்கப்படலாம் அல்லது அவற்றின் தரவு மூலத்தை QFieldCloud சேவையகத்திலிருந்து அணுக முடியாது. qfield.cloud இணையதளத்தில் அண்மைக் கால பேக்கேசிங் வேலையின் பதிவுகளை சரிபார்க்கவும்.</translation>
+        <source>Some layers have not been packaged correctly on FfF Cloud. These layers might be misconfigured or their data source is not accessible from the FfF Cloud server. Please check the logs of the latest packaging job on the qfield.cloud website.</source>
+        <translation type="vanished">FfF Cloud இல் சில அடுக்குகள் சரியாக தொகுக்கப்படவில்லை. இந்த அடுக்குகள் தவறாக உள்ளமைக்கப்படலாம் அல்லது அவற்றின் தரவு மூலத்தை FfF Cloud சேவையகத்திலிருந்து அணுக முடியாது. qfield.cloud இணையதளத்தில் அண்மைக் கால பேக்கேசிங் வேலையின் பதிவுகளை சரிபார்க்கவும்.</translation>
     </message>
 </context>
 <context>
     <name>QFieldCloudPopup</name>
     <message>
-        <source>QFieldCloud</source>
-        <translation type="vanished">QFieldCloud</translation>
+        <source>FfF Cloud</source>
+        <translation type="vanished">FfF Cloud</translation>
     </message>
     <message>
-        <source>The current project is not stored on QFieldCloud.&lt;br&gt;&lt;br&gt;</source>
-        <translation type="vanished">தற்போதைய திட்டம் QFieldCloud இல் சேமிக்கப்படவில்லை.&lt;br&gt;&lt;br&gt;</translation>
+        <source>The current project is not stored on FfF Cloud.&lt;br&gt;&lt;br&gt;</source>
+        <translation type="vanished">தற்போதைய திட்டம் FfF Cloud இல் சேமிக்கப்படவில்லை.&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
-        <source>Storing projects on QFieldCloud offers seamless synchornization, offline editing, and team management.&lt;br&gt;&lt;br&gt;</source>
-        <translation type="vanished">QFieldCloud இல் திட்டப்பணியை சேமிப்பது தடையற்ற ஒத்திசைவு, இணைப்பில்லாத திருத்துதல் மற்றும் குழு மேலாண்மை ஆகியவற்றை வழங்குகிறது.&lt;br&gt;&lt;br&gt;</translation>
+        <source>Storing projects on FfF Cloud offers seamless synchornization, offline editing, and team management.&lt;br&gt;&lt;br&gt;</source>
+        <translation type="vanished">FfF Cloud இல் திட்டப்பணியை சேமிப்பது தடையற்ற ஒத்திசைவு, இணைப்பில்லாத திருத்துதல் மற்றும் குழு மேலாண்மை ஆகியவற்றை வழங்குகிறது.&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>Learn more about QFieldCloud</source>
@@ -1957,24 +1957,24 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">வாழ்த்துக்கள் &lt;strong&gt;% 1&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <source>This QFieldCloud project was first downloaded with another cloud account. Please sign in with the original account for this project to use the QFieldCloud functionality.</source>
-        <translation type="vanished">இந்த QFieldCloud திட்டம் முதலில் வேறொரு முகில் கணக்குடன் பதிவிறக்கப்பட்டது. QFieldCloud செயல்பாட்டைப் பயன்படுத்த, இந்தத் திட்டத்திற்கான அசல் கணக்கில் உள்நுழையவும்.</translation>
+        <source>This FfF Cloud project was first downloaded with another cloud account. Please sign in with the original account for this project to use the FfF Cloud functionality.</source>
+        <translation type="vanished">இந்த FfF Cloud திட்டம் முதலில் வேறொரு முகில் கணக்குடன் பதிவிறக்கப்பட்டது. FfF Cloud செயல்பாட்டைப் பயன்படுத்த, இந்தத் திட்டத்திற்கான அசல் கணக்கில் உள்நுழையவும்.</translation>
     </message>
     <message>
         <source>Downloading %1%…</source>
         <translation type="vanished">% 1% பதிவிறக்குகிறது…</translation>
     </message>
     <message>
-        <source>QFieldCloud is preparing the latest data just for you. This might take some time, please hold tight…</source>
-        <translation type="vanished">QFieldCloud உங்களுக்கான அண்மைக் கால தரவைத் தயாரிக்கிறது. இதற்கு சிறிது நேரம் ஆகலாம், தயவுசெய்து இறுக்கமாகப் பிடித்துக் கொள்ளுங்கள்...</translation>
+        <source>FfF Cloud is preparing the latest data just for you. This might take some time, please hold tight…</source>
+        <translation type="vanished">FfF Cloud உங்களுக்கான அண்மைக் கால தரவைத் தயாரிக்கிறது. இதற்கு சிறிது நேரம் ஆகலாம், தயவுசெய்து இறுக்கமாகப் பிடித்துக் கொள்ளுங்கள்...</translation>
     </message>
     <message>
         <source>Uploading %1%…</source>
         <translation type="vanished">% 1% பதிவேற்றுகிறது…</translation>
     </message>
     <message>
-        <source>QFieldCloud is applying the latest uploaded changes. This might take some time, please hold tight…</source>
-        <translation type="vanished">QFieldCloud அண்மைக் கால பதிவேற்றப்பட்ட மாற்றங்களைப் பயன்படுத்துகிறது. இதற்கு சிறிது நேரம் ஆகலாம், தயவுசெய்து இறுக்கமாகப் பிடித்துக் கொள்ளுங்கள்...</translation>
+        <source>FfF Cloud is applying the latest uploaded changes. This might take some time, please hold tight…</source>
+        <translation type="vanished">FfF Cloud அண்மைக் கால பதிவேற்றப்பட்ட மாற்றங்களைப் பயன்படுத்துகிறது. இதற்கு சிறிது நேரம் ஆகலாம், தயவுசெய்து இறுக்கமாகப் பிடித்துக் கொள்ளுங்கள்...</translation>
     </message>
     <message>
         <source>A server error has occured, please try again.</source>
@@ -2001,8 +2001,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">ஒத்திசைக்கவும்</translation>
     </message>
     <message>
-        <source>Synchronize the whole project with all modified features and download the freshly updated project with all the applied changes from QFieldCloud.</source>
-        <translation type="vanished">அனைத்து மாற்றியமைக்கப்பட்ட அம்சங்களுடன் முழு திட்டத்தையும் ஒத்திசைக்கவும் மற்றும் QFieldCloud இலிருந்து பயன்படுத்தப்பட்ட அனைத்து மாற்றங்களுடன் புதிதாக புதுப்பிக்கப்பட்ட திட்டத்தைப் பதிவிறக்கவும்.</translation>
+        <source>Synchronize the whole project with all modified features and download the freshly updated project with all the applied changes from FfF Cloud.</source>
+        <translation type="vanished">அனைத்து மாற்றியமைக்கப்பட்ட அம்சங்களுடன் முழு திட்டத்தையும் ஒத்திசைக்கவும் மற்றும் FfF Cloud இலிருந்து பயன்படுத்தப்பட்ட அனைத்து மாற்றங்களுடன் புதிதாக புதுப்பிக்கப்பட்ட திட்டத்தைப் பதிவிறக்கவும்.</translation>
     </message>
     <message>
         <source>Push changes</source>
@@ -2161,7 +2161,7 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="unfinished"/>
     </message>
     <message>
-        <source> (see more in the QField error log)…</source>
+        <source> (see more in the FfF error log)…</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2327,8 +2327,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">கணினி செய்தி:</translation>
     </message>
     <message>
-        <source> (see more in the QField error log)…</source>
-        <translation type="vanished">(QField பிழை பதிவில் மேலும் பார்க்கவும்)...</translation>
+        <source> (see more in the FfF error log)…</source>
+        <translation type="vanished">(FfF பிழை பதிவில் மேலும் பார்க்கவும்)...</translation>
     </message>
     <message>
         <source>Failed to copy some of the downloaded files on your device. Check your device storage.</source>
@@ -2338,8 +2338,8 @@ While you can still view and use the project, it is strongly recommended to rese
 <context>
     <name>QFieldCloudScreen</name>
     <message>
-        <source>QFieldCloud Projects</source>
-        <translation type="vanished">QFieldCloud திட்டங்கள்</translation>
+        <source>FfF Cloud Projects</source>
+        <translation type="vanished">FfF Cloud திட்டங்கள்</translation>
     </message>
     <message>
         <source>Disconnected from the cloud.</source>
@@ -2370,8 +2370,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">பதிவிறக்குகிறது, %1% பெறப்பட்டது…</translation>
     </message>
     <message>
-        <source>QFieldCloud is preparing the latest data just for you. This might take some time, please hold tight…</source>
-        <translation type="vanished">QFieldCloud உங்களுக்கான அண்மைக் கால தரவைத் தயாரிக்கிறது. இதற்கு சிறிது நேரம் ஆகலாம், தயவுசெய்து இறுக்கமாகப் பிடித்துக் கொள்ளுங்கள்...</translation>
+        <source>FfF Cloud is preparing the latest data just for you. This might take some time, please hold tight…</source>
+        <translation type="vanished">FfF Cloud உங்களுக்கான அண்மைக் கால தரவைத் தயாரிக்கிறது. இதற்கு சிறிது நேரம் ஆகலாம், தயவுசெய்து இறுக்கமாகப் பிடித்துக் கொள்ளுங்கள்...</translation>
     </message>
     <message>
         <source>Uploading…</source>
@@ -2613,8 +2613,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">சொந்த கேமராவைப் பயன்படுத்தவும்</translation>
     </message>
     <message>
-        <source>If disabled, QField will use a minimalist internal camera instead of the camera app on the device.&lt;br&gt;Tip: Enable this option and install the open camera app to create geo tagged photos.</source>
-        <translation type="vanished">முடக்கப்பட்டிருந்தால், சாதனத்தில் கேமரா பயன்பாட்டிற்குப் பதிலாக QField குறைந்தபட்ச உள் கேமராவைப் பயன்படுத்தும்.&lt;br&gt;உதவிக்குறிப்பு: உலகம் குறியிடப்பட்ட புகைப்படங்களை உருவாக்க, இந்த விருப்பத்தை இயக்கி, திறந்த கேமரா பயன்பாட்டை நிறுவவும்.</translation>
+        <source>If disabled, FfF will use a minimalist internal camera instead of the camera app on the device.&lt;br&gt;Tip: Enable this option and install the open camera app to create geo tagged photos.</source>
+        <translation type="vanished">முடக்கப்பட்டிருந்தால், சாதனத்தில் கேமரா பயன்பாட்டிற்குப் பதிலாக FfF குறைந்தபட்ச உள் கேமராவைப் பயன்படுத்தும்.&lt;br&gt;உதவிக்குறிப்பு: உலகம் குறியிடப்பட்ட புகைப்படங்களை உருவாக்க, இந்த விருப்பத்தை இயக்கி, திறந்த கேமரா பயன்பாட்டை நிறுவவும்.</translation>
     </message>
     <message>
         <source>Fast editing mode</source>
@@ -2645,8 +2645,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">அநாமதேய அளவீடுகளை அனுப்பவும்</translation>
     </message>
     <message>
-        <source>If enabled, anonymized metrics will be collected and sent to help improve QField for everyone.</source>
-        <translation type="vanished">இயக்கப்பட்டால், அநாமதேய அளவீடுகள் சேகரிக்கப்பட்டு அனைவருக்கும் QField ஐ மேம்படுத்த உதவுவதற்காக அனுப்பப்படும்.</translation>
+        <source>If enabled, anonymized metrics will be collected and sent to help improve FfF for everyone.</source>
+        <translation type="vanished">இயக்கப்பட்டால், அநாமதேய அளவீடுகள் சேகரிக்கப்பட்டு அனைவருக்கும் FfF ஐ மேம்படுத்த உதவுவதற்காக அனுப்பப்படும்.</translation>
     </message>
     <message>
         <source>General</source>
@@ -2669,8 +2669,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">பயனர் இடைமுக மொழி:</translation>
     </message>
     <message>
-        <source>To apply the selected user interface language, QField needs to completely shutdown and restart.</source>
-        <translation type="vanished">தேர்ந்தெடுக்கப்பட்ட பயனர் இடைமுக மொழியைப் பயன்படுத்த, QField முழுமையாக பணிநிறுத்தப்பட்டு மறுதொடக்கம் செய்ய வேண்டும்.</translation>
+        <source>To apply the selected user interface language, FfF needs to completely shutdown and restart.</source>
+        <translation type="vanished">தேர்ந்தெடுக்கப்பட்ட பயனர் இடைமுக மொழியைப் பயன்படுத்த, FfF முழுமையாக பணிநிறுத்தப்பட்டு மறுதொடக்கம் செய்ய வேண்டும்.</translation>
     </message>
     <message>
         <source>system</source>
@@ -2807,8 +2807,8 @@ Cancel to make a minimal device scan instead.</source>
         <translation type="vanished">உயரத்தின் துல்லியத்தை அதிகரிக்க செங்குத்து கட்டம் மாற்றம் பயன்படுத்தப்படுகிறது.</translation>
     </message>
     <message>
-        <source>QField Settings</source>
-        <translation type="vanished">QField அமைப்புகள்</translation>
+        <source>FfF Settings</source>
+        <translation type="vanished">FfF அமைப்புகள்</translation>
     </message>
     <message>
         <source>Time of inactivity in seconds before the screen brightness get be dimmed to preserve battery.</source>
@@ -2890,8 +2890,8 @@ Cancel to make a minimal device scan instead.</source>
         <translation>ஏற்பு தேவை</translation>
     </message>
     <message>
-        <source>QFieldCloud Unknown Error</source>
-        <translation>QFieldCloud அறியப்படாத பிழை</translation>
+        <source>FfF Cloud Unknown Error</source>
+        <translation>FfF Cloud அறியப்படாத பிழை</translation>
     </message>
     <message>
         <source>Status not ok</source>
@@ -2958,8 +2958,8 @@ Cancel to make a minimal device scan instead.</source>
         <translation>முகில் பயனர் செய்தி</translation>
     </message>
     <message>
-        <source>Please wait while QField installation finalizes.</source>
-        <translation>QField நிறுவல் முடிவடையும் வரை காத்திருக்கவும்.</translation>
+        <source>Please wait while FfF installation finalizes.</source>
+        <translation>FfF நிறுவல் முடிவடையும் வரை காத்திருக்கவும்.</translation>
     </message>
     <message>
         <source>averaged</source>
@@ -3554,7 +3554,7 @@ Cancel to make a minimal device scan instead.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Configure a network proxy to route QField&apos;s traffic through a proxy server. Useful for corporate networks and VPNs.</source>
+        <source>Configure a network proxy to route FfF&apos;s traffic through a proxy server. Useful for corporate networks and VPNs.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -4468,11 +4468,11 @@ While you can still view and use the project, it is strongly recommended to rese
 <context>
     <name>QfCloudPackageLayersFeedback</name>
     <message>
-        <source>Some layers have not been packaged correctly. These layers might be misconfigured or their data source is not accessible from the QFieldCloud server.</source>
+        <source>Some layers have not been packaged correctly. These layers might be misconfigured or their data source is not accessible from the FfF Cloud server.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Please check the detailed feedback below and the latest packaging job logs on the QFieldCloud website.</source>
+        <source>Please check the detailed feedback below and the latest packaging job logs on the FfF Cloud website.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -4522,16 +4522,16 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud</source>
-        <translation>QFieldCloud</translation>
+        <source>FfF Cloud</source>
+        <translation>FfF Cloud</translation>
     </message>
     <message>
-        <source>This QFieldCloud project was first downloaded with another cloud account. Please sign in with the original account for this project to use the QFieldCloud functionality.</source>
-        <translation>இந்த QFieldCloud திட்டம் முதலில் வேறொரு முகில் கணக்குடன் பதிவிறக்கப்பட்டது. QFieldCloud செயல்பாட்டைப் பயன்படுத்த, இந்தத் திட்டத்திற்கான அசல் கணக்கில் உள்நுழையவும்.</translation>
+        <source>This FfF Cloud project was first downloaded with another cloud account. Please sign in with the original account for this project to use the FfF Cloud functionality.</source>
+        <translation>இந்த FfF Cloud திட்டம் முதலில் வேறொரு முகில் கணக்குடன் பதிவிறக்கப்பட்டது. FfF Cloud செயல்பாட்டைப் பயன்படுத்த, இந்தத் திட்டத்திற்கான அசல் கணக்கில் உள்நுழையவும்.</translation>
     </message>
     <message>
-        <source>QFieldCloud is packaging the latest data just for you; this might take some time, please hold tight</source>
-        <translation>QFieldCloud உங்களுக்கான அண்மைக் கால தரவை பேக்கேசிங் செய்கிறது; இதற்கு சிறிது நேரம் ஆகலாம், தயவுசெய்து இறுக்கமாகப் பிடித்துக் கொள்ளுங்கள்</translation>
+        <source>FfF Cloud is packaging the latest data just for you; this might take some time, please hold tight</source>
+        <translation>FfF Cloud உங்களுக்கான அண்மைக் கால தரவை பேக்கேசிங் செய்கிறது; இதற்கு சிறிது நேரம் ஆகலாம், தயவுசெய்து இறுக்கமாகப் பிடித்துக் கொள்ளுங்கள்</translation>
     </message>
     <message>
         <source>Downloading, %1% of %2 fetched</source>
@@ -4542,27 +4542,27 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation>பதிவிறக்குகிறது, %1% பெறப்பட்டது</translation>
     </message>
     <message>
-        <source>Reaching out to QFieldCloud to download project</source>
-        <translation>திட்டத்தைப் பதிவிறக்க QFieldCloud ஐ அணுகவும்</translation>
+        <source>Reaching out to FfF Cloud to download project</source>
+        <translation>திட்டத்தைப் பதிவிறக்க FfF Cloud ஐ அணுகவும்</translation>
     </message>
     <message>
         <source>Pushing changes, %1%…</source>
         <translation>மாற்றங்களைத் தள்ளுகிறது, % 1%…</translation>
     </message>
     <message>
-        <source>QFieldCloud is applying the latest pushed changes. This might take some time, please hold tight…</source>
-        <translation>QFieldCloud அண்மைக் கால மாற்றப்பட்ட மாற்றங்களைப் பயன்படுத்துகிறது. இதற்கு சிறிது நேரம் ஆகலாம், தயவுசெய்து இறுக்கமாகப் பிடித்துக் கொள்ளுங்கள்...</translation>
+        <source>FfF Cloud is applying the latest pushed changes. This might take some time, please hold tight…</source>
+        <translation>FfF Cloud அண்மைக் கால மாற்றப்பட்ட மாற்றங்களைப் பயன்படுத்துகிறது. இதற்கு சிறிது நேரம் ஆகலாம், தயவுசெய்து இறுக்கமாகப் பிடித்துக் கொள்ளுங்கள்...</translation>
     </message>
     <message>
         <source>Cloudify project</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Uploading the current project to QFieldCloud.</source>
-        <translation>தற்போதைய திட்டத்தை QFieldCloud இல் பதிவேற்றுகிறது.</translation>
+        <source>Uploading the current project to FfF Cloud.</source>
+        <translation>தற்போதைய திட்டத்தை FfF Cloud இல் பதிவேற்றுகிறது.</translation>
     </message>
     <message>
-        <source>The current project is not stored on QFieldCloud. Storing projects on QFieldCloud offers seamless synchronization, offline editing, and team management.</source>
+        <source>The current project is not stored on FfF Cloud. Storing projects on FfF Cloud offers seamless synchronization, offline editing, and team management.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -4626,7 +4626,7 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Uploads your edits, then downloads the latest project from QFieldCloud so everything is up to date.</source>
+        <source>Uploads your edits, then downloads the latest project from FfF Cloud so everything is up to date.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -4807,8 +4807,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation>கணினி செய்தி:</translation>
     </message>
     <message>
-        <source> (see more in the QField error log)…</source>
-        <translation>(QField பிழை பதிவில் மேலும் பார்க்கவும்)...</translation>
+        <source> (see more in the FfF error log)…</source>
+        <translation>(FfF பிழை பதிவில் மேலும் பார்க்கவும்)...</translation>
     </message>
     <message>
         <source>Job creation finished, but the server response is missing required fields: id(string)</source>
@@ -4882,8 +4882,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud is packaging project, hold tight</source>
-        <translation>QFieldCloud என்பது பேக்கேசிங் திட்டம், இறுக்கமாகப் பிடித்துக் கொள்ளுங்கள்</translation>
+        <source>FfF Cloud is packaging project, hold tight</source>
+        <translation>FfF Cloud என்பது பேக்கேசிங் திட்டம், இறுக்கமாகப் பிடித்துக் கொள்ளுங்கள்</translation>
     </message>
     <message>
         <source>Downloading project</source>
@@ -4975,7 +4975,7 @@ While you can still view and use the project, it is strongly recommended to rese
 <context>
     <name>QfCloudScreen</name>
     <message>
-        <source>QFieldCloud Projects</source>
+        <source>FfF Cloud Projects</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -4999,8 +4999,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud is packaging the latest data just for you; this might take some time, please hold tight</source>
-        <translation>QFieldCloud உங்களுக்கான அண்மைக் கால தரவை பேக்கேசிங் செய்கிறது; இதற்கு சிறிது நேரம் ஆகலாம், தயவுசெய்து இறுக்கமாகப் பிடித்துக் கொள்ளுங்கள்</translation>
+        <source>FfF Cloud is packaging the latest data just for you; this might take some time, please hold tight</source>
+        <translation>FfF Cloud உங்களுக்கான அண்மைக் கால தரவை பேக்கேசிங் செய்கிறது; இதற்கு சிறிது நேரம் ஆகலாம், தயவுசெய்து இறுக்கமாகப் பிடித்துக் கொள்ளுங்கள்</translation>
     </message>
     <message>
         <source>Downloading, %1% of %2 fetched</source>
@@ -5011,8 +5011,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation>பதிவிறக்குகிறது, %1% பெறப்பட்டது</translation>
     </message>
     <message>
-        <source>Reaching out to QFieldCloud to download project</source>
-        <translation>திட்டத்தைப் பதிவிறக்க QFieldCloud ஐ அணுகவும்</translation>
+        <source>Reaching out to FfF Cloud to download project</source>
+        <translation>திட்டத்தைப் பதிவிறக்க FfF Cloud ஐ அணுகவும்</translation>
     </message>
     <message>
         <source>Uploading…</source>
@@ -5107,8 +5107,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation>`%1` ஐ நிச்சயமாக அகற்ற விரும்புகிறீர்களா?</translation>
     </message>
     <message>
-        <source>QFieldCloud project details fetching failed</source>
-        <translation>QFieldCloud திட்ட விவரங்களைப் பெறுவதில் தோல்வி</translation>
+        <source>FfF Cloud project details fetching failed</source>
+        <translation>FfF Cloud திட்ட விவரங்களைப் பெறுவதில் தோல்வி</translation>
     </message>
     <message>
         <source>Project cloning failed: %1</source>
@@ -5139,8 +5139,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud</source>
-        <translation>QFieldCloud</translation>
+        <source>FfF Cloud</source>
+        <translation>FfF Cloud</translation>
     </message>
     <message>
         <source>Search for templates</source>
@@ -5198,20 +5198,20 @@ While you can still view and use the project, it is strongly recommended to rese
 <context>
     <name>QfCloudStatus</name>
     <message>
-        <source>QFieldCloud server is not reachable</source>
-        <translation>QFieldCloud சேவையகத்தை அணுக முடியவில்லை.</translation>
+        <source>FfF Cloud server is not reachable</source>
+        <translation>FfF Cloud சேவையகத்தை அணுக முடியவில்லை.</translation>
     </message>
     <message>
         <source>The server at %1 could not be reached. Please check your internet connection.</source>
         <translation>%1 இல் உள்ள சேவையகத்தை அடைய முடியவில்லை. உங்கள் இணைய இணைப்பைச் சரிபார்க்கவும்.</translation>
     </message>
     <message>
-        <source>QFieldCloud is under maintenance</source>
-        <translation>QFieldCloud பராமரிப்பில் உள்ளது.</translation>
+        <source>FfF Cloud is under maintenance</source>
+        <translation>FfF Cloud பராமரிப்பில் உள்ளது.</translation>
     </message>
     <message>
-        <source>QFieldCloud service is degraded</source>
-        <translation>QFieldCloud சேவை தரமிறக்கப்பட்டுள்ளது.</translation>
+        <source>FfF Cloud service is degraded</source>
+        <translation>FfF Cloud சேவை தரமிறக்கப்பட்டுள்ளது.</translation>
     </message>
     <message>
         <source>There is an ongoing incident</source>
@@ -5520,8 +5520,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation>இந்தக் கோப்பு வகையைக் கையாள முடியாது</translation>
     </message>
     <message>
-        <source>QFieldCloud on-demand attachment error: </source>
-        <translation>QFieldCloud ஆன்-டிமாண்ட் இணைப்பு பிழை:</translation>
+        <source>FfF Cloud on-demand attachment error: </source>
+        <translation>FfF Cloud ஆன்-டிமாண்ட் இணைப்பு பிழை:</translation>
     </message>
     <message>
         <source>Take a photo</source>
@@ -6459,8 +6459,8 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
         <translation>அனுப்பு...</translation>
     </message>
     <message>
-        <source>Push to QFieldCloud</source>
-        <translation>QFieldCloud க்கு தள்ளவும்</translation>
+        <source>Push to FfF Cloud</source>
+        <translation>FfF Cloud க்கு தள்ளவும்</translation>
     </message>
     <message>
         <source>Export to folder...</source>
@@ -6551,12 +6551,12 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
         <translation>WebDAV இல் கோப்பு(களை) பதிவேற்றவும்</translation>
     </message>
     <message>
-        <source>Push file(s) to QFieldCloud</source>
-        <translation>QFieldCloud க்கு கோப்பு(களை) தள்ளவும்</translation>
+        <source>Push file(s) to FfF Cloud</source>
+        <translation>FfF Cloud க்கு கோப்பு(களை) தள்ளவும்</translation>
     </message>
     <message>
-        <source>Please select one or more files to push to QFieldCloud.</source>
-        <translation>QFieldCloud க்கு தள்ள ஒன்று அல்லது அதற்கு மேற்பட்ட கோப்புகளைத் தேர்ந்தெடுக்கவும்.</translation>
+        <source>Please select one or more files to push to FfF Cloud.</source>
+        <translation>FfF Cloud க்கு தள்ள ஒன்று அல்லது அதற்கு மேற்பட்ட கோப்புகளைத் தேர்ந்தெடுக்கவும்.</translation>
     </message>
     <message>
         <source>Send compressed file(s) to...</source>
@@ -6567,12 +6567,12 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
         <translation>கோப்பு(களை) நீக்கு</translation>
     </message>
     <message>
-        <source>‘%1’ is being uploaded to QFieldCloud</source>
-        <translation>QFieldCloud இல் ‘%1’ பதிவேற்றப்படுகிறது</translation>
+        <source>‘%1’ is being uploaded to FfF Cloud</source>
+        <translation>FfF Cloud இல் ‘%1’ பதிவேற்றப்படுகிறது</translation>
     </message>
     <message>
-        <source>Items being uploaded to QFieldCloud</source>
-        <translation>QFieldCloud இல் உருப்படிகள் பதிவேற்றப்படுகின்றன</translation>
+        <source>Items being uploaded to FfF Cloud</source>
+        <translation>FfF Cloud இல் உருப்படிகள் பதிவேற்றப்படுகின்றன</translation>
     </message>
     <message>
         <source>Remove File(s)</source>
@@ -6694,8 +6694,8 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
         <translation>வீடு</translation>
     </message>
     <message>
-        <source>QField files directory</source>
-        <translation>QField கோப்புகளின் அடைவு</translation>
+        <source>FfF files directory</source>
+        <translation>FfF கோப்புகளின் அடைவு</translation>
     </message>
     <message>
         <source>Created projects</source>
@@ -7641,8 +7641,8 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
         <translation>காப்புப்பிரதி &amp; கூட்டுப்பணியா?</translation>
     </message>
     <message>
-        <source>QFieldCloud allows to synchronize and merge the data collected by your team in %1. From small individual projects to large data collection campaigns. </source>
-        <translation>QField இல் உங்கள் குழுவால் சேகரிக்கப்பட்ட தரவை  %1 ஒத்திசைக்கவும் ஒன்றிணைக்கவும் QFieldCloud அனுமதிக்கிறது. சிறிய தனிப்பட்ட திட்டங்கள் முதல் பெரிய தரவு சேகரிப்பு பிரச்சாரங்கள் வரை.</translation>
+        <source>FfF Cloud allows to synchronize and merge the data collected by your team in %1. From small individual projects to large data collection campaigns. </source>
+        <translation>FfF இல் உங்கள் குழுவால் சேகரிக்கப்பட்ட தரவை  %1 ஒத்திசைக்கவும் ஒன்றிணைக்கவும் FfF Cloud அனுமதிக்கிறது. சிறிய தனிப்பட்ட திட்டங்கள் முதல் பெரிய தரவு சேகரிப்பு பிரச்சாரங்கள் வரை.</translation>
     </message>
     <message>
         <source>Learn more about QFieldCloud here</source>
@@ -8435,9 +8435,9 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
         <translation>நான் விரும்பவில்லை</translation>
     </message>
     <message>
-        <source>QFieldCloud
+        <source>FfF Cloud
 projects</source>
-        <translation>QFieldCloud 
+        <translation>FfF Cloud 
 திட்டங்கள்</translation>
     </message>
     <message>
@@ -8552,8 +8552,8 @@ project</source>
         <translation>திட்டத்தைப் படிக்க முடியவில்லை, &quot;% 1&quot; கோப்பு இல்லை</translation>
     </message>
     <message>
-        <source>Map printed on %1 using QField</source>
-        <translation>QField ஐப் பயன்படுத்தி % 1 இல் வரைபடம் அச்சிடப்பட்டது</translation>
+        <source>Map printed on %1 using FfF</source>
+        <translation>FfF ஐப் பயன்படுத்தி % 1 இல் வரைபடம் அச்சிடப்பட்டது</translation>
     </message>
     <message>
         <source>Could not load resource font: %1</source>
@@ -9110,12 +9110,12 @@ to show actions</source>
         <translation>திட்டம் % 1 வெற்றிகரமாக பதிவிறக்கம் செய்யப்பட்டது, அது இப்போது திறக்கக் கிடைக்கிறது</translation>
     </message>
     <message>
-        <source>Changes failed to reach QFieldCloud: %1</source>
-        <translation>மாற்றங்கள் QFieldCloud ஐ அடைய முடியவில்லை:% 1</translation>
+        <source>Changes failed to reach FfF Cloud: %1</source>
+        <translation>மாற்றங்கள் FfF Cloud ஐ அடைய முடியவில்லை:% 1</translation>
     </message>
     <message>
-        <source>Changes successfully pushed to QFieldCloud</source>
-        <translation>மாற்றங்கள் QFieldCloud க்கு வெற்றிகரமாக தள்ளப்பட்டன</translation>
+        <source>Changes successfully pushed to FfF Cloud</source>
+        <translation>மாற்றங்கள் FfF Cloud க்கு வெற்றிகரமாக தள்ளப்பட்டன</translation>
     </message>
     <message>
         <source>Unlock the screen to close project and app</source>
@@ -9218,11 +9218,11 @@ to show actions</source>
         <translation>கட்டமைக்கப்பட்ட திட்ட அச்சு மற்றும் அட்லச் தளவமைப்புகளைப் பயன்படுத்தி வரைபட கேன்வாசை PDF க்கு ஏற்றுமதி செய்யவும்.</translation>
     </message>
     <message>
-        <source>QFieldCloud</source>
-        <translation>QFieldCloud</translation>
+        <source>FfF Cloud</source>
+        <translation>FfF Cloud</translation>
     </message>
     <message>
-        <source>Upload local changes, synchronize or discard changes to and from QFieldCloud when a cloud project is opened.</source>
+        <source>Upload local changes, synchronize or discard changes to and from FfF Cloud when a cloud project is opened.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -9230,8 +9230,8 @@ to show actions</source>
         <translation>திட்ட கோப்புறை</translation>
     </message>
     <message>
-        <source>Open the project folder to access project files, data sources, and related documents. Useful for managing project resources, manually uploading data to QFieldCloud, and sharing datasets, attachments, and layouts.</source>
-        <translation>திட்ட கோப்புகள், தரவு மூலங்கள் மற்றும் தொடர்புடைய ஆவணங்களை அணுக திட்ட கோப்புறையைத் திறக்கவும். திட்ட வளங்களை நிர்வகிப்பதற்கும், QFieldCloud இல் தரவை கைமுறையாக பதிவேற்றுவதற்கும், தரவுத்தொகுப்புகள், இணைப்புகள் மற்றும் தளவமைப்புகளைப் பகிர்வதற்கும் பயனுள்ளதாக இருக்கும்.</translation>
+        <source>Open the project folder to access project files, data sources, and related documents. Useful for managing project resources, manually uploading data to FfF Cloud, and sharing datasets, attachments, and layouts.</source>
+        <translation>திட்ட கோப்புகள், தரவு மூலங்கள் மற்றும் தொடர்புடைய ஆவணங்களை அணுக திட்ட கோப்புறையைத் திறக்கவும். திட்ட வளங்களை நிர்வகிப்பதற்கும், FfF Cloud இல் தரவை கைமுறையாக பதிவேற்றுவதற்கும், தரவுத்தொகுப்புகள், இணைப்புகள் மற்றும் தளவமைப்புகளைப் பகிர்வதற்கும் பயனுள்ளதாக இருக்கும்.</translation>
     </message>
     <message>
         <source>Pending changes are present. Upload these now or press back again to keep them pending and close the cloud project and app.</source>
@@ -9246,11 +9246,11 @@ to show actions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>This project has pending changes which have not been uploaded yet. Tap the blue cloud button to open the cloud project panel and send them to QFieldCloud.</source>
+        <source>This project has pending changes which have not been uploaded yet. Tap the blue cloud button to open the cloud project panel and send them to FfF Cloud.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>This cloud project has pending changes which have not been uploaded yet. Open the dashboard using this button, then tap the blue cloud icon to send them to QFieldCloud.</source>
+        <source>This cloud project has pending changes which have not been uploaded yet. Open the dashboard using this button, then tap the blue cloud icon to send them to FfF Cloud.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -9529,8 +9529,8 @@ to show actions</source>
 <context>
     <name>SystemLoader</name>
     <message>
-        <source>Preparing QField, this is a one time operation that might take some time</source>
-        <translation type="vanished">QField ஐத் தயார்படுத்துகிறது, இது ஒரு முறைச் செயலாகும், இதற்கு சிறிது நேரம் ஆகலாம்</translation>
+        <source>Preparing FfF, this is a one time operation that might take some time</source>
+        <translation type="vanished">FfF ஐத் தயார்படுத்துகிறது, இது ஒரு முறைச் செயலாகும், இதற்கு சிறிது நேரம் ஆகலாம்</translation>
     </message>
 </context>
 <context>
@@ -9946,8 +9946,8 @@ to show actions</source>
         <translation type="vanished">அடையுங்கள்</translation>
     </message>
     <message>
-        <source>Hey there, how do you like your experience with QField so far?</source>
-        <translation type="vanished">வணக்கம், QField உடனான உங்கள் அனுபவத்தை நீங்கள் எப்படி விரும்புகிறீர்கள்?</translation>
+        <source>Hey there, how do you like your experience with FfF so far?</source>
+        <translation type="vanished">வணக்கம், FfF உடனான உங்கள் அனுபவத்தை நீங்கள் எப்படி விரும்புகிறீர்கள்?</translation>
     </message>
     <message>
         <source>That&apos;s great! We&apos;d love for you to click on the button below and leave a comment on the store.</source>
@@ -9962,8 +9962,8 @@ to show actions</source>
         <translation type="vanished">அநாமதேய அளவீடுகள் சேகரிப்பு முடக்கப்பட்டுள்ளது. அமைப்புகள் குழு மூலம் நீங்கள் மீண்டும் இயக்கலாம்.</translation>
     </message>
     <message>
-        <source>To improve stability for everyone, QField collects and sends anonymized metrics.</source>
-        <translation type="vanished">அனைவருக்கும் நிலைத்தன்மையை மேம்படுத்த, QField அநாமதேய அளவீடுகளைச் சேகரித்து அனுப்புகிறது.</translation>
+        <source>To improve stability for everyone, FfF collects and sends anonymized metrics.</source>
+        <translation type="vanished">அனைவருக்கும் நிலைத்தன்மையை மேம்படுத்த, FfF அநாமதேய அளவீடுகளைச் சேகரித்து அனுப்புகிறது.</translation>
     </message>
     <message>
         <source>I agree</source>
@@ -9974,8 +9974,8 @@ to show actions</source>
         <translation type="vanished">நான் விரும்பவில்லை</translation>
     </message>
     <message>
-        <source>QFieldCloud projects</source>
-        <translation type="vanished">QFieldCloud திட்டங்கள்</translation>
+        <source>FfF Cloud projects</source>
+        <translation type="vanished">FfF Cloud திட்டங்கள்</translation>
     </message>
     <message>
         <source>Open local file</source>
@@ -10002,11 +10002,11 @@ to show actions</source>
         <translation type="vanished">அண்மைக் கால திட்டங்களிலிருந்து அகற்று</translation>
     </message>
     <message>
-        <source>Welcome to QField. First time using this application? Try out sample projects listed in the list below.</source>
+        <source>Welcome to FfF. First time using this application? Try out sample projects listed in the list below.</source>
         <translation type="vanished">QFieldக்கு வரவேற்கிறோம். இந்த பயன்பாட்டை முதல் முறையாக பயன்படுத்துகிறீர்களா? கீழே உள்ள பட்டியலில் பட்டியலிடப்பட்டுள்ள மாதிரி திட்டங்களை முயற்சிக்கவும்.</translation>
     </message>
     <message>
-        <source>Welcome back to QField.</source>
+        <source>Welcome back to FfF.</source>
         <translation type="vanished">QFieldக்கு மீண்டும் வரவேற்கிறோம்.</translation>
     </message>
 </context>
@@ -10024,8 +10024,8 @@ to show actions</source>
 <context>
     <name>gallery_relation_editor</name>
     <message>
-        <source>QFieldCloud on-demand attachment error: </source>
-        <translation>QFieldCloud ஆன்-டிமாண்ட் இணைப்பு பிழை:</translation>
+        <source>FfF Cloud on-demand attachment error: </source>
+        <translation>FfF Cloud ஆன்-டிமாண்ட் இணைப்பு பிழை:</translation>
     </message>
     <message>
         <source>The external storage&apos;s authentication configuration ID is missing, please insure it is imported into %1</source>
@@ -10222,8 +10222,8 @@ to show actions</source>
         <translation type="vanished">செய்தி பதிவு</translation>
     </message>
     <message>
-        <source>About QField</source>
-        <translation type="vanished">QField பற்றி</translation>
+        <source>About FfF</source>
+        <translation type="vanished">FfF பற்றி</translation>
     </message>
     <message>
         <source>Select template below</source>
@@ -10234,8 +10234,8 @@ to show actions</source>
         <translation type="vanished">பொருத்துதல் சேவையை செயல்படுத்துகிறது</translation>
     </message>
     <message>
-        <source>QField has no permissions to use positioning.</source>
-        <translation type="vanished">நிலைப்படுத்தலைப் பயன்படுத்த QField க்கு இசைவு இல்லை.</translation>
+        <source>FfF has no permissions to use positioning.</source>
+        <translation type="vanished">நிலைப்படுத்தலைப் பயன்படுத்த FfF க்கு இசைவு இல்லை.</translation>
     </message>
     <message>
         <source>Map Canvas Options</source>
@@ -10430,12 +10430,12 @@ to show actions</source>
         <translation type="vanished">திட்டம் % 1 வெற்றிகரமாக பதிவிறக்கம் செய்யப்பட்டது, அது இப்போது திறக்கக் கிடைக்கிறது</translation>
     </message>
     <message>
-        <source>Changes failed to reach QFieldCloud: %1</source>
-        <translation type="vanished">மாற்றங்கள் QFieldCloud ஐ அடைய முடியவில்லை:% 1</translation>
+        <source>Changes failed to reach FfF Cloud: %1</source>
+        <translation type="vanished">மாற்றங்கள் FfF Cloud ஐ அடைய முடியவில்லை:% 1</translation>
     </message>
     <message>
-        <source>Changes successfully pushed to QFieldCloud</source>
-        <translation type="vanished">மாற்றங்கள் QFieldCloud க்கு வெற்றிகரமாக தள்ளப்பட்டன</translation>
+        <source>Changes successfully pushed to FfF Cloud</source>
+        <translation type="vanished">மாற்றங்கள் FfF Cloud க்கு வெற்றிகரமாக தள்ளப்பட்டன</translation>
     </message>
     <message>
         <source>Press back again to close project and app</source>
@@ -10490,7 +10490,7 @@ to show actions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud</source>
+        <source>FfF Cloud</source>
         <translation type="unfinished"/>
     </message>
 </context>

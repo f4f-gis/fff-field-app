@@ -1140,8 +1140,8 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
 <context>
     <name>LocalFilesModel</name>
     <message>
-        <source>QField files directory</source>
-        <translation type="vanished">Thư mục tệp QField</translation>
+        <source>FfF files directory</source>
+        <translation type="vanished">Thư mục tệp FfF</translation>
     </message>
     <message>
         <source>Imported projects</source>
@@ -1902,41 +1902,41 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">Tìm hiểu thêm về QFieldCloud</translation>
     </message>
     <message>
-        <source>QFieldCloud</source>
+        <source>FfF Cloud</source>
         <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>QFieldCloudPackageLayersFeedback</name>
     <message>
-        <source>Problematic QFieldCloud layer packaging</source>
-        <translation type="vanished">Đóng gói lớp QFieldCloud có vấn đề</translation>
+        <source>Problematic FfF Cloud layer packaging</source>
+        <translation type="vanished">Đóng gói lớp FfF Cloud có vấn đề</translation>
     </message>
     <message>
-        <source>Some layers have not been packaged correctly on QFieldCloud. These layers might be misconfigured or their data source is not accessible from the QFieldCloud server.</source>
+        <source>Some layers have not been packaged correctly on FfF Cloud. These layers might be misconfigured or their data source is not accessible from the FfF Cloud server.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud had troubles packaging your project</source>
-        <translation type="vanished">QFieldCloud gặp sự cố khi đóng gói dự án của bạn</translation>
+        <source>FfF Cloud had troubles packaging your project</source>
+        <translation type="vanished">FfF Cloud gặp sự cố khi đóng gói dự án của bạn</translation>
     </message>
     <message>
-        <source>Some layers have not been packaged correctly on QFieldCloud. These layers might be misconfigured or their data source is not accessible from the QFieldCloud server. Please check the logs of the latest packaging job on the qfield.cloud website.</source>
+        <source>Some layers have not been packaged correctly on FfF Cloud. These layers might be misconfigured or their data source is not accessible from the FfF Cloud server. Please check the logs of the latest packaging job on the qfield.cloud website.</source>
         <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>QFieldCloudPopup</name>
     <message>
-        <source>QFieldCloud</source>
-        <translation type="vanished">QFieldCloud</translation>
+        <source>FfF Cloud</source>
+        <translation type="vanished">FfF Cloud</translation>
     </message>
     <message>
-        <source>The current project is not stored on QFieldCloud.&lt;br&gt;&lt;br&gt;</source>
-        <translation type="vanished">Dự án hiện tại không được lưu trữ trên QFieldCloud.&lt;br&gt;&lt;br&gt;</translation>
+        <source>The current project is not stored on FfF Cloud.&lt;br&gt;&lt;br&gt;</source>
+        <translation type="vanished">Dự án hiện tại không được lưu trữ trên FfF Cloud.&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
-        <source>Storing projects on QFieldCloud offers seamless synchornization, offline editing, and team management.&lt;br&gt;&lt;br&gt;</source>
+        <source>Storing projects on FfF Cloud offers seamless synchornization, offline editing, and team management.&lt;br&gt;&lt;br&gt;</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1956,7 +1956,7 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">Xin chào &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <source>This QFieldCloud project was first downloaded with another cloud account. Please sign in with the original account for this project to use the QFieldCloud functionality.</source>
+        <source>This FfF Cloud project was first downloaded with another cloud account. Please sign in with the original account for this project to use the FfF Cloud functionality.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1964,16 +1964,16 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">Đang tải xuống %1%…</translation>
     </message>
     <message>
-        <source>QFieldCloud is preparing the latest data just for you. This might take some time, please hold tight…</source>
-        <translation type="vanished">QFieldCloud đang chuẩn bị dữ liệu mới nhất cho bạn. Việc này có thể mất một chút thời gian, vui lòng chờ…</translation>
+        <source>FfF Cloud is preparing the latest data just for you. This might take some time, please hold tight…</source>
+        <translation type="vanished">FfF Cloud đang chuẩn bị dữ liệu mới nhất cho bạn. Việc này có thể mất một chút thời gian, vui lòng chờ…</translation>
     </message>
     <message>
         <source>Uploading %1%…</source>
         <translation type="vanished">Đang tải lên %1%…</translation>
     </message>
     <message>
-        <source>QFieldCloud is applying the latest uploaded changes. This might take some time, please hold tight…</source>
-        <translation type="vanished">QFieldCloud đang áp dụng các thay đổi mới nhất đã tải lên. Việc này có thể mất một chút thời gian, vui lòng chờ…</translation>
+        <source>FfF Cloud is applying the latest uploaded changes. This might take some time, please hold tight…</source>
+        <translation type="vanished">FfF Cloud đang áp dụng các thay đổi mới nhất đã tải lên. Việc này có thể mất một chút thời gian, vui lòng chờ…</translation>
     </message>
     <message>
         <source>A server error has occured, please try again.</source>
@@ -2000,7 +2000,7 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">Đồng bộ</translation>
     </message>
     <message>
-        <source>Synchronize the whole project with all modified features and download the freshly updated project with all the applied changes from QFieldCloud.</source>
+        <source>Synchronize the whole project with all modified features and download the freshly updated project with all the applied changes from FfF Cloud.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2158,7 +2158,7 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="unfinished"/>
     </message>
     <message>
-        <source> (see more in the QField error log)…</source>
+        <source> (see more in the FfF error log)…</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2324,7 +2324,7 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">Tin nhắn của hệ thống:</translation>
     </message>
     <message>
-        <source> (see more in the QField error log)…</source>
+        <source> (see more in the FfF error log)…</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2335,8 +2335,8 @@ While you can still view and use the project, it is strongly recommended to rese
 <context>
     <name>QFieldCloudScreen</name>
     <message>
-        <source>QFieldCloud Projects</source>
-        <translation type="vanished">Dự án QFieldCloud</translation>
+        <source>FfF Cloud Projects</source>
+        <translation type="vanished">Dự án FfF Cloud</translation>
     </message>
     <message>
         <source>Disconnected from the cloud.</source>
@@ -2367,8 +2367,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">Đang tải xuống, đã lấy %1%…</translation>
     </message>
     <message>
-        <source>QFieldCloud is preparing the latest data just for you. This might take some time, please hold tight…</source>
-        <translation type="vanished">QFieldCloud đang chuẩn bị dữ liệu mới nhất cho bạn. Việc này có thể mất một chút thời gian, vui lòng chờ…</translation>
+        <source>FfF Cloud is preparing the latest data just for you. This might take some time, please hold tight…</source>
+        <translation type="vanished">FfF Cloud đang chuẩn bị dữ liệu mới nhất cho bạn. Việc này có thể mất một chút thời gian, vui lòng chờ…</translation>
     </message>
     <message>
         <source>Uploading…</source>
@@ -2610,7 +2610,7 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">Sử dụng camera gốc</translation>
     </message>
     <message>
-        <source>If disabled, QField will use a minimalist internal camera instead of the camera app on the device.&lt;br&gt;Tip: Enable this option and install the open camera app to create geo tagged photos.</source>
+        <source>If disabled, FfF will use a minimalist internal camera instead of the camera app on the device.&lt;br&gt;Tip: Enable this option and install the open camera app to create geo tagged photos.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2642,7 +2642,7 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>If enabled, anonymized metrics will be collected and sent to help improve QField for everyone.</source>
+        <source>If enabled, anonymized metrics will be collected and sent to help improve FfF for everyone.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2666,8 +2666,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">Ngôn ngữ của giao diện người dùng:</translation>
     </message>
     <message>
-        <source>To apply the selected user interface language, QField needs to completely shutdown and restart.</source>
-        <translation type="vanished">Để áp dụng ngôn ngữ giao diện người dùng đã chọn, QField cần tắt hoàn toàn và khởi động lại.</translation>
+        <source>To apply the selected user interface language, FfF needs to completely shutdown and restart.</source>
+        <translation type="vanished">Để áp dụng ngôn ngữ giao diện người dùng đã chọn, FfF cần tắt hoàn toàn và khởi động lại.</translation>
     </message>
     <message>
         <source>system</source>
@@ -2804,8 +2804,8 @@ Hủy để thay vào đó chỉ quét thiết bị ở mức tối thiểu.</tr
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QField Settings</source>
-        <translation type="vanished">Cài đặt QField</translation>
+        <source>FfF Settings</source>
+        <translation type="vanished">Cài đặt FfF</translation>
     </message>
     <message>
         <source>Time of inactivity in seconds before the screen brightness get be dimmed to preserve battery.</source>
@@ -2887,8 +2887,8 @@ Hủy để thay vào đó chỉ quét thiết bị ở mức tối thiểu.</tr
         <translation>Yêu cầu xác thực</translation>
     </message>
     <message>
-        <source>QFieldCloud Unknown Error</source>
-        <translation>Lỗi QFieldCloud không xác định</translation>
+        <source>FfF Cloud Unknown Error</source>
+        <translation>Lỗi FfF Cloud không xác định</translation>
     </message>
     <message>
         <source>Status not ok</source>
@@ -2955,8 +2955,8 @@ Hủy để thay vào đó chỉ quét thiết bị ở mức tối thiểu.</tr
         <translation>Thông tin người dùng cloud</translation>
     </message>
     <message>
-        <source>Please wait while QField installation finalizes.</source>
-        <translation>Vui lòng chờ trong khi quá trình cài đặt QField hoàn tất.</translation>
+        <source>Please wait while FfF installation finalizes.</source>
+        <translation>Vui lòng chờ trong khi quá trình cài đặt FfF hoàn tất.</translation>
     </message>
     <message>
         <source>averaged</source>
@@ -3551,7 +3551,7 @@ Hủy để thay vào đó chỉ quét thiết bị ở mức tối thiểu.</tr
         <translation>ví dụ localhost, 192.168.*</translation>
     </message>
     <message>
-        <source>Configure a network proxy to route QField&apos;s traffic through a proxy server. Useful for corporate networks and VPNs.</source>
+        <source>Configure a network proxy to route FfF&apos;s traffic through a proxy server. Useful for corporate networks and VPNs.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -4464,11 +4464,11 @@ While you can still view and use the project, it is strongly recommended to rese
 <context>
     <name>QfCloudPackageLayersFeedback</name>
     <message>
-        <source>Some layers have not been packaged correctly. These layers might be misconfigured or their data source is not accessible from the QFieldCloud server.</source>
+        <source>Some layers have not been packaged correctly. These layers might be misconfigured or their data source is not accessible from the FfF Cloud server.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Please check the detailed feedback below and the latest packaging job logs on the QFieldCloud website.</source>
+        <source>Please check the detailed feedback below and the latest packaging job logs on the FfF Cloud website.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -4518,16 +4518,16 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud</source>
-        <translation>QFieldCloud</translation>
+        <source>FfF Cloud</source>
+        <translation>FfF Cloud</translation>
     </message>
     <message>
-        <source>This QFieldCloud project was first downloaded with another cloud account. Please sign in with the original account for this project to use the QFieldCloud functionality.</source>
+        <source>This FfF Cloud project was first downloaded with another cloud account. Please sign in with the original account for this project to use the FfF Cloud functionality.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud is packaging the latest data just for you; this might take some time, please hold tight</source>
-        <translation>QFieldCloud đang đóng gói dữ liệu mới nhất cho bạn; việc này có thể mất một chút thời gian, vui lòng chờ</translation>
+        <source>FfF Cloud is packaging the latest data just for you; this might take some time, please hold tight</source>
+        <translation>FfF Cloud đang đóng gói dữ liệu mới nhất cho bạn; việc này có thể mất một chút thời gian, vui lòng chờ</translation>
     </message>
     <message>
         <source>Downloading, %1% of %2 fetched</source>
@@ -4538,15 +4538,15 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation>Đang tải xuống, đã lấy %1%</translation>
     </message>
     <message>
-        <source>Reaching out to QFieldCloud to download project</source>
-        <translation>Đang liên hệ với QFieldCloud để tải xuống dự án</translation>
+        <source>Reaching out to FfF Cloud to download project</source>
+        <translation>Đang liên hệ với FfF Cloud để tải xuống dự án</translation>
     </message>
     <message>
         <source>Pushing changes, %1%…</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud is applying the latest pushed changes. This might take some time, please hold tight…</source>
+        <source>FfF Cloud is applying the latest pushed changes. This might take some time, please hold tight…</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -4554,11 +4554,11 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Uploading the current project to QFieldCloud.</source>
-        <translation>Đang tải dự án hiện tại lên QFieldCloud.</translation>
+        <source>Uploading the current project to FfF Cloud.</source>
+        <translation>Đang tải dự án hiện tại lên FfF Cloud.</translation>
     </message>
     <message>
-        <source>The current project is not stored on QFieldCloud. Storing projects on QFieldCloud offers seamless synchronization, offline editing, and team management.</source>
+        <source>The current project is not stored on FfF Cloud. Storing projects on FfF Cloud offers seamless synchronization, offline editing, and team management.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -4622,7 +4622,7 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Uploads your edits, then downloads the latest project from QFieldCloud so everything is up to date.</source>
+        <source>Uploads your edits, then downloads the latest project from FfF Cloud so everything is up to date.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -4803,7 +4803,7 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation>Tin nhắn của hệ thống:</translation>
     </message>
     <message>
-        <source> (see more in the QField error log)…</source>
+        <source> (see more in the FfF error log)…</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -4878,8 +4878,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud is packaging project, hold tight</source>
-        <translation>QFieldCloud đang đóng gói dự án, vui lòng chờ</translation>
+        <source>FfF Cloud is packaging project, hold tight</source>
+        <translation>FfF Cloud đang đóng gói dự án, vui lòng chờ</translation>
     </message>
     <message>
         <source>Downloading project</source>
@@ -4971,7 +4971,7 @@ While you can still view and use the project, it is strongly recommended to rese
 <context>
     <name>QfCloudScreen</name>
     <message>
-        <source>QFieldCloud Projects</source>
+        <source>FfF Cloud Projects</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -4995,8 +4995,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation>Tìm kiếm dự án</translation>
     </message>
     <message>
-        <source>QFieldCloud is packaging the latest data just for you; this might take some time, please hold tight</source>
-        <translation>QFieldCloud đang đóng gói dữ liệu mới nhất cho bạn; việc này có thể mất một chút thời gian, vui lòng chờ</translation>
+        <source>FfF Cloud is packaging the latest data just for you; this might take some time, please hold tight</source>
+        <translation>FfF Cloud đang đóng gói dữ liệu mới nhất cho bạn; việc này có thể mất một chút thời gian, vui lòng chờ</translation>
     </message>
     <message>
         <source>Downloading, %1% of %2 fetched</source>
@@ -5007,8 +5007,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation>Đang tải xuống, đã lấy %1%</translation>
     </message>
     <message>
-        <source>Reaching out to QFieldCloud to download project</source>
-        <translation>Đang liên hệ với QFieldCloud để tải xuống dự án</translation>
+        <source>Reaching out to FfF Cloud to download project</source>
+        <translation>Đang liên hệ với FfF Cloud để tải xuống dự án</translation>
     </message>
     <message>
         <source>Uploading…</source>
@@ -5103,7 +5103,7 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation>Bạn có chắc muốn gỡ bỏ `%1` không?</translation>
     </message>
     <message>
-        <source>QFieldCloud project details fetching failed</source>
+        <source>FfF Cloud project details fetching failed</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -5135,8 +5135,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud</source>
-        <translation>QFieldCloud</translation>
+        <source>FfF Cloud</source>
+        <translation>FfF Cloud</translation>
     </message>
     <message>
         <source>Search for templates</source>
@@ -5194,19 +5194,19 @@ While you can still view and use the project, it is strongly recommended to rese
 <context>
     <name>QfCloudStatus</name>
     <message>
-        <source>QFieldCloud server is not reachable</source>
-        <translation>Không thể truy cập máy chủ QFieldCloud</translation>
+        <source>FfF Cloud server is not reachable</source>
+        <translation>Không thể truy cập máy chủ FfF Cloud</translation>
     </message>
     <message>
         <source>The server at %1 could not be reached. Please check your internet connection.</source>
         <translation>Không thể truy cập máy chủ tại %1. Vui lòng kiểm tra kết nối Internet của bạn.</translation>
     </message>
     <message>
-        <source>QFieldCloud is under maintenance</source>
-        <translation>QFieldCloud đang bảo trì</translation>
+        <source>FfF Cloud is under maintenance</source>
+        <translation>FfF Cloud đang bảo trì</translation>
     </message>
     <message>
-        <source>QFieldCloud service is degraded</source>
+        <source>FfF Cloud service is degraded</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -5516,7 +5516,7 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation>Không thể xử lý loại tệp này</translation>
     </message>
     <message>
-        <source>QFieldCloud on-demand attachment error: </source>
+        <source>FfF Cloud on-demand attachment error: </source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -6454,8 +6454,8 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
         <translation>Gửi đến ...</translation>
     </message>
     <message>
-        <source>Push to QFieldCloud</source>
-        <translation>Đẩy lên QFieldCloud</translation>
+        <source>Push to FfF Cloud</source>
+        <translation>Đẩy lên FfF Cloud</translation>
     </message>
     <message>
         <source>Export to folder...</source>
@@ -6546,12 +6546,12 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
         <translation>Tải tệp lên WebDAV</translation>
     </message>
     <message>
-        <source>Push file(s) to QFieldCloud</source>
-        <translation>Đẩy tệp lên QFieldCloud</translation>
+        <source>Push file(s) to FfF Cloud</source>
+        <translation>Đẩy tệp lên FfF Cloud</translation>
     </message>
     <message>
-        <source>Please select one or more files to push to QFieldCloud.</source>
-        <translation>Vui lòng chọn một hoặc nhiều tệp để đẩy lên QFieldCloud.</translation>
+        <source>Please select one or more files to push to FfF Cloud.</source>
+        <translation>Vui lòng chọn một hoặc nhiều tệp để đẩy lên FfF Cloud.</translation>
     </message>
     <message>
         <source>Send compressed file(s) to...</source>
@@ -6562,11 +6562,11 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
         <translation>Xóa tệp</translation>
     </message>
     <message>
-        <source>‘%1’ is being uploaded to QFieldCloud</source>
-        <translation>‘%1’ đang được tải lên QFieldCloud</translation>
+        <source>‘%1’ is being uploaded to FfF Cloud</source>
+        <translation>‘%1’ đang được tải lên FfF Cloud</translation>
     </message>
     <message>
-        <source>Items being uploaded to QFieldCloud</source>
+        <source>Items being uploaded to FfF Cloud</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -6689,8 +6689,8 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
         <translation>Trang chủ</translation>
     </message>
     <message>
-        <source>QField files directory</source>
-        <translation>Thư mục tệp QField</translation>
+        <source>FfF files directory</source>
+        <translation>Thư mục tệp FfF</translation>
     </message>
     <message>
         <source>Created projects</source>
@@ -7636,7 +7636,7 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud allows to synchronize and merge the data collected by your team in %1. From small individual projects to large data collection campaigns. </source>
+        <source>FfF Cloud allows to synchronize and merge the data collected by your team in %1. From small individual projects to large data collection campaigns. </source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -8430,10 +8430,10 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud
+        <source>FfF Cloud
 projects</source>
         <translation>Dự án
-QFieldCloud</translation>
+FfF Cloud</translation>
     </message>
     <message>
         <source>Local projects and
@@ -8546,7 +8546,7 @@ mới</translation>
         <translation>Không thể đọc dự án, tệp &quot;%1&quot; không tồn tại</translation>
     </message>
     <message>
-        <source>Map printed on %1 using QField</source>
+        <source>Map printed on %1 using FfF</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -9103,12 +9103,12 @@ to show actions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Changes failed to reach QFieldCloud: %1</source>
+        <source>Changes failed to reach FfF Cloud: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Changes successfully pushed to QFieldCloud</source>
-        <translation>Thay đổi đã được đẩy thành công lên QFieldCloud</translation>
+        <source>Changes successfully pushed to FfF Cloud</source>
+        <translation>Thay đổi đã được đẩy thành công lên FfF Cloud</translation>
     </message>
     <message>
         <source>Unlock the screen to close project and app</source>
@@ -9211,11 +9211,11 @@ to show actions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud</source>
-        <translation>QFieldCloud</translation>
+        <source>FfF Cloud</source>
+        <translation>FfF Cloud</translation>
     </message>
     <message>
-        <source>Upload local changes, synchronize or discard changes to and from QFieldCloud when a cloud project is opened.</source>
+        <source>Upload local changes, synchronize or discard changes to and from FfF Cloud when a cloud project is opened.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -9223,7 +9223,7 @@ to show actions</source>
         <translation>Thư mục dự án</translation>
     </message>
     <message>
-        <source>Open the project folder to access project files, data sources, and related documents. Useful for managing project resources, manually uploading data to QFieldCloud, and sharing datasets, attachments, and layouts.</source>
+        <source>Open the project folder to access project files, data sources, and related documents. Useful for managing project resources, manually uploading data to FfF Cloud, and sharing datasets, attachments, and layouts.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -9239,11 +9239,11 @@ to show actions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>This project has pending changes which have not been uploaded yet. Tap the blue cloud button to open the cloud project panel and send them to QFieldCloud.</source>
+        <source>This project has pending changes which have not been uploaded yet. Tap the blue cloud button to open the cloud project panel and send them to FfF Cloud.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>This cloud project has pending changes which have not been uploaded yet. Open the dashboard using this button, then tap the blue cloud icon to send them to QFieldCloud.</source>
+        <source>This cloud project has pending changes which have not been uploaded yet. Open the dashboard using this button, then tap the blue cloud icon to send them to FfF Cloud.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -9522,7 +9522,7 @@ to show actions</source>
 <context>
     <name>SystemLoader</name>
     <message>
-        <source>Preparing QField, this is a one time operation that might take some time</source>
+        <source>Preparing FfF, this is a one time operation that might take some time</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -9939,8 +9939,8 @@ to show actions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Hey there, how do you like your experience with QField so far?</source>
-        <translation type="vanished">Xin chào, bạn thấy trải nghiệm với QField đến giờ thế nào?</translation>
+        <source>Hey there, how do you like your experience with FfF so far?</source>
+        <translation type="vanished">Xin chào, bạn thấy trải nghiệm với FfF đến giờ thế nào?</translation>
     </message>
     <message>
         <source>That&apos;s great! We&apos;d love for you to click on the button below and leave a comment on the store.</source>
@@ -9955,7 +9955,7 @@ to show actions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>To improve stability for everyone, QField collects and sends anonymized metrics.</source>
+        <source>To improve stability for everyone, FfF collects and sends anonymized metrics.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -9967,8 +9967,8 @@ to show actions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud projects</source>
-        <translation type="vanished">Các dự án QFieldCloud</translation>
+        <source>FfF Cloud projects</source>
+        <translation type="vanished">Các dự án FfF Cloud</translation>
     </message>
     <message>
         <source>Open local file</source>
@@ -9995,12 +9995,12 @@ to show actions</source>
         <translation type="vanished">Xóa khỏi dự án gần đây</translation>
     </message>
     <message>
-        <source>Welcome to QField. First time using this application? Try out sample projects listed in the list below.</source>
-        <translation type="vanished">Chào mừng bạn đến với QField. Sử dụng ứng dụng này lần đầu tiên? Hãy thử các dự án mẫu liệt kê trong danh sách dưới đây.</translation>
+        <source>Welcome to FfF. First time using this application? Try out sample projects listed in the list below.</source>
+        <translation type="vanished">Chào mừng bạn đến với FfF. Sử dụng ứng dụng này lần đầu tiên? Hãy thử các dự án mẫu liệt kê trong danh sách dưới đây.</translation>
     </message>
     <message>
-        <source>Welcome back to QField.</source>
-        <translation type="vanished">Chào mừng bạn trở lại QField.</translation>
+        <source>Welcome back to FfF.</source>
+        <translation type="vanished">Chào mừng bạn trở lại FfF.</translation>
     </message>
 </context>
 <context>
@@ -10017,7 +10017,7 @@ to show actions</source>
 <context>
     <name>gallery_relation_editor</name>
     <message>
-        <source>QFieldCloud on-demand attachment error: </source>
+        <source>FfF Cloud on-demand attachment error: </source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -10215,8 +10215,8 @@ to show actions</source>
         <translation type="vanished">Nhật ký thông báo</translation>
     </message>
     <message>
-        <source>About QField</source>
-        <translation type="vanished">Về QField</translation>
+        <source>About FfF</source>
+        <translation type="vanished">Về FfF</translation>
     </message>
     <message>
         <source>Select template below</source>
@@ -10227,8 +10227,8 @@ to show actions</source>
         <translation type="vanished">Khởi động dịch vụ định vị</translation>
     </message>
     <message>
-        <source>QField has no permissions to use positioning.</source>
-        <translation type="vanished">QField không được cấp quyền dùng định vị.</translation>
+        <source>FfF has no permissions to use positioning.</source>
+        <translation type="vanished">FfF không được cấp quyền dùng định vị.</translation>
     </message>
     <message>
         <source>Map Canvas Options</source>
@@ -10423,12 +10423,12 @@ to show actions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Changes failed to reach QFieldCloud: %1</source>
+        <source>Changes failed to reach FfF Cloud: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Changes successfully pushed to QFieldCloud</source>
-        <translation type="vanished">Thay đổi đã được đẩy thành công lên QFieldCloud</translation>
+        <source>Changes successfully pushed to FfF Cloud</source>
+        <translation type="vanished">Thay đổi đã được đẩy thành công lên FfF Cloud</translation>
     </message>
     <message>
         <source>Press back again to close project and app</source>
@@ -10483,7 +10483,7 @@ to show actions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud</source>
+        <source>FfF Cloud</source>
         <translation type="unfinished"/>
     </message>
 </context>

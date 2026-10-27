@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name" translatable="false">QField</string>
+    <string name="app_name" translatable="false">FfF</string>
     <string name="lib_name" translatable="false">qfield</string>
     <string name="grant_permission">All files access</string>
-    <string name="grant_all_files_permission"><![CDATA[QField needs all files access permission to be able to open local projects and datasets as well as supporting custom projection grids, fonts, and base maps. While not required, <i>allowing access is highly recommended</i>.<br/><br/>On the next screen, please select <b>QField</b> and select the <b>Allow access to all files</b> option.]]></string>
+    <string name="grant_all_files_permission"><![CDATA[FfF needs all files access permission to be able to open local projects and datasets as well as supporting custom projection grids, fonts, and base maps. While not required, <i>allowing access is highly recommended</i>.<br/><br/>On the next screen, please select <b>FfF</b> and select the <b>Allow access to all files</b> option.]]></string>
     <string name="grant">Allow</string>
     <string name="deny_always">Deny Permanently</string>
     <string name="deny_once">Deny Once</string>
@@ -28,10 +28,10 @@
     <string name="storage_information_message">Whether you are a pre-existing QField 1.x user wondering why your projects and datasets have gone missing or new to QField, we suggest you take a minute to read the storage handling documentation. A shortcut to this documentation will remain accessible in the title bar\'s actions menu.</string>
     <string name="storage_information_view">Show me the documentation</string>
     <string name="storage_information_dismiss">I\'ll read later</string>
-    <string name="import_project_wait">Please wait while QField is importing the project</string>
-    <string name="import_dataset_wait">Please wait while QField is importing the dataset(s)</string>
-    <string name="update_project_wait">Please wait while QField is updating the local project</string>
-    <string name="upload_pending_attachments">Currently uploading attachments to QFieldCloud</string>
+    <string name="import_project_wait">Please wait while FfF is importing the project</string>
+    <string name="import_dataset_wait">Please wait while FfF is importing the dataset(s)</string>
+    <string name="update_project_wait">Please wait while FfF is updating the local project</string>
+    <string name="upload_pending_attachments">Currently uploading attachments to FfF Cloud</string>
     <string name="operation_unsupported">Operation Unsupported</string>
     <string name="import_operation_unsupported">Your device does not support this import operation.</string>
     <string name="export_operation_unsupported">Your device does not support this export operation.</string>

@@ -548,7 +548,7 @@ Page {
         height: enabled ? 48 : 0
         leftPadding: QfTheme.menuItemLeftPadding
 
-        text: qsTr("Push to QFieldCloud")
+        text: qsTr("Push to FfF Cloud")
         onTriggered: {
           pushFilesToQFieldCloudConnection.enabled = true;
           pushFilesToQFieldCloudConnection.sendingMultiple = true;
@@ -957,7 +957,7 @@ Page {
         height: enabled ? 48 : 0
         leftPadding: QfTheme.menuItemLeftPadding
 
-        text: qsTr("Push file(s) to QFieldCloud")
+        text: qsTr("Push file(s) to FfF Cloud")
         onTriggered: {
           var fileNames = [];
           for (let i = 0; i < table.selectedList.length; ++i) {
@@ -971,7 +971,7 @@ Page {
             pushFilesToQFieldCloudConnection.enabled = true;
             QfCloudUtils.addPendingAttachments(cloudConnection.userInformation.username, QfCloudUtils.getProjectId(table.model.currentPath), fileNames, cloudConnection, true);
           } else {
-            displayToast(qsTr("Please select one or more files to push to QFieldCloud."));
+            displayToast(qsTr("Please select one or more files to push to FfF Cloud."));
           }
         }
       }
@@ -1037,11 +1037,11 @@ Page {
     function onPendingAttachmentsAdded() {
       platformUtilities.uploadPendingAttachments(cloudConnection);
       if (pushFilesToQFieldCloudConnection.sendingMultiple) {
-        displayToast(qsTr("‘%1’ is being uploaded to QFieldCloud").arg(QfFileUtils.fileName(itemMenu.itemPath)));
+        displayToast(qsTr("‘%1’ is being uploaded to FfF Cloud").arg(QfFileUtils.fileName(itemMenu.itemPath)));
         pushFilesToQFieldCloudConnection.sendingMultiple = false;
       } else {
         localFilesModel.clearSelection();
-        displayToast(qsTr("Items being uploaded to QFieldCloud"));
+        displayToast(qsTr("Items being uploaded to FfF Cloud"));
       }
       pushFilesToQFieldCloudConnection.enabled = false;
     }

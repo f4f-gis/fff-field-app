@@ -1149,8 +1149,8 @@ Geometrie elementów zostaną połączone w element &quot;%1&quot;, który zacho
 <context>
     <name>LocalFilesModel</name>
     <message>
-        <source>QField files directory</source>
-        <translation type="vanished">Katalog plików QField</translation>
+        <source>FfF files directory</source>
+        <translation type="vanished">Katalog plików FfF</translation>
     </message>
     <message>
         <source>Imported projects</source>
@@ -1911,42 +1911,42 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">Dowiedz się więcej o QFieldCloud</translation>
     </message>
     <message>
-        <source>QFieldCloud</source>
+        <source>FfF Cloud</source>
         <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>QFieldCloudPackageLayersFeedback</name>
     <message>
-        <source>Problematic QFieldCloud layer packaging</source>
-        <translation type="vanished">Problematyczne spakowanie warstw QFieldCloud</translation>
+        <source>Problematic FfF Cloud layer packaging</source>
+        <translation type="vanished">Problematyczne spakowanie warstw FfF Cloud</translation>
     </message>
     <message>
-        <source>Some layers have not been packaged correctly on QFieldCloud. These layers might be misconfigured or their data source is not accessible from the QFieldCloud server.</source>
-        <translation type="vanished">Niektóre warstwy nie zostały poprawnie spakowane w QFieldCloud. Warstwy te mogą być niepoprawnie skonfigurowane lub ich źródła danych są niedostępne na serwerze QFieldCloud.</translation>
+        <source>Some layers have not been packaged correctly on FfF Cloud. These layers might be misconfigured or their data source is not accessible from the FfF Cloud server.</source>
+        <translation type="vanished">Niektóre warstwy nie zostały poprawnie spakowane w FfF Cloud. Warstwy te mogą być niepoprawnie skonfigurowane lub ich źródła danych są niedostępne na serwerze FfF Cloud.</translation>
     </message>
     <message>
-        <source>QFieldCloud had troubles packaging your project</source>
-        <translation type="vanished">QFieldCloud miał problem ze spakowaniem twojego projektu</translation>
+        <source>FfF Cloud had troubles packaging your project</source>
+        <translation type="vanished">FfF Cloud miał problem ze spakowaniem twojego projektu</translation>
     </message>
     <message>
-        <source>Some layers have not been packaged correctly on QFieldCloud. These layers might be misconfigured or their data source is not accessible from the QFieldCloud server. Please check the logs of the latest packaging job on the qfield.cloud website.</source>
-        <translation type="vanished">Niektóre warstwy nie zostały poprawnie spakowane w QFieldCloud. Warstwy te mogą być niepoprawnie skonfigurowane lub ich źródła danych są niedostępne na serwerze QFieldCloud. Sprawdź proszę dziennik ostatniego pakowania na stronie internetowej qfield.cloud.</translation>
+        <source>Some layers have not been packaged correctly on FfF Cloud. These layers might be misconfigured or their data source is not accessible from the FfF Cloud server. Please check the logs of the latest packaging job on the qfield.cloud website.</source>
+        <translation type="vanished">Niektóre warstwy nie zostały poprawnie spakowane w FfF Cloud. Warstwy te mogą być niepoprawnie skonfigurowane lub ich źródła danych są niedostępne na serwerze FfF Cloud. Sprawdź proszę dziennik ostatniego pakowania na stronie internetowej qfield.cloud.</translation>
     </message>
 </context>
 <context>
     <name>QFieldCloudPopup</name>
     <message>
-        <source>QFieldCloud</source>
-        <translation type="vanished">QFieldCloud</translation>
+        <source>FfF Cloud</source>
+        <translation type="vanished">FfF Cloud</translation>
     </message>
     <message>
-        <source>The current project is not stored on QFieldCloud.&lt;br&gt;&lt;br&gt;</source>
-        <translation type="vanished">Bieżący projekt nie jest przechowywany w QFieldCloud.&lt;br&gt;&lt;br&gt;</translation>
+        <source>The current project is not stored on FfF Cloud.&lt;br&gt;&lt;br&gt;</source>
+        <translation type="vanished">Bieżący projekt nie jest przechowywany w FfF Cloud.&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
-        <source>Storing projects on QFieldCloud offers seamless synchornization, offline editing, and team management.&lt;br&gt;&lt;br&gt;</source>
-        <translation type="vanished">Przechowywanie projektów w QFieldCloud umożliwia bezproblemową synchronizację, edycję offline i pracę grupową.&lt;br&gt;&lt;br&gt;</translation>
+        <source>Storing projects on FfF Cloud offers seamless synchornization, offline editing, and team management.&lt;br&gt;&lt;br&gt;</source>
+        <translation type="vanished">Przechowywanie projektów w FfF Cloud umożliwia bezproblemową synchronizację, edycję offline i pracę grupową.&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>Learn more about QFieldCloud</source>
@@ -1965,24 +1965,24 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">Witaj &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <source>This QFieldCloud project was first downloaded with another cloud account. Please sign in with the original account for this project to use the QFieldCloud functionality.</source>
-        <translation type="vanished">Ten projekt QFieldCloud został wcześniej pobrany z innego konta w chmurze. Zaloguj się na oryginalne konto tego projektu, aby korzystać z funkcji QFieldCloud.</translation>
+        <source>This FfF Cloud project was first downloaded with another cloud account. Please sign in with the original account for this project to use the FfF Cloud functionality.</source>
+        <translation type="vanished">Ten projekt FfF Cloud został wcześniej pobrany z innego konta w chmurze. Zaloguj się na oryginalne konto tego projektu, aby korzystać z funkcji FfF Cloud.</translation>
     </message>
     <message>
         <source>Downloading %1%…</source>
         <translation type="vanished">Pobieranie %1%…</translation>
     </message>
     <message>
-        <source>QFieldCloud is preparing the latest data just for you. This might take some time, please hold tight…</source>
-        <translation type="vanished">QFieldCloud przygotowuje właśnie najnowsze dane dla Ciebie. Może to chwilę potrwać, proszę o chwilę cierpliwości...</translation>
+        <source>FfF Cloud is preparing the latest data just for you. This might take some time, please hold tight…</source>
+        <translation type="vanished">FfF Cloud przygotowuje właśnie najnowsze dane dla Ciebie. Może to chwilę potrwać, proszę o chwilę cierpliwości...</translation>
     </message>
     <message>
         <source>Uploading %1%…</source>
         <translation type="vanished">Wysyłanie %1%...</translation>
     </message>
     <message>
-        <source>QFieldCloud is applying the latest uploaded changes. This might take some time, please hold tight…</source>
-        <translation type="vanished">QFieldCloud stosuje najnowsze przesłane zmiany. To może trochę potrwać, prosimy o cierpliwość…</translation>
+        <source>FfF Cloud is applying the latest uploaded changes. This might take some time, please hold tight…</source>
+        <translation type="vanished">FfF Cloud stosuje najnowsze przesłane zmiany. To może trochę potrwać, prosimy o cierpliwość…</translation>
     </message>
     <message>
         <source>A server error has occured, please try again.</source>
@@ -2009,8 +2009,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">Synchronizuj</translation>
     </message>
     <message>
-        <source>Synchronize the whole project with all modified features and download the freshly updated project with all the applied changes from QFieldCloud.</source>
-        <translation type="vanished">Synchronizuj cały projekt z wszystkimi zmodyfikowanymi obiektami i pobierz świeżo zaktualizowany projekt z jego wszystkimi zmianami z QFieldCloud.</translation>
+        <source>Synchronize the whole project with all modified features and download the freshly updated project with all the applied changes from FfF Cloud.</source>
+        <translation type="vanished">Synchronizuj cały projekt z wszystkimi zmodyfikowanymi obiektami i pobierz świeżo zaktualizowany projekt z jego wszystkimi zmianami z FfF Cloud.</translation>
     </message>
     <message>
         <source>Push changes</source>
@@ -2169,7 +2169,7 @@ Chociaż nadal możesz wyświetlać i używać projektu, zdecydowanie zaleca si�
         <translation type="unfinished"/>
     </message>
     <message>
-        <source> (see more in the QField error log)…</source>
+        <source> (see more in the FfF error log)…</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2335,8 +2335,8 @@ Chociaż nadal możesz wyświetlać i używać projektu, zdecydowanie zaleca si�
         <translation type="vanished">Komunikat systemu: </translation>
     </message>
     <message>
-        <source> (see more in the QField error log)…</source>
-        <translation type="vanished">(zobacz więcej w dzienniku błędów QField)...</translation>
+        <source> (see more in the FfF error log)…</source>
+        <translation type="vanished">(zobacz więcej w dzienniku błędów FfF)...</translation>
     </message>
     <message>
         <source>Failed to copy some of the downloaded files on your device. Check your device storage.</source>
@@ -2346,8 +2346,8 @@ Chociaż nadal możesz wyświetlać i używać projektu, zdecydowanie zaleca si�
 <context>
     <name>QFieldCloudScreen</name>
     <message>
-        <source>QFieldCloud Projects</source>
-        <translation type="vanished">Projekty QFieldCloud</translation>
+        <source>FfF Cloud Projects</source>
+        <translation type="vanished">Projekty FfF Cloud</translation>
     </message>
     <message>
         <source>Disconnected from the cloud.</source>
@@ -2378,8 +2378,8 @@ Chociaż nadal możesz wyświetlać i używać projektu, zdecydowanie zaleca si�
         <translation type="vanished">Pobieranie, %1% pobrano...</translation>
     </message>
     <message>
-        <source>QFieldCloud is preparing the latest data just for you. This might take some time, please hold tight…</source>
-        <translation type="vanished">QFieldCloud przygotowuje właśnie najnowsze dane dla Ciebie. Może to chwilę potrwać, proszę o chwilę cierpliwości...</translation>
+        <source>FfF Cloud is preparing the latest data just for you. This might take some time, please hold tight…</source>
+        <translation type="vanished">FfF Cloud przygotowuje właśnie najnowsze dane dla Ciebie. Może to chwilę potrwać, proszę o chwilę cierpliwości...</translation>
     </message>
     <message>
         <source>Uploading…</source>
@@ -2621,8 +2621,8 @@ Chociaż nadal możesz wyświetlać i używać projektu, zdecydowanie zaleca si�
         <translation type="vanished">Użyj wbudowanego aparatu</translation>
     </message>
     <message>
-        <source>If disabled, QField will use a minimalist internal camera instead of the camera app on the device.&lt;br&gt;Tip: Enable this option and install the open camera app to create geo tagged photos.</source>
-        <translation type="vanished">Jeśli wyłączone, QField będzie używać własnego minimalistycznego programu aparatu zamiast aplikacji aparatu w urządzeniu.&lt;br&gt;Wskazówka: Włącz tę opcję i zainstaluj otwartą aplikację aparatu, aby tworzyć fotografie z geolokalizacją (geotagami).</translation>
+        <source>If disabled, FfF will use a minimalist internal camera instead of the camera app on the device.&lt;br&gt;Tip: Enable this option and install the open camera app to create geo tagged photos.</source>
+        <translation type="vanished">Jeśli wyłączone, FfF będzie używać własnego minimalistycznego programu aparatu zamiast aplikacji aparatu w urządzeniu.&lt;br&gt;Wskazówka: Włącz tę opcję i zainstaluj otwartą aplikację aparatu, aby tworzyć fotografie z geolokalizacją (geotagami).</translation>
     </message>
     <message>
         <source>Fast editing mode</source>
@@ -2653,8 +2653,8 @@ Chociaż nadal możesz wyświetlać i używać projektu, zdecydowanie zaleca si�
         <translation type="vanished">Wysyłaj anonimowe dane</translation>
     </message>
     <message>
-        <source>If enabled, anonymized metrics will be collected and sent to help improve QField for everyone.</source>
-        <translation type="vanished">Jeśli włączone, zbierane i wysyłane są anonimowe dane o użytkowaniu aplikacji, które pomagają rozwijać QField.</translation>
+        <source>If enabled, anonymized metrics will be collected and sent to help improve FfF for everyone.</source>
+        <translation type="vanished">Jeśli włączone, zbierane i wysyłane są anonimowe dane o użytkowaniu aplikacji, które pomagają rozwijać FfF.</translation>
     </message>
     <message>
         <source>General</source>
@@ -2677,8 +2677,8 @@ Chociaż nadal możesz wyświetlać i używać projektu, zdecydowanie zaleca si�
         <translation type="vanished">Język interfejsu użytkownika:</translation>
     </message>
     <message>
-        <source>To apply the selected user interface language, QField needs to completely shutdown and restart.</source>
-        <translation type="vanished">Aby zastosować wybrany język użykownika, QField musi być zamknięty i uruchomiony ponownie.</translation>
+        <source>To apply the selected user interface language, FfF needs to completely shutdown and restart.</source>
+        <translation type="vanished">Aby zastosować wybrany język użykownika, FfF musi być zamknięty i uruchomiony ponownie.</translation>
     </message>
     <message>
         <source>system</source>
@@ -2815,8 +2815,8 @@ Anuluj, aby wykonać zamiast tego minimalne skanowanie urządzeń.</translation>
         <translation type="vanished">Przesunięcie siatki wysokości używane do zwiększenia dokładności położenia wyniesienia n.p.m.</translation>
     </message>
     <message>
-        <source>QField Settings</source>
-        <translation type="vanished">Ustawienia QField</translation>
+        <source>FfF Settings</source>
+        <translation type="vanished">Ustawienia FfF</translation>
     </message>
     <message>
         <source>Time of inactivity in seconds before the screen brightness get be dimmed to preserve battery.</source>
@@ -2898,8 +2898,8 @@ Anuluj, aby wykonać zamiast tego minimalne skanowanie urządzeń.</translation>
         <translation>Wymagane uwierzytelnienie</translation>
     </message>
     <message>
-        <source>QFieldCloud Unknown Error</source>
-        <translation>Nieznany błąd QFieldCloud</translation>
+        <source>FfF Cloud Unknown Error</source>
+        <translation>Nieznany błąd FfF Cloud</translation>
     </message>
     <message>
         <source>Status not ok</source>
@@ -2966,8 +2966,8 @@ Anuluj, aby wykonać zamiast tego minimalne skanowanie urządzeń.</translation>
         <translation>Informacje o użytkowniku Cloud</translation>
     </message>
     <message>
-        <source>Please wait while QField installation finalizes.</source>
-        <translation>Proszę czekać, kończenie instalacji QField.</translation>
+        <source>Please wait while FfF installation finalizes.</source>
+        <translation>Proszę czekać, kończenie instalacji FfF.</translation>
     </message>
     <message>
         <source>averaged</source>
@@ -3562,8 +3562,8 @@ Anuluj, aby wykonać zamiast tego minimalne skanowanie urządzeń.</translation>
         <translation>np. localhost, 192.168.*</translation>
     </message>
     <message>
-        <source>Configure a network proxy to route QField&apos;s traffic through a proxy server. Useful for corporate networks and VPNs.</source>
-        <translation>Skonfiguruj sieciowy serwer proxy, aby kierować ruch QField przez serwer proxy. Jest to przydatne w sieciach korporacyjnych i VPN.</translation>
+        <source>Configure a network proxy to route FfF&apos;s traffic through a proxy server. Useful for corporate networks and VPNs.</source>
+        <translation>Skonfiguruj sieciowy serwer proxy, aby kierować ruch FfF przez serwer proxy. Jest to przydatne w sieciach korporacyjnych i VPN.</translation>
     </message>
     <message>
         <source>Advanced</source>
@@ -4477,12 +4477,12 @@ Chociaż nadal możesz wyświetlać i używać projektu, zdecydowanie zaleca si�
 <context>
     <name>QfCloudPackageLayersFeedback</name>
     <message>
-        <source>Some layers have not been packaged correctly. These layers might be misconfigured or their data source is not accessible from the QFieldCloud server.</source>
-        <translation>Niektóre warstwy nie zostały poprawnie spakowane. Warstwy te mogą być nieprawidłowo skonfigurowane albo serwer QFieldCloud nie ma dostępu do ich źródła danych.</translation>
+        <source>Some layers have not been packaged correctly. These layers might be misconfigured or their data source is not accessible from the FfF Cloud server.</source>
+        <translation>Niektóre warstwy nie zostały poprawnie spakowane. Warstwy te mogą być nieprawidłowo skonfigurowane albo serwer FfF Cloud nie ma dostępu do ich źródła danych.</translation>
     </message>
     <message>
-        <source>Please check the detailed feedback below and the latest packaging job logs on the QFieldCloud website.</source>
-        <translation>Zapoznaj się z poniższą szczegółową informacją zwrotną oraz najnowszymi dziennikami zadań pakowania na stronie QFieldCloud.</translation>
+        <source>Please check the detailed feedback below and the latest packaging job logs on the FfF Cloud website.</source>
+        <translation>Zapoznaj się z poniższą szczegółową informacją zwrotną oraz najnowszymi dziennikami zadań pakowania na stronie FfF Cloud.</translation>
     </message>
 </context>
 <context>
@@ -4531,16 +4531,16 @@ Chociaż nadal możesz wyświetlać i używać projektu, zdecydowanie zaleca si�
         <translation>Strefa zagrożenia</translation>
     </message>
     <message>
-        <source>QFieldCloud</source>
-        <translation>QFieldCloud</translation>
+        <source>FfF Cloud</source>
+        <translation>FfF Cloud</translation>
     </message>
     <message>
-        <source>This QFieldCloud project was first downloaded with another cloud account. Please sign in with the original account for this project to use the QFieldCloud functionality.</source>
-        <translation>Ten projekt QFieldCloud został wcześniej pobrany z innego konta w chmurze. Zaloguj się na oryginalne konto tego projektu, aby korzystać z funkcji QFieldCloud.</translation>
+        <source>This FfF Cloud project was first downloaded with another cloud account. Please sign in with the original account for this project to use the FfF Cloud functionality.</source>
+        <translation>Ten projekt FfF Cloud został wcześniej pobrany z innego konta w chmurze. Zaloguj się na oryginalne konto tego projektu, aby korzystać z funkcji FfF Cloud.</translation>
     </message>
     <message>
-        <source>QFieldCloud is packaging the latest data just for you; this might take some time, please hold tight</source>
-        <translation>QFieldCloud pakuje właśnie dla Ciebie ostatnie dane, a to może trochę potrwać. Proszę czekać.</translation>
+        <source>FfF Cloud is packaging the latest data just for you; this might take some time, please hold tight</source>
+        <translation>FfF Cloud pakuje właśnie dla Ciebie ostatnie dane, a to może trochę potrwać. Proszę czekać.</translation>
     </message>
     <message>
         <source>Downloading, %1% of %2 fetched</source>
@@ -4551,28 +4551,28 @@ Chociaż nadal możesz wyświetlać i używać projektu, zdecydowanie zaleca si�
         <translation>Pobieranie, %1% pobrano</translation>
     </message>
     <message>
-        <source>Reaching out to QFieldCloud to download project</source>
-        <translation>Łączenie się z QFieldCloud w celu pobrania projektu</translation>
+        <source>Reaching out to FfF Cloud to download project</source>
+        <translation>Łączenie się z FfF Cloud w celu pobrania projektu</translation>
     </message>
     <message>
         <source>Pushing changes, %1%…</source>
         <translation>Wprowadzanie zmian, %1%...</translation>
     </message>
     <message>
-        <source>QFieldCloud is applying the latest pushed changes. This might take some time, please hold tight…</source>
-        <translation>QFieldCloud stosuje najnowsze wprowadzone zmiany. Może to trochę potrwać, więc poczekaj chwilę...</translation>
+        <source>FfF Cloud is applying the latest pushed changes. This might take some time, please hold tight…</source>
+        <translation>FfF Cloud stosuje najnowsze wprowadzone zmiany. Może to trochę potrwać, więc poczekaj chwilę...</translation>
     </message>
     <message>
         <source>Cloudify project</source>
         <translation>Przenieś projekt do chmury</translation>
     </message>
     <message>
-        <source>Uploading the current project to QFieldCloud.</source>
-        <translation>Wysyłanie bieżącego projektu na QFieldCloud.</translation>
+        <source>Uploading the current project to FfF Cloud.</source>
+        <translation>Wysyłanie bieżącego projektu na FfF Cloud.</translation>
     </message>
     <message>
-        <source>The current project is not stored on QFieldCloud. Storing projects on QFieldCloud offers seamless synchronization, offline editing, and team management.</source>
-        <translation>Obecny projekt nie jest zapisany w QFieldCloud. Przechowywanie projektów na QFieldCloud zapewnia płynną synchronizację, edycję w trybie offline oraz zarządzanie zespołem.</translation>
+        <source>The current project is not stored on FfF Cloud. Storing projects on FfF Cloud offers seamless synchronization, offline editing, and team management.</source>
+        <translation>Obecny projekt nie jest zapisany w FfF Cloud. Przechowywanie projektów na FfF Cloud zapewnia płynną synchronizację, edycję w trybie offline oraz zarządzanie zespołem.</translation>
     </message>
     <message>
         <source>Learn more about QFieldCloud</source>
@@ -4635,8 +4635,8 @@ Chociaż nadal możesz wyświetlać i używać projektu, zdecydowanie zaleca si�
         <translation>Zsynchronizuj projekt</translation>
     </message>
     <message>
-        <source>Uploads your edits, then downloads the latest project from QFieldCloud so everything is up to date.</source>
-        <translation>Przesyła twoje zmiany, a potem pobiera najnowszą wersję projektu z QFieldCloud, żeby wszystko było na bieżąco.</translation>
+        <source>Uploads your edits, then downloads the latest project from FfF Cloud so everything is up to date.</source>
+        <translation>Przesyła twoje zmiany, a potem pobiera najnowszą wersję projektu z FfF Cloud, żeby wszystko było na bieżąco.</translation>
     </message>
     <message>
         <source>Last synchronized just now</source>
@@ -4816,8 +4816,8 @@ Chociaż nadal możesz wyświetlać i używać projektu, zdecydowanie zaleca si�
         <translation>Komunikat systemu: </translation>
     </message>
     <message>
-        <source> (see more in the QField error log)…</source>
-        <translation>(zobacz więcej w dzienniku błędów QField)...</translation>
+        <source> (see more in the FfF error log)…</source>
+        <translation>(zobacz więcej w dzienniku błędów FfF)...</translation>
     </message>
     <message>
         <source>Job creation finished, but the server response is missing required fields: id(string)</source>
@@ -4891,8 +4891,8 @@ Chociaż nadal możesz wyświetlać i używać projektu, zdecydowanie zaleca si�
         <translation>Prześlij zmiany lokalne</translation>
     </message>
     <message>
-        <source>QFieldCloud is packaging project, hold tight</source>
-        <translation>QFieldCloud  pakuje projekt, proszę czekać</translation>
+        <source>FfF Cloud is packaging project, hold tight</source>
+        <translation>FfF Cloud  pakuje projekt, proszę czekać</translation>
     </message>
     <message>
         <source>Downloading project</source>
@@ -4984,7 +4984,7 @@ Chociaż nadal możesz wyświetlać i używać projektu, zdecydowanie zaleca si�
 <context>
     <name>QfCloudScreen</name>
     <message>
-        <source>QFieldCloud Projects</source>
+        <source>FfF Cloud Projects</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -5008,8 +5008,8 @@ Chociaż nadal możesz wyświetlać i używać projektu, zdecydowanie zaleca si�
         <translation>Wyszukaj projekty</translation>
     </message>
     <message>
-        <source>QFieldCloud is packaging the latest data just for you; this might take some time, please hold tight</source>
-        <translation>QFieldCloud pakuje właśnie dla Ciebie ostatnie dane, a to może trochę potrwać. Proszę czekać.</translation>
+        <source>FfF Cloud is packaging the latest data just for you; this might take some time, please hold tight</source>
+        <translation>FfF Cloud pakuje właśnie dla Ciebie ostatnie dane, a to może trochę potrwać. Proszę czekać.</translation>
     </message>
     <message>
         <source>Downloading, %1% of %2 fetched</source>
@@ -5020,8 +5020,8 @@ Chociaż nadal możesz wyświetlać i używać projektu, zdecydowanie zaleca si�
         <translation>Pobieranie, %1% pobrano</translation>
     </message>
     <message>
-        <source>Reaching out to QFieldCloud to download project</source>
-        <translation>Łączenie się z QFieldCloud w celu pobrania projektu</translation>
+        <source>Reaching out to FfF Cloud to download project</source>
+        <translation>Łączenie się z FfF Cloud w celu pobrania projektu</translation>
     </message>
     <message>
         <source>Uploading…</source>
@@ -5116,8 +5116,8 @@ Chociaż nadal możesz wyświetlać i używać projektu, zdecydowanie zaleca si�
         <translation>Czy na pewno chcesz usunąć `%1`?</translation>
     </message>
     <message>
-        <source>QFieldCloud project details fetching failed</source>
-        <translation>Pobieranie szczegółów projektu QFieldCloud nie powiodło się</translation>
+        <source>FfF Cloud project details fetching failed</source>
+        <translation>Pobieranie szczegółów projektu FfF Cloud nie powiodło się</translation>
     </message>
     <message>
         <source>Project cloning failed: %1</source>
@@ -5148,8 +5148,8 @@ Chociaż nadal możesz wyświetlać i używać projektu, zdecydowanie zaleca si�
         <translation>Dopuszczalne znaki: 0-9A-Za-z_-</translation>
     </message>
     <message>
-        <source>QFieldCloud</source>
-        <translation>QFieldCloud</translation>
+        <source>FfF Cloud</source>
+        <translation>FfF Cloud</translation>
     </message>
     <message>
         <source>Search for templates</source>
@@ -5207,20 +5207,20 @@ Chociaż nadal możesz wyświetlać i używać projektu, zdecydowanie zaleca si�
 <context>
     <name>QfCloudStatus</name>
     <message>
-        <source>QFieldCloud server is not reachable</source>
-        <translation>Serwer QFieldCloud nie jest osiągalny</translation>
+        <source>FfF Cloud server is not reachable</source>
+        <translation>Serwer FfF Cloud nie jest osiągalny</translation>
     </message>
     <message>
         <source>The server at %1 could not be reached. Please check your internet connection.</source>
         <translation>Nie udało się połączyć z serwerem pod adresem %1. Sprawdź połączenie z internetem.</translation>
     </message>
     <message>
-        <source>QFieldCloud is under maintenance</source>
-        <translation>QFieldCloud jest w trakcie konserwacji</translation>
+        <source>FfF Cloud is under maintenance</source>
+        <translation>FfF Cloud jest w trakcie konserwacji</translation>
     </message>
     <message>
-        <source>QFieldCloud service is degraded</source>
-        <translation>Usługa QFieldCloud ulega pogorszeniu</translation>
+        <source>FfF Cloud service is degraded</source>
+        <translation>Usługa FfF Cloud ulega pogorszeniu</translation>
     </message>
     <message>
         <source>There is an ongoing incident</source>
@@ -5529,8 +5529,8 @@ Chociaż nadal możesz wyświetlać i używać projektu, zdecydowanie zaleca si�
         <translation>Nie można obsłużyć tego rodzaju pliku</translation>
     </message>
     <message>
-        <source>QFieldCloud on-demand attachment error: </source>
-        <translation>Błąd załącznika na żądanie QFieldCloud: </translation>
+        <source>FfF Cloud on-demand attachment error: </source>
+        <translation>Błąd załącznika na żądanie FfF Cloud: </translation>
     </message>
     <message>
         <source>Take a photo</source>
@@ -6477,8 +6477,8 @@ Geometrie elementów zostaną połączone w element &quot;%1&quot;, który zacho
         <translation>Wyślij do...</translation>
     </message>
     <message>
-        <source>Push to QFieldCloud</source>
-        <translation>Wyślij do QFieldCloud</translation>
+        <source>Push to FfF Cloud</source>
+        <translation>Wyślij do FfF Cloud</translation>
     </message>
     <message>
         <source>Export to folder...</source>
@@ -6569,12 +6569,12 @@ Geometrie elementów zostaną połączone w element &quot;%1&quot;, który zacho
         <translation>Prześlij plik(i) do WebDAV</translation>
     </message>
     <message>
-        <source>Push file(s) to QFieldCloud</source>
-        <translation>Prześlij plik(i) do QFieldCloud</translation>
+        <source>Push file(s) to FfF Cloud</source>
+        <translation>Prześlij plik(i) do FfF Cloud</translation>
     </message>
     <message>
-        <source>Please select one or more files to push to QFieldCloud.</source>
-        <translation>Wybierz jeden lub więcej plików do przesłania do QFieldCloud.</translation>
+        <source>Please select one or more files to push to FfF Cloud.</source>
+        <translation>Wybierz jeden lub więcej plików do przesłania do FfF Cloud.</translation>
     </message>
     <message>
         <source>Send compressed file(s) to...</source>
@@ -6585,12 +6585,12 @@ Geometrie elementów zostaną połączone w element &quot;%1&quot;, który zacho
         <translation>Usuń plik(i)</translation>
     </message>
     <message>
-        <source>‘%1’ is being uploaded to QFieldCloud</source>
-        <translation>&quot;%1&quot; jest przesyłane do QFieldCloud</translation>
+        <source>‘%1’ is being uploaded to FfF Cloud</source>
+        <translation>&quot;%1&quot; jest przesyłane do FfF Cloud</translation>
     </message>
     <message>
-        <source>Items being uploaded to QFieldCloud</source>
-        <translation>Elementy przesyłane do QFieldCloud</translation>
+        <source>Items being uploaded to FfF Cloud</source>
+        <translation>Elementy przesyłane do FfF Cloud</translation>
     </message>
     <message>
         <source>Remove File(s)</source>
@@ -6712,8 +6712,8 @@ Geometrie elementów zostaną połączone w element &quot;%1&quot;, który zacho
         <translation>Strona główna</translation>
     </message>
     <message>
-        <source>QField files directory</source>
-        <translation>Katalog plików QField</translation>
+        <source>FfF files directory</source>
+        <translation>Katalog plików FfF</translation>
     </message>
     <message>
         <source>Created projects</source>
@@ -7659,8 +7659,8 @@ Geometrie elementów zostaną połączone w element &quot;%1&quot;, który zacho
         <translation>Kopia zapasowa i współpraca?</translation>
     </message>
     <message>
-        <source>QFieldCloud allows to synchronize and merge the data collected by your team in %1. From small individual projects to large data collection campaigns. </source>
-        <translation>QFieldCloud pozwala zsynchronizować i połączyć dane zebrane przez twój zespół w %1. Od małych, indywidualnych projektów po duże kampanie zbierania danych.</translation>
+        <source>FfF Cloud allows to synchronize and merge the data collected by your team in %1. From small individual projects to large data collection campaigns. </source>
+        <translation>FfF Cloud pozwala zsynchronizować i połączyć dane zebrane przez twój zespół w %1. Od małych, indywidualnych projektów po duże kampanie zbierania danych.</translation>
     </message>
     <message>
         <source>Learn more about QFieldCloud here</source>
@@ -8453,9 +8453,9 @@ Geometrie elementów zostaną połączone w element &quot;%1&quot;, który zacho
         <translation>Wolę nie</translation>
     </message>
     <message>
-        <source>QFieldCloud
+        <source>FfF Cloud
 projects</source>
-        <translation>QFieldCloud
+        <translation>FfF Cloud
 projekty</translation>
     </message>
     <message>
@@ -8570,8 +8570,8 @@ projekt</translation>
         <translation>Nie można odczytać projektu, plik &quot;%1&quot; nie istnieje</translation>
     </message>
     <message>
-        <source>Map printed on %1 using QField</source>
-        <translation>Mapa wydrukowana na %1 przy użyciu QField</translation>
+        <source>Map printed on %1 using FfF</source>
+        <translation>Mapa wydrukowana na %1 przy użyciu FfF</translation>
     </message>
     <message>
         <source>Could not load resource font: %1</source>
@@ -9128,12 +9128,12 @@ aby wyświetlić działania</translation>
         <translation>Pomyślnie pobrano projekt %1, jest on gotowy do otwarcia</translation>
     </message>
     <message>
-        <source>Changes failed to reach QFieldCloud: %1</source>
-        <translation>Nie udało się wysłać zmian do QFieldCloud: %1</translation>
+        <source>Changes failed to reach FfF Cloud: %1</source>
+        <translation>Nie udało się wysłać zmian do FfF Cloud: %1</translation>
     </message>
     <message>
-        <source>Changes successfully pushed to QFieldCloud</source>
-        <translation>Zmiany wysłane pomyślnie do QFieldCloud</translation>
+        <source>Changes successfully pushed to FfF Cloud</source>
+        <translation>Zmiany wysłane pomyślnie do FfF Cloud</translation>
     </message>
     <message>
         <source>Unlock the screen to close project and app</source>
@@ -9236,20 +9236,20 @@ aby wyświetlić działania</translation>
         <translation>Eksportuj mapę do pliku PDF przy użyciu skonfigurowanych w projekcie układów wydruku i atlasów.</translation>
     </message>
     <message>
-        <source>QFieldCloud</source>
-        <translation>QFieldCloud</translation>
+        <source>FfF Cloud</source>
+        <translation>FfF Cloud</translation>
     </message>
     <message>
-        <source>Upload local changes, synchronize or discard changes to and from QFieldCloud when a cloud project is opened.</source>
-        <translation>Prześlij lokalne zmiany, zsynchronizuj lub odrzuć zmiany z i do QFieldCloud po otwarciu projektu w chmurze.</translation>
+        <source>Upload local changes, synchronize or discard changes to and from FfF Cloud when a cloud project is opened.</source>
+        <translation>Prześlij lokalne zmiany, zsynchronizuj lub odrzuć zmiany z i do FfF Cloud po otwarciu projektu w chmurze.</translation>
     </message>
     <message>
         <source>Project folder</source>
         <translation>Folder projektu</translation>
     </message>
     <message>
-        <source>Open the project folder to access project files, data sources, and related documents. Useful for managing project resources, manually uploading data to QFieldCloud, and sharing datasets, attachments, and layouts.</source>
-        <translation>Otwórz folder projektu, aby uzyskać dostęp do plików projektu, źródeł danych i powiązanych dokumentów. Przydatne do zarządzania zasobami projektu, ręcznego przesyłania danych do QFieldCloud oraz udostępniania zestawów danych, załączników i widoków.</translation>
+        <source>Open the project folder to access project files, data sources, and related documents. Useful for managing project resources, manually uploading data to FfF Cloud, and sharing datasets, attachments, and layouts.</source>
+        <translation>Otwórz folder projektu, aby uzyskać dostęp do plików projektu, źródeł danych i powiązanych dokumentów. Przydatne do zarządzania zasobami projektu, ręcznego przesyłania danych do FfF Cloud oraz udostępniania zestawów danych, załączników i widoków.</translation>
     </message>
     <message>
         <source>Pending changes are present. Upload these now or press back again to keep them pending and close the cloud project and app.</source>
@@ -9264,12 +9264,12 @@ aby wyświetlić działania</translation>
         <translation>Zmiany lokalne</translation>
     </message>
     <message>
-        <source>This project has pending changes which have not been uploaded yet. Tap the blue cloud button to open the cloud project panel and send them to QFieldCloud.</source>
-        <translation>Ten plik projekt zawiera zmiany oczekujące, które nie zostały jeszcze przesłane. Kliknij niebieski przycisk z chmurką, żeby otworzyć panel projektu w chmurze i wyślij je do QFieldCloud.</translation>
+        <source>This project has pending changes which have not been uploaded yet. Tap the blue cloud button to open the cloud project panel and send them to FfF Cloud.</source>
+        <translation>Ten plik projekt zawiera zmiany oczekujące, które nie zostały jeszcze przesłane. Kliknij niebieski przycisk z chmurką, żeby otworzyć panel projektu w chmurze i wyślij je do FfF Cloud.</translation>
     </message>
     <message>
-        <source>This cloud project has pending changes which have not been uploaded yet. Open the dashboard using this button, then tap the blue cloud icon to send them to QFieldCloud.</source>
-        <translation>W tym projekcie w chmurze są zmiany oczekujące, które nie zostały jeszcze przesłane. Otwórz pulpit nawigacyjny za pomocą tego przycisku, a potem kliknij niebieską ikonę chmury, żeby wysłać je do QFieldCloud.</translation>
+        <source>This cloud project has pending changes which have not been uploaded yet. Open the dashboard using this button, then tap the blue cloud icon to send them to FfF Cloud.</source>
+        <translation>W tym projekcie w chmurze są zmiany oczekujące, które nie zostały jeszcze przesłane. Otwórz pulpit nawigacyjny za pomocą tego przycisku, a potem kliknij niebieską ikonę chmury, żeby wysłać je do FfF Cloud.</translation>
     </message>
     <message>
         <source>Printing %1</source>
@@ -9547,8 +9547,8 @@ aby wyświetlić działania</translation>
 <context>
     <name>SystemLoader</name>
     <message>
-        <source>Preparing QField, this is a one time operation that might take some time</source>
-        <translation type="vanished">Przygotowywanie QField, jest to operacja jednorazowa, która może trochę potrwać.</translation>
+        <source>Preparing FfF, this is a one time operation that might take some time</source>
+        <translation type="vanished">Przygotowywanie FfF, jest to operacja jednorazowa, która może trochę potrwać.</translation>
     </message>
 </context>
 <context>
@@ -9964,8 +9964,8 @@ aby wyświetlić działania</translation>
         <translation type="vanished">Sięgnij</translation>
     </message>
     <message>
-        <source>Hey there, how do you like your experience with QField so far?</source>
-        <translation type="vanished">Hej, jak ci się podoba QField?</translation>
+        <source>Hey there, how do you like your experience with FfF so far?</source>
+        <translation type="vanished">Hej, jak ci się podoba FfF?</translation>
     </message>
     <message>
         <source>That&apos;s great! We&apos;d love for you to click on the button below and leave a comment on the store.</source>
@@ -9980,8 +9980,8 @@ aby wyświetlić działania</translation>
         <translation type="vanished">Wysyłanie anonimowych danych o użytkowaniu aplikacji zostało wyłączone. Możesz ponownie je włączyć przez panel ustawień.</translation>
     </message>
     <message>
-        <source>To improve stability for everyone, QField collects and sends anonymized metrics.</source>
-        <translation type="vanished">Aby zwiększyć stabilność dla użytkowników, QField zbiera i wysyła anonimowe dane o użytkowaniu aplikacji.</translation>
+        <source>To improve stability for everyone, FfF collects and sends anonymized metrics.</source>
+        <translation type="vanished">Aby zwiększyć stabilność dla użytkowników, FfF zbiera i wysyła anonimowe dane o użytkowaniu aplikacji.</translation>
     </message>
     <message>
         <source>I agree</source>
@@ -9992,8 +9992,8 @@ aby wyświetlić działania</translation>
         <translation type="vanished">Wolę nie</translation>
     </message>
     <message>
-        <source>QFieldCloud projects</source>
-        <translation type="vanished">Projekty QFieldCloud</translation>
+        <source>FfF Cloud projects</source>
+        <translation type="vanished">Projekty FfF Cloud</translation>
     </message>
     <message>
         <source>Open local file</source>
@@ -10020,12 +10020,12 @@ aby wyświetlić działania</translation>
         <translation type="vanished">Usuń z ostatnich projektów</translation>
     </message>
     <message>
-        <source>Welcome to QField. First time using this application? Try out sample projects listed in the list below.</source>
-        <translation type="vanished">Witaj w QField. Pierwszy raz używasz tej aplikacji? Wypróbuj przykładowe projekty pokazane na poniższej liście.</translation>
+        <source>Welcome to FfF. First time using this application? Try out sample projects listed in the list below.</source>
+        <translation type="vanished">Witaj w FfF. Pierwszy raz używasz tej aplikacji? Wypróbuj przykładowe projekty pokazane na poniższej liście.</translation>
     </message>
     <message>
-        <source>Welcome back to QField.</source>
-        <translation type="vanished">Witaj ponownie w QField</translation>
+        <source>Welcome back to FfF.</source>
+        <translation type="vanished">Witaj ponownie w FfF</translation>
     </message>
 </context>
 <context>
@@ -10042,8 +10042,8 @@ aby wyświetlić działania</translation>
 <context>
     <name>gallery_relation_editor</name>
     <message>
-        <source>QFieldCloud on-demand attachment error: </source>
-        <translation>Błąd załącznika na żądanie QFieldCloud: </translation>
+        <source>FfF Cloud on-demand attachment error: </source>
+        <translation>Błąd załącznika na żądanie FfF Cloud: </translation>
     </message>
     <message>
         <source>The external storage&apos;s authentication configuration ID is missing, please insure it is imported into %1</source>
@@ -10240,8 +10240,8 @@ aby wyświetlić działania</translation>
         <translation type="vanished">Dziennik</translation>
     </message>
     <message>
-        <source>About QField</source>
-        <translation type="vanished">O QField</translation>
+        <source>About FfF</source>
+        <translation type="vanished">O FfF</translation>
     </message>
     <message>
         <source>Select template below</source>
@@ -10252,8 +10252,8 @@ aby wyświetlić działania</translation>
         <translation type="vanished">Aktywacja usługi lokalizacji</translation>
     </message>
     <message>
-        <source>QField has no permissions to use positioning.</source>
-        <translation type="vanished">QField nie ma uprawnień do używania pozycjonowania</translation>
+        <source>FfF has no permissions to use positioning.</source>
+        <translation type="vanished">FfF nie ma uprawnień do używania pozycjonowania</translation>
     </message>
     <message>
         <source>Map Canvas Options</source>
@@ -10448,12 +10448,12 @@ aby wyświetlić działania</translation>
         <translation type="vanished">Pomyślnie pobrano projekt %1, jest on gotowy do otwarcia</translation>
     </message>
     <message>
-        <source>Changes failed to reach QFieldCloud: %1</source>
-        <translation type="vanished">Nie udało się wysłać zmian do QFieldCloud: %1</translation>
+        <source>Changes failed to reach FfF Cloud: %1</source>
+        <translation type="vanished">Nie udało się wysłać zmian do FfF Cloud: %1</translation>
     </message>
     <message>
-        <source>Changes successfully pushed to QFieldCloud</source>
-        <translation type="vanished">Zmiany wysłane pomyślnie do QFieldCloud</translation>
+        <source>Changes successfully pushed to FfF Cloud</source>
+        <translation type="vanished">Zmiany wysłane pomyślnie do FfF Cloud</translation>
     </message>
     <message>
         <source>Press back again to close project and app</source>
@@ -10508,7 +10508,7 @@ aby wyświetlić działania</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud</source>
+        <source>FfF Cloud</source>
         <translation type="unfinished"/>
     </message>
 </context>

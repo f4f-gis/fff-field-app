@@ -26,7 +26,7 @@ Page {
   rightPadding: mainWindow.sceneRightMargin
 
   header: QfPageHeader {
-    title: qsTr("QFieldCloud")
+    title: qsTr("FfF Cloud")
 
     showBackButton: true
     showApplyButton: false
@@ -474,7 +474,7 @@ Page {
                           break;
                         case QfCloudProject.Downloading:
                           if (PackagingStatus === QfCloudProject.PackagingBusyStatus) {
-                            status = qsTr('QFieldCloud is packaging the latest data just for you; this might take some time, please hold tight');
+                            status = qsTr('FfF Cloud is packaging the latest data just for you; this might take some time, please hold tight');
                           } else {
                             if (PackagingStatus === QfCloudProject.PackagingFinishedStatus || DownloadProgress > 0.0) {
                               if (DownloadSize > 0) {
@@ -483,7 +483,7 @@ Page {
                                 status = qsTr('Downloading, %1% fetched').arg(Math.round(DownloadProgress * 100));
                               }
                             } else {
-                              status = qsTr('Reaching out to QFieldCloud to download project');
+                              status = qsTr('Reaching out to FfF Cloud to download project');
                             }
                           }
                           break;
@@ -1078,7 +1078,7 @@ Page {
       if (requestedProjectDetails != "") {
         requestedProjectDetails = "";
         if (hasError) {
-          displayToast(qsTr("QFieldCloud project details fetching failed"));
+          displayToast(qsTr("FfF Cloud project details fetching failed"));
         } else {
           projectDetails.cloudProject = cloudProjectsModel.findProject(projectId);
           projectsSwipeView.currentIndex = 1;

@@ -30,7 +30,7 @@
     <string name="external_files_message"><![CDATA[QField文件目录可用于通过USB传输线将文件和工程复制到您的设备上，您可以在标题栏看到该目录的绝对路径。<br/><br/>请注意，如果您从设备中卸载QField，该目录的内容将被 <i>删除</i>。]]></string>
     <string name="external_files_ok">确定</string>
     <string name="grant_permission">所有文件访问权限</string>
-    <string name="grant_all_files_permission"><![CDATA[QField需要所有文件访问权限才能打开本地工程和数据集，并支持自定义投影网格化、字体和底图。这虽然不是必需的，<i> 但强烈建议允许访问</i>。<br/><br/>在下一界面上，请选择 <b>QField</b> 并选择 <b>允许访问所有文件</b> 选项。]]></string>
+    <string name="grant_all_files_permission"><![CDATA[QField需要所有文件访问权限才能打开本地工程和数据集，并支持自定义投影网格化、字体和底图。这虽然不是必需的，<i> 但强烈建议允许访问</i>。<br/><br/>在下一界面上，请选择 <b>FfF</b> 并选择 <b>允许访问所有文件</b> 选项。]]></string>
     <string name="grant">允许</string>
     <string name="deny_always">始终拒绝</string>
     <string name="deny_once">仅拒绝一次 </string>
@@ -58,7 +58,7 @@
     <string name="import_project_wait">QField正在导入工程，请稍候</string>
     <string name="import_dataset_wait">QField正在导入数据集，请稍候</string>
     <string name="update_project_wait">QField正在更新本地工程，请稍候</string>
-    <string name="upload_pending_attachments">目前正在将附件上传到QFieldCloud</string>
+    <string name="upload_pending_attachments">目前正在将附件上传到FfF Cloud</string>
     <string name="operation_unsupported">不支持的操作</string>
     <string name="import_operation_unsupported">您的设备不支持此导入操作。</string>
     <string name="export_operation_unsupported">您的设备不支持此导出操作。</string>

@@ -1149,8 +1149,8 @@ Geoobjektų geometrijos bus sujungtos į geoobjektą „%1“, kuris išsaugos s
 <context>
     <name>LocalFilesModel</name>
     <message>
-        <source>QField files directory</source>
-        <translation type="vanished">QField failų katalogas</translation>
+        <source>FfF files directory</source>
+        <translation type="vanished">FfF failų katalogas</translation>
     </message>
     <message>
         <source>Imported projects</source>
@@ -1911,42 +1911,42 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">Sužinoti daugiau apie QFieldCloud</translation>
     </message>
     <message>
-        <source>QFieldCloud</source>
+        <source>FfF Cloud</source>
         <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>QFieldCloudPackageLayersFeedback</name>
     <message>
-        <source>Problematic QFieldCloud layer packaging</source>
-        <translation type="vanished">Problemos pakuojant QFieldCloud sluoksnius</translation>
+        <source>Problematic FfF Cloud layer packaging</source>
+        <translation type="vanished">Problemos pakuojant FfF Cloud sluoksnius</translation>
     </message>
     <message>
-        <source>Some layers have not been packaged correctly on QFieldCloud. These layers might be misconfigured or their data source is not accessible from the QFieldCloud server.</source>
-        <translation type="vanished">Kai kurie sluoksniai QFieldCloud supakuoti netinkamai. Šie sluoksniai gali būti netinkamai sukonfigūruoti arba QFieldCloud serveris negali pasiekti jų duomenų šaltinio.</translation>
+        <source>Some layers have not been packaged correctly on FfF Cloud. These layers might be misconfigured or their data source is not accessible from the FfF Cloud server.</source>
+        <translation type="vanished">Kai kurie sluoksniai FfF Cloud supakuoti netinkamai. Šie sluoksniai gali būti netinkamai sukonfigūruoti arba FfF Cloud serveris negali pasiekti jų duomenų šaltinio.</translation>
     </message>
     <message>
-        <source>QFieldCloud had troubles packaging your project</source>
-        <translation type="vanished">QFieldCloud nepavyko supakuoti jūsų projekto</translation>
+        <source>FfF Cloud had troubles packaging your project</source>
+        <translation type="vanished">FfF Cloud nepavyko supakuoti jūsų projekto</translation>
     </message>
     <message>
-        <source>Some layers have not been packaged correctly on QFieldCloud. These layers might be misconfigured or their data source is not accessible from the QFieldCloud server. Please check the logs of the latest packaging job on the qfield.cloud website.</source>
-        <translation type="vanished">Kai kurie sluoksniai QFieldCloud supakuoti netinkamai. Šie sluoksniai gali būti netinkamai sukonfigūruoti arba QFieldCloud serveris negali pasiekti jų duomenų šaltinio. Patikrinkite naujausios pakavimo užduoties žurnalus svetainėje qfield.cloud.</translation>
+        <source>Some layers have not been packaged correctly on FfF Cloud. These layers might be misconfigured or their data source is not accessible from the FfF Cloud server. Please check the logs of the latest packaging job on the qfield.cloud website.</source>
+        <translation type="vanished">Kai kurie sluoksniai FfF Cloud supakuoti netinkamai. Šie sluoksniai gali būti netinkamai sukonfigūruoti arba FfF Cloud serveris negali pasiekti jų duomenų šaltinio. Patikrinkite naujausios pakavimo užduoties žurnalus svetainėje qfield.cloud.</translation>
     </message>
 </context>
 <context>
     <name>QFieldCloudPopup</name>
     <message>
-        <source>QFieldCloud</source>
-        <translation type="vanished">QFieldCloud</translation>
+        <source>FfF Cloud</source>
+        <translation type="vanished">FfF Cloud</translation>
     </message>
     <message>
-        <source>The current project is not stored on QFieldCloud.&lt;br&gt;&lt;br&gt;</source>
-        <translation type="vanished">Dabartinis projektas nesaugomas QFieldCloud.&lt;br&gt;&lt;br&gt;</translation>
+        <source>The current project is not stored on FfF Cloud.&lt;br&gt;&lt;br&gt;</source>
+        <translation type="vanished">Dabartinis projektas nesaugomas FfF Cloud.&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
-        <source>Storing projects on QFieldCloud offers seamless synchornization, offline editing, and team management.&lt;br&gt;&lt;br&gt;</source>
-        <translation type="vanished">Projektų saugojimas QFieldCloud suteikia sklandų sinchronizavimą, redagavimą neprisijungus ir komandos valdymą.&lt;br&gt;&lt;br&gt;</translation>
+        <source>Storing projects on FfF Cloud offers seamless synchornization, offline editing, and team management.&lt;br&gt;&lt;br&gt;</source>
+        <translation type="vanished">Projektų saugojimas FfF Cloud suteikia sklandų sinchronizavimą, redagavimą neprisijungus ir komandos valdymą.&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>Learn more about QFieldCloud</source>
@@ -1965,24 +1965,24 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">Sveiki, &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <source>This QFieldCloud project was first downloaded with another cloud account. Please sign in with the original account for this project to use the QFieldCloud functionality.</source>
-        <translation type="vanished">Šis QFieldCloud projektas pirmą kartą atsisiųstas naudojant kitą debesijos paskyrą. Norėdami naudoti QFieldCloud funkcijas, prisijunkite naudodami pradinę šio projekto paskyrą.</translation>
+        <source>This FfF Cloud project was first downloaded with another cloud account. Please sign in with the original account for this project to use the FfF Cloud functionality.</source>
+        <translation type="vanished">Šis FfF Cloud projektas pirmą kartą atsisiųstas naudojant kitą debesijos paskyrą. Norėdami naudoti FfF Cloud funkcijas, prisijunkite naudodami pradinę šio projekto paskyrą.</translation>
     </message>
     <message>
         <source>Downloading %1%…</source>
         <translation type="vanished">Atsisiunčiama %1 %…</translation>
     </message>
     <message>
-        <source>QFieldCloud is preparing the latest data just for you. This might take some time, please hold tight…</source>
-        <translation type="vanished">QFieldCloud ruošia jums naujausius duomenis. Tai gali užtrukti, todėl luktelėkite…</translation>
+        <source>FfF Cloud is preparing the latest data just for you. This might take some time, please hold tight…</source>
+        <translation type="vanished">FfF Cloud ruošia jums naujausius duomenis. Tai gali užtrukti, todėl luktelėkite…</translation>
     </message>
     <message>
         <source>Uploading %1%…</source>
         <translation type="vanished">Įkeliama %1 %…</translation>
     </message>
     <message>
-        <source>QFieldCloud is applying the latest uploaded changes. This might take some time, please hold tight…</source>
-        <translation type="vanished">QFieldCloud taiko naujausius įkeltus pakeitimus. Tai gali užtrukti, todėl luktelėkite…</translation>
+        <source>FfF Cloud is applying the latest uploaded changes. This might take some time, please hold tight…</source>
+        <translation type="vanished">FfF Cloud taiko naujausius įkeltus pakeitimus. Tai gali užtrukti, todėl luktelėkite…</translation>
     </message>
     <message>
         <source>A server error has occured, please try again.</source>
@@ -2009,8 +2009,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">Sinchronizuoti</translation>
     </message>
     <message>
-        <source>Synchronize the whole project with all modified features and download the freshly updated project with all the applied changes from QFieldCloud.</source>
-        <translation type="vanished">Sinchronizuoti visą projektą su visais pakeistais geoobjektais ir iš QFieldCloud atsisiųsti naujai atnaujintą projektą su visais pritaikytais pakeitimais.</translation>
+        <source>Synchronize the whole project with all modified features and download the freshly updated project with all the applied changes from FfF Cloud.</source>
+        <translation type="vanished">Sinchronizuoti visą projektą su visais pakeistais geoobjektais ir iš FfF Cloud atsisiųsti naujai atnaujintą projektą su visais pritaikytais pakeitimais.</translation>
     </message>
     <message>
         <source>Push changes</source>
@@ -2169,7 +2169,7 @@ Projektą vis dar galite peržiūrėti ir naudoti, tačiau primygtinai rekomendu
         <translation type="unfinished"/>
     </message>
     <message>
-        <source> (see more in the QField error log)…</source>
+        <source> (see more in the FfF error log)…</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2335,8 +2335,8 @@ Projektą vis dar galite peržiūrėti ir naudoti, tačiau primygtinai rekomendu
         <translation type="vanished">Sistemos pranešimas: </translation>
     </message>
     <message>
-        <source> (see more in the QField error log)…</source>
-        <translation type="vanished"> (daugiau informacijos rasite QField klaidų žurnale)…</translation>
+        <source> (see more in the FfF error log)…</source>
+        <translation type="vanished"> (daugiau informacijos rasite FfF klaidų žurnale)…</translation>
     </message>
     <message>
         <source>Failed to copy some of the downloaded files on your device. Check your device storage.</source>
@@ -2346,8 +2346,8 @@ Projektą vis dar galite peržiūrėti ir naudoti, tačiau primygtinai rekomendu
 <context>
     <name>QFieldCloudScreen</name>
     <message>
-        <source>QFieldCloud Projects</source>
-        <translation type="vanished">QFieldCloud projektai</translation>
+        <source>FfF Cloud Projects</source>
+        <translation type="vanished">FfF Cloud projektai</translation>
     </message>
     <message>
         <source>Disconnected from the cloud.</source>
@@ -2378,8 +2378,8 @@ Projektą vis dar galite peržiūrėti ir naudoti, tačiau primygtinai rekomendu
         <translation type="vanished">Atsisiunčiama, gauta %1 %…</translation>
     </message>
     <message>
-        <source>QFieldCloud is preparing the latest data just for you. This might take some time, please hold tight…</source>
-        <translation type="vanished">QFieldCloud ruošia jums naujausius duomenis. Tai gali užtrukti, todėl luktelėkite…</translation>
+        <source>FfF Cloud is preparing the latest data just for you. This might take some time, please hold tight…</source>
+        <translation type="vanished">FfF Cloud ruošia jums naujausius duomenis. Tai gali užtrukti, todėl luktelėkite…</translation>
     </message>
     <message>
         <source>Uploading…</source>
@@ -2621,8 +2621,8 @@ Projektą vis dar galite peržiūrėti ir naudoti, tačiau primygtinai rekomendu
         <translation type="vanished">Naudoti vietinę kamerą</translation>
     </message>
     <message>
-        <source>If disabled, QField will use a minimalist internal camera instead of the camera app on the device.&lt;br&gt;Tip: Enable this option and install the open camera app to create geo tagged photos.</source>
-        <translation type="vanished">Jei neaktyvuotas, „QField“ vietoje įrenginio kameros programos naudos minimalistinę vidinę kamerą. &lt;br&gt;Patarimas: įgalinkite šią parinktį ir įdiekite atviros kameros programą, kad sukurtumėte geografiškai pažymėtas nuotraukas.</translation>
+        <source>If disabled, FfF will use a minimalist internal camera instead of the camera app on the device.&lt;br&gt;Tip: Enable this option and install the open camera app to create geo tagged photos.</source>
+        <translation type="vanished">Jei neaktyvuotas, „FfF“ vietoje įrenginio kameros programos naudos minimalistinę vidinę kamerą. &lt;br&gt;Patarimas: įgalinkite šią parinktį ir įdiekite atviros kameros programą, kad sukurtumėte geografiškai pažymėtas nuotraukas.</translation>
     </message>
     <message>
         <source>Fast editing mode</source>
@@ -2653,8 +2653,8 @@ Projektą vis dar galite peržiūrėti ir naudoti, tačiau primygtinai rekomendu
         <translation type="vanished">Siųsti anoniminius metrikos duomenis</translation>
     </message>
     <message>
-        <source>If enabled, anonymized metrics will be collected and sent to help improve QField for everyone.</source>
-        <translation type="vanished">Įjungus šią parinktį, bus renkami ir siunčiami anoniminiai metrikos duomenys, padedantys tobulinti QField visiems naudotojams.</translation>
+        <source>If enabled, anonymized metrics will be collected and sent to help improve FfF for everyone.</source>
+        <translation type="vanished">Įjungus šią parinktį, bus renkami ir siunčiami anoniminiai metrikos duomenys, padedantys tobulinti FfF visiems naudotojams.</translation>
     </message>
     <message>
         <source>General</source>
@@ -2677,8 +2677,8 @@ Projektą vis dar galite peržiūrėti ir naudoti, tačiau primygtinai rekomendu
         <translation type="vanished">Naudotojo sąsajos kalba:</translation>
     </message>
     <message>
-        <source>To apply the selected user interface language, QField needs to completely shutdown and restart.</source>
-        <translation type="vanished">Kad būtų pritaikyta pasirinkta naudotojo sąsajos kalba, QField turi būti visiškai išjungta ir paleista iš naujo.</translation>
+        <source>To apply the selected user interface language, FfF needs to completely shutdown and restart.</source>
+        <translation type="vanished">Kad būtų pritaikyta pasirinkta naudotojo sąsajos kalba, FfF turi būti visiškai išjungta ir paleista iš naujo.</translation>
     </message>
     <message>
         <source>system</source>
@@ -2815,8 +2815,8 @@ Atšaukite, jei vietoj jos norite atlikti minimalią įrenginių paiešką.</tra
         <translation type="vanished">Vertikaliojo tinklelio poslinkis naudojamas aukščio tikslumui padidinti.</translation>
     </message>
     <message>
-        <source>QField Settings</source>
-        <translation type="vanished">QField nustatymai</translation>
+        <source>FfF Settings</source>
+        <translation type="vanished">FfF nustatymai</translation>
     </message>
     <message>
         <source>Time of inactivity in seconds before the screen brightness get be dimmed to preserve battery.</source>
@@ -2898,8 +2898,8 @@ Atšaukite, jei vietoj jos norite atlikti minimalią įrenginių paiešką.</tra
         <translation>Autentifikacija privaloma</translation>
     </message>
     <message>
-        <source>QFieldCloud Unknown Error</source>
-        <translation>Nežinoma QFieldCloud klaida</translation>
+        <source>FfF Cloud Unknown Error</source>
+        <translation>Nežinoma FfF Cloud klaida</translation>
     </message>
     <message>
         <source>Status not ok</source>
@@ -2966,8 +2966,8 @@ Atšaukite, jei vietoj jos norite atlikti minimalią įrenginių paiešką.</tra
         <translation>Debesijos naudotojo informacija</translation>
     </message>
     <message>
-        <source>Please wait while QField installation finalizes.</source>
-        <translation>Palaukite, kol bus baigtas QField diegimas.</translation>
+        <source>Please wait while FfF installation finalizes.</source>
+        <translation>Palaukite, kol bus baigtas FfF diegimas.</translation>
     </message>
     <message>
         <source>averaged</source>
@@ -3562,8 +3562,8 @@ Atšaukite, jei vietoj jos norite atlikti minimalią įrenginių paiešką.</tra
         <translation>pvz., localhost, 192.168.*</translation>
     </message>
     <message>
-        <source>Configure a network proxy to route QField&apos;s traffic through a proxy server. Useful for corporate networks and VPNs.</source>
-        <translation>Sukonfigūruokite tinklo įgaliotąjį serverį, per kurį bus nukreipiamas QField srautas. Tai naudinga įmonių tinkluose ir VPN.</translation>
+        <source>Configure a network proxy to route FfF&apos;s traffic through a proxy server. Useful for corporate networks and VPNs.</source>
+        <translation>Sukonfigūruokite tinklo įgaliotąjį serverį, per kurį bus nukreipiamas FfF srautas. Tai naudinga įmonių tinkluose ir VPN.</translation>
     </message>
     <message>
         <source>Advanced</source>
@@ -4477,12 +4477,12 @@ Projektą vis dar galite peržiūrėti ir naudoti, tačiau primygtinai rekomendu
 <context>
     <name>QfCloudPackageLayersFeedback</name>
     <message>
-        <source>Some layers have not been packaged correctly. These layers might be misconfigured or their data source is not accessible from the QFieldCloud server.</source>
-        <translation>Kai kurie sluoksniai supakuoti netinkamai. Šie sluoksniai gali būti netinkamai sukonfigūruoti arba QFieldCloud serveris negali pasiekti jų duomenų šaltinio.</translation>
+        <source>Some layers have not been packaged correctly. These layers might be misconfigured or their data source is not accessible from the FfF Cloud server.</source>
+        <translation>Kai kurie sluoksniai supakuoti netinkamai. Šie sluoksniai gali būti netinkamai sukonfigūruoti arba FfF Cloud serveris negali pasiekti jų duomenų šaltinio.</translation>
     </message>
     <message>
-        <source>Please check the detailed feedback below and the latest packaging job logs on the QFieldCloud website.</source>
-        <translation>Peržiūrėkite toliau pateiktą išsamią informaciją ir naujausios pakavimo užduoties žurnalus QFieldCloud svetainėje.</translation>
+        <source>Please check the detailed feedback below and the latest packaging job logs on the FfF Cloud website.</source>
+        <translation>Peržiūrėkite toliau pateiktą išsamią informaciją ir naujausios pakavimo užduoties žurnalus FfF Cloud svetainėje.</translation>
     </message>
 </context>
 <context>
@@ -4531,16 +4531,16 @@ Projektą vis dar galite peržiūrėti ir naudoti, tačiau primygtinai rekomendu
         <translation>Pavojinga zona</translation>
     </message>
     <message>
-        <source>QFieldCloud</source>
-        <translation>QFieldCloud</translation>
+        <source>FfF Cloud</source>
+        <translation>FfF Cloud</translation>
     </message>
     <message>
-        <source>This QFieldCloud project was first downloaded with another cloud account. Please sign in with the original account for this project to use the QFieldCloud functionality.</source>
-        <translation>Šis QFieldCloud projektas pirmą kartą atsisiųstas naudojant kitą debesijos paskyrą. Norėdami naudoti QFieldCloud funkcijas, prisijunkite naudodami pradinę šio projekto paskyrą.</translation>
+        <source>This FfF Cloud project was first downloaded with another cloud account. Please sign in with the original account for this project to use the FfF Cloud functionality.</source>
+        <translation>Šis FfF Cloud projektas pirmą kartą atsisiųstas naudojant kitą debesijos paskyrą. Norėdami naudoti FfF Cloud funkcijas, prisijunkite naudodami pradinę šio projekto paskyrą.</translation>
     </message>
     <message>
-        <source>QFieldCloud is packaging the latest data just for you; this might take some time, please hold tight</source>
-        <translation>QFieldCloud pakuoja jums naujausius duomenis. Tai gali užtrukti, todėl luktelėkite</translation>
+        <source>FfF Cloud is packaging the latest data just for you; this might take some time, please hold tight</source>
+        <translation>FfF Cloud pakuoja jums naujausius duomenis. Tai gali užtrukti, todėl luktelėkite</translation>
     </message>
     <message>
         <source>Downloading, %1% of %2 fetched</source>
@@ -4551,28 +4551,28 @@ Projektą vis dar galite peržiūrėti ir naudoti, tačiau primygtinai rekomendu
         <translation>Atsisiunčiama, gauta %1 %</translation>
     </message>
     <message>
-        <source>Reaching out to QFieldCloud to download project</source>
-        <translation>Kreipiamasi į QFieldCloud dėl projekto atsisiuntimo</translation>
+        <source>Reaching out to FfF Cloud to download project</source>
+        <translation>Kreipiamasi į FfF Cloud dėl projekto atsisiuntimo</translation>
     </message>
     <message>
         <source>Pushing changes, %1%…</source>
         <translation>Siunčiami pakeitimai, %1 %…</translation>
     </message>
     <message>
-        <source>QFieldCloud is applying the latest pushed changes. This might take some time, please hold tight…</source>
-        <translation>QFieldCloud taiko naujausius išsiųstus pakeitimus. Tai gali užtrukti, todėl luktelėkite…</translation>
+        <source>FfF Cloud is applying the latest pushed changes. This might take some time, please hold tight…</source>
+        <translation>FfF Cloud taiko naujausius išsiųstus pakeitimus. Tai gali užtrukti, todėl luktelėkite…</translation>
     </message>
     <message>
         <source>Cloudify project</source>
         <translation>Perkelti projektą į debesiją</translation>
     </message>
     <message>
-        <source>Uploading the current project to QFieldCloud.</source>
-        <translation>Dabartinis projektas įkeliamas į QFieldCloud.</translation>
+        <source>Uploading the current project to FfF Cloud.</source>
+        <translation>Dabartinis projektas įkeliamas į FfF Cloud.</translation>
     </message>
     <message>
-        <source>The current project is not stored on QFieldCloud. Storing projects on QFieldCloud offers seamless synchronization, offline editing, and team management.</source>
-        <translation>Dabartinis projektas nesaugomas QFieldCloud. Projektų saugojimas QFieldCloud suteikia sklandų sinchronizavimą, redagavimą neprisijungus ir komandos valdymą.</translation>
+        <source>The current project is not stored on FfF Cloud. Storing projects on FfF Cloud offers seamless synchronization, offline editing, and team management.</source>
+        <translation>Dabartinis projektas nesaugomas FfF Cloud. Projektų saugojimas FfF Cloud suteikia sklandų sinchronizavimą, redagavimą neprisijungus ir komandos valdymą.</translation>
     </message>
     <message>
         <source>Learn more about QFieldCloud</source>
@@ -4635,8 +4635,8 @@ Projektą vis dar galite peržiūrėti ir naudoti, tačiau primygtinai rekomendu
         <translation>Sinchronizuoti projektą</translation>
     </message>
     <message>
-        <source>Uploads your edits, then downloads the latest project from QFieldCloud so everything is up to date.</source>
-        <translation>Įkelia jūsų pakeitimus, tada iš QFieldCloud atsisiunčia naujausią projektą, kad visi duomenys būtų atnaujinti.</translation>
+        <source>Uploads your edits, then downloads the latest project from FfF Cloud so everything is up to date.</source>
+        <translation>Įkelia jūsų pakeitimus, tada iš FfF Cloud atsisiunčia naujausią projektą, kad visi duomenys būtų atnaujinti.</translation>
     </message>
     <message>
         <source>Last synchronized just now</source>
@@ -4816,8 +4816,8 @@ Projektą vis dar galite peržiūrėti ir naudoti, tačiau primygtinai rekomendu
         <translation>Sistemos pranešimas: </translation>
     </message>
     <message>
-        <source> (see more in the QField error log)…</source>
-        <translation> (daugiau informacijos rasite QField klaidų žurnale)…</translation>
+        <source> (see more in the FfF error log)…</source>
+        <translation> (daugiau informacijos rasite FfF klaidų žurnale)…</translation>
     </message>
     <message>
         <source>Job creation finished, but the server response is missing required fields: id(string)</source>
@@ -4891,8 +4891,8 @@ Projektą vis dar galite peržiūrėti ir naudoti, tačiau primygtinai rekomendu
         <translation>Įkelti vietinius pakeitimus</translation>
     </message>
     <message>
-        <source>QFieldCloud is packaging project, hold tight</source>
-        <translation>QFieldCloud pakuoja projektą, luktelėkite</translation>
+        <source>FfF Cloud is packaging project, hold tight</source>
+        <translation>FfF Cloud pakuoja projektą, luktelėkite</translation>
     </message>
     <message>
         <source>Downloading project</source>
@@ -4984,7 +4984,7 @@ Projektą vis dar galite peržiūrėti ir naudoti, tačiau primygtinai rekomendu
 <context>
     <name>QfCloudScreen</name>
     <message>
-        <source>QFieldCloud Projects</source>
+        <source>FfF Cloud Projects</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -5008,8 +5008,8 @@ Projektą vis dar galite peržiūrėti ir naudoti, tačiau primygtinai rekomendu
         <translation>Ieškoti projektų</translation>
     </message>
     <message>
-        <source>QFieldCloud is packaging the latest data just for you; this might take some time, please hold tight</source>
-        <translation>QFieldCloud pakuoja jums naujausius duomenis. Tai gali užtrukti, todėl luktelėkite</translation>
+        <source>FfF Cloud is packaging the latest data just for you; this might take some time, please hold tight</source>
+        <translation>FfF Cloud pakuoja jums naujausius duomenis. Tai gali užtrukti, todėl luktelėkite</translation>
     </message>
     <message>
         <source>Downloading, %1% of %2 fetched</source>
@@ -5020,8 +5020,8 @@ Projektą vis dar galite peržiūrėti ir naudoti, tačiau primygtinai rekomendu
         <translation>Atsisiunčiama, gauta %1 %</translation>
     </message>
     <message>
-        <source>Reaching out to QFieldCloud to download project</source>
-        <translation>Kreipiamasi į QFieldCloud dėl projekto atsisiuntimo</translation>
+        <source>Reaching out to FfF Cloud to download project</source>
+        <translation>Kreipiamasi į FfF Cloud dėl projekto atsisiuntimo</translation>
     </message>
     <message>
         <source>Uploading…</source>
@@ -5116,8 +5116,8 @@ Projektą vis dar galite peržiūrėti ir naudoti, tačiau primygtinai rekomendu
         <translation>Ar tikrai norite pašalinti „%1“?</translation>
     </message>
     <message>
-        <source>QFieldCloud project details fetching failed</source>
-        <translation>Nepavyko gauti QFieldCloud projekto informacijos</translation>
+        <source>FfF Cloud project details fetching failed</source>
+        <translation>Nepavyko gauti FfF Cloud projekto informacijos</translation>
     </message>
     <message>
         <source>Project cloning failed: %1</source>
@@ -5148,8 +5148,8 @@ Projektą vis dar galite peržiūrėti ir naudoti, tačiau primygtinai rekomendu
         <translation>Leidžiami simboliai: 0-9A-Za-z_-</translation>
     </message>
     <message>
-        <source>QFieldCloud</source>
-        <translation>QFieldCloud</translation>
+        <source>FfF Cloud</source>
+        <translation>FfF Cloud</translation>
     </message>
     <message>
         <source>Search for templates</source>
@@ -5207,20 +5207,20 @@ Projektą vis dar galite peržiūrėti ir naudoti, tačiau primygtinai rekomendu
 <context>
     <name>QfCloudStatus</name>
     <message>
-        <source>QFieldCloud server is not reachable</source>
-        <translation>QFieldCloud serveris nepasiekiamas</translation>
+        <source>FfF Cloud server is not reachable</source>
+        <translation>FfF Cloud serveris nepasiekiamas</translation>
     </message>
     <message>
         <source>The server at %1 could not be reached. Please check your internet connection.</source>
         <translation>Nepavyko pasiekti serverio adresu %1. Patikrinkite interneto ryšį.</translation>
     </message>
     <message>
-        <source>QFieldCloud is under maintenance</source>
-        <translation>Atliekama QFieldCloud techninė priežiūra</translation>
+        <source>FfF Cloud is under maintenance</source>
+        <translation>Atliekama FfF Cloud techninė priežiūra</translation>
     </message>
     <message>
-        <source>QFieldCloud service is degraded</source>
-        <translation>QFieldCloud paslauga veikia prasčiau</translation>
+        <source>FfF Cloud service is degraded</source>
+        <translation>FfF Cloud paslauga veikia prasčiau</translation>
     </message>
     <message>
         <source>There is an ongoing incident</source>
@@ -5529,8 +5529,8 @@ Projektą vis dar galite peržiūrėti ir naudoti, tačiau primygtinai rekomendu
         <translation>Šio tipo failas nepalaikomas</translation>
     </message>
     <message>
-        <source>QFieldCloud on-demand attachment error: </source>
-        <translation>QFieldCloud priedo pareikalavus klaida: </translation>
+        <source>FfF Cloud on-demand attachment error: </source>
+        <translation>FfF Cloud priedo pareikalavus klaida: </translation>
     </message>
     <message>
         <source>Take a photo</source>
@@ -6477,8 +6477,8 @@ Geoobjektų geometrijos bus sujungtos į geoobjektą „%1“, kuris išsaugos s
         <translation>Siųsti į...</translation>
     </message>
     <message>
-        <source>Push to QFieldCloud</source>
-        <translation>Siųsti į QFieldCloud</translation>
+        <source>Push to FfF Cloud</source>
+        <translation>Siųsti į FfF Cloud</translation>
     </message>
     <message>
         <source>Export to folder...</source>
@@ -6569,12 +6569,12 @@ Geoobjektų geometrijos bus sujungtos į geoobjektą „%1“, kuris išsaugos s
         <translation>Įkelti failą (-us) į WebDAV</translation>
     </message>
     <message>
-        <source>Push file(s) to QFieldCloud</source>
-        <translation>Siųsti failą (-us) į QFieldCloud</translation>
+        <source>Push file(s) to FfF Cloud</source>
+        <translation>Siųsti failą (-us) į FfF Cloud</translation>
     </message>
     <message>
-        <source>Please select one or more files to push to QFieldCloud.</source>
-        <translation>Pasirinkite vieną ar daugiau failų, kuriuos norite siųsti į QFieldCloud.</translation>
+        <source>Please select one or more files to push to FfF Cloud.</source>
+        <translation>Pasirinkite vieną ar daugiau failų, kuriuos norite siųsti į FfF Cloud.</translation>
     </message>
     <message>
         <source>Send compressed file(s) to...</source>
@@ -6585,12 +6585,12 @@ Geoobjektų geometrijos bus sujungtos į geoobjektą „%1“, kuris išsaugos s
         <translation>Ištrinti failą (-us)</translation>
     </message>
     <message>
-        <source>‘%1’ is being uploaded to QFieldCloud</source>
-        <translation>„%1“ įkeliamas į QFieldCloud</translation>
+        <source>‘%1’ is being uploaded to FfF Cloud</source>
+        <translation>„%1“ įkeliamas į FfF Cloud</translation>
     </message>
     <message>
-        <source>Items being uploaded to QFieldCloud</source>
-        <translation>Elementai įkeliami į QFieldCloud</translation>
+        <source>Items being uploaded to FfF Cloud</source>
+        <translation>Elementai įkeliami į FfF Cloud</translation>
     </message>
     <message>
         <source>Remove File(s)</source>
@@ -6712,8 +6712,8 @@ Geoobjektų geometrijos bus sujungtos į geoobjektą „%1“, kuris išsaugos s
         <translation>Pradžia</translation>
     </message>
     <message>
-        <source>QField files directory</source>
-        <translation>QField failų katalogas</translation>
+        <source>FfF files directory</source>
+        <translation>FfF failų katalogas</translation>
     </message>
     <message>
         <source>Created projects</source>
@@ -7659,8 +7659,8 @@ Geoobjektų geometrijos bus sujungtos į geoobjektą „%1“, kuris išsaugos s
         <translation>Kurti atsargines kopijas ir bendradarbiauti?</translation>
     </message>
     <message>
-        <source>QFieldCloud allows to synchronize and merge the data collected by your team in %1. From small individual projects to large data collection campaigns. </source>
-        <translation>QFieldCloud leidžia sinchronizuoti ir sujungti jūsų komandos surinktus duomenis „%1“ – nuo mažų asmeninių projektų iki didelių duomenų rinkimo kampanijų. </translation>
+        <source>FfF Cloud allows to synchronize and merge the data collected by your team in %1. From small individual projects to large data collection campaigns. </source>
+        <translation>FfF Cloud leidžia sinchronizuoti ir sujungti jūsų komandos surinktus duomenis „%1“ – nuo mažų asmeninių projektų iki didelių duomenų rinkimo kampanijų. </translation>
     </message>
     <message>
         <source>Learn more about QFieldCloud here</source>
@@ -8453,9 +8453,9 @@ Geoobjektų geometrijos bus sujungtos į geoobjektą „%1“, kuris išsaugos s
         <translation>Nenoriu</translation>
     </message>
     <message>
-        <source>QFieldCloud
+        <source>FfF Cloud
 projects</source>
-        <translation>QFieldCloud
+        <translation>FfF Cloud
 projektai</translation>
     </message>
     <message>
@@ -8570,8 +8570,8 @@ projektą</translation>
         <translation>Nepavyksta perskaityti projekto, nes failo „%1“ nėra</translation>
     </message>
     <message>
-        <source>Map printed on %1 using QField</source>
-        <translation>Žemėlapis išspausdintas %1 naudojant QField</translation>
+        <source>Map printed on %1 using FfF</source>
+        <translation>Žemėlapis išspausdintas %1 naudojant FfF</translation>
     </message>
     <message>
         <source>Could not load resource font: %1</source>
@@ -9128,12 +9128,12 @@ kad būtų parodyti veiksmai</translation>
         <translation>Projektas %1 sėkmingai atsisiųstas ir dabar jį galima atverti</translation>
     </message>
     <message>
-        <source>Changes failed to reach QFieldCloud: %1</source>
-        <translation>Pakeitimų nepavyko nusiųsti į QFieldCloud: %1</translation>
+        <source>Changes failed to reach FfF Cloud: %1</source>
+        <translation>Pakeitimų nepavyko nusiųsti į FfF Cloud: %1</translation>
     </message>
     <message>
-        <source>Changes successfully pushed to QFieldCloud</source>
-        <translation>Pakeitimai sėkmingai nusiųsti į QFieldCloud</translation>
+        <source>Changes successfully pushed to FfF Cloud</source>
+        <translation>Pakeitimai sėkmingai nusiųsti į FfF Cloud</translation>
     </message>
     <message>
         <source>Unlock the screen to close project and app</source>
@@ -9236,20 +9236,20 @@ kad būtų parodyti veiksmai</translation>
         <translation>Eksportuokite žemėlapio drobę į PDF naudodami sukonfigūruotus projekto spausdinimo ir atlaso maketus.</translation>
     </message>
     <message>
-        <source>QFieldCloud</source>
-        <translation>QFieldCloud</translation>
+        <source>FfF Cloud</source>
+        <translation>FfF Cloud</translation>
     </message>
     <message>
-        <source>Upload local changes, synchronize or discard changes to and from QFieldCloud when a cloud project is opened.</source>
-        <translation>Atvėrę debesijos projektą įkelkite vietinius pakeitimus, sinchronizuokite arba atmeskite pakeitimus QFieldCloud.</translation>
+        <source>Upload local changes, synchronize or discard changes to and from FfF Cloud when a cloud project is opened.</source>
+        <translation>Atvėrę debesijos projektą įkelkite vietinius pakeitimus, sinchronizuokite arba atmeskite pakeitimus FfF Cloud.</translation>
     </message>
     <message>
         <source>Project folder</source>
         <translation>Projekto aplankas</translation>
     </message>
     <message>
-        <source>Open the project folder to access project files, data sources, and related documents. Useful for managing project resources, manually uploading data to QFieldCloud, and sharing datasets, attachments, and layouts.</source>
-        <translation>Atverkite projekto aplanką, kad pasiektumėte projekto failus, duomenų šaltinius ir susijusius dokumentus. Čia patogu tvarkyti projekto išteklius, rankiniu būdu įkelti duomenis į QFieldCloud ir bendrinti duomenų rinkinius, priedus bei maketus.</translation>
+        <source>Open the project folder to access project files, data sources, and related documents. Useful for managing project resources, manually uploading data to FfF Cloud, and sharing datasets, attachments, and layouts.</source>
+        <translation>Atverkite projekto aplanką, kad pasiektumėte projekto failus, duomenų šaltinius ir susijusius dokumentus. Čia patogu tvarkyti projekto išteklius, rankiniu būdu įkelti duomenis į FfF Cloud ir bendrinti duomenų rinkinius, priedus bei maketus.</translation>
     </message>
     <message>
         <source>Pending changes are present. Upload these now or press back again to keep them pending and close the cloud project and app.</source>
@@ -9264,12 +9264,12 @@ kad būtų parodyti veiksmai</translation>
         <translation>Vietiniai pakeitimai</translation>
     </message>
     <message>
-        <source>This project has pending changes which have not been uploaded yet. Tap the blue cloud button to open the cloud project panel and send them to QFieldCloud.</source>
-        <translation>Šiame projekte yra dar neįkeltų laukiančių pakeitimų. Palieskite mėlyną debesies mygtuką, atverkite debesijos projekto skydelį ir nusiųskite juos į QFieldCloud.</translation>
+        <source>This project has pending changes which have not been uploaded yet. Tap the blue cloud button to open the cloud project panel and send them to FfF Cloud.</source>
+        <translation>Šiame projekte yra dar neįkeltų laukiančių pakeitimų. Palieskite mėlyną debesies mygtuką, atverkite debesijos projekto skydelį ir nusiųskite juos į FfF Cloud.</translation>
     </message>
     <message>
-        <source>This cloud project has pending changes which have not been uploaded yet. Open the dashboard using this button, then tap the blue cloud icon to send them to QFieldCloud.</source>
-        <translation>Šiame debesijos projekte yra dar neįkeltų laukiančių pakeitimų. Šiuo mygtuku atverkite prietaisų skydelį, tada palieskite mėlyną debesies piktogramą ir nusiųskite juos į QFieldCloud.</translation>
+        <source>This cloud project has pending changes which have not been uploaded yet. Open the dashboard using this button, then tap the blue cloud icon to send them to FfF Cloud.</source>
+        <translation>Šiame debesijos projekte yra dar neįkeltų laukiančių pakeitimų. Šiuo mygtuku atverkite prietaisų skydelį, tada palieskite mėlyną debesies piktogramą ir nusiųskite juos į FfF Cloud.</translation>
     </message>
     <message>
         <source>Printing %1</source>
@@ -9547,8 +9547,8 @@ kad būtų parodyti veiksmai</translation>
 <context>
     <name>SystemLoader</name>
     <message>
-        <source>Preparing QField, this is a one time operation that might take some time</source>
-        <translation type="vanished">Ruošiama QField. Tai vienkartinė operacija, kuri gali šiek tiek užtrukti</translation>
+        <source>Preparing FfF, this is a one time operation that might take some time</source>
+        <translation type="vanished">Ruošiama FfF. Tai vienkartinė operacija, kuri gali šiek tiek užtrukti</translation>
     </message>
 </context>
 <context>
@@ -9964,8 +9964,8 @@ kad būtų parodyti veiksmai</translation>
         <translation type="vanished">Susisiekti</translation>
     </message>
     <message>
-        <source>Hey there, how do you like your experience with QField so far?</source>
-        <translation type="vanished">Sveiki! Kaip jums kol kas patinka QField?</translation>
+        <source>Hey there, how do you like your experience with FfF so far?</source>
+        <translation type="vanished">Sveiki! Kaip jums kol kas patinka FfF?</translation>
     </message>
     <message>
         <source>That&apos;s great! We&apos;d love for you to click on the button below and leave a comment on the store.</source>
@@ -9980,8 +9980,8 @@ kad būtų parodyti veiksmai</translation>
         <translation type="vanished">Anoniminių metrikos duomenų rinkimas išjungtas. Jį galite vėl įjungti nuostatų skydelyje.</translation>
     </message>
     <message>
-        <source>To improve stability for everyone, QField collects and sends anonymized metrics.</source>
-        <translation type="vanished">Siekdama pagerinti stabilumą visiems naudotojams, QField renka ir siunčia anoniminius metrikos duomenis.</translation>
+        <source>To improve stability for everyone, FfF collects and sends anonymized metrics.</source>
+        <translation type="vanished">Siekdama pagerinti stabilumą visiems naudotojams, FfF renka ir siunčia anoniminius metrikos duomenis.</translation>
     </message>
     <message>
         <source>I agree</source>
@@ -9992,8 +9992,8 @@ kad būtų parodyti veiksmai</translation>
         <translation type="vanished">Nenoriu</translation>
     </message>
     <message>
-        <source>QFieldCloud projects</source>
-        <translation type="vanished">QFieldCloud projektai</translation>
+        <source>FfF Cloud projects</source>
+        <translation type="vanished">FfF Cloud projektai</translation>
     </message>
     <message>
         <source>Open local file</source>
@@ -10020,12 +10020,12 @@ kad būtų parodyti veiksmai</translation>
         <translation type="vanished">Pašalinti iš naujausių projektų</translation>
     </message>
     <message>
-        <source>Welcome to QField. First time using this application? Try out sample projects listed in the list below.</source>
-        <translation type="vanished">Sveiki atvykę į QField. Šią programą naudojate pirmą kartą? Išbandykite toliau pateiktus pavyzdinius projektus.</translation>
+        <source>Welcome to FfF. First time using this application? Try out sample projects listed in the list below.</source>
+        <translation type="vanished">Sveiki atvykę į FfF. Šią programą naudojate pirmą kartą? Išbandykite toliau pateiktus pavyzdinius projektus.</translation>
     </message>
     <message>
-        <source>Welcome back to QField.</source>
-        <translation type="vanished">Sveiki sugrįžę į QField.</translation>
+        <source>Welcome back to FfF.</source>
+        <translation type="vanished">Sveiki sugrįžę į FfF.</translation>
     </message>
 </context>
 <context>
@@ -10042,8 +10042,8 @@ kad būtų parodyti veiksmai</translation>
 <context>
     <name>gallery_relation_editor</name>
     <message>
-        <source>QFieldCloud on-demand attachment error: </source>
-        <translation>QFieldCloud priedo pareikalavus klaida: </translation>
+        <source>FfF Cloud on-demand attachment error: </source>
+        <translation>FfF Cloud priedo pareikalavus klaida: </translation>
     </message>
     <message>
         <source>The external storage&apos;s authentication configuration ID is missing, please insure it is imported into %1</source>
@@ -10240,8 +10240,8 @@ kad būtų parodyti veiksmai</translation>
         <translation type="vanished">Pranešimų žurnalas</translation>
     </message>
     <message>
-        <source>About QField</source>
-        <translation type="vanished">Apie QField</translation>
+        <source>About FfF</source>
+        <translation type="vanished">Apie FfF</translation>
     </message>
     <message>
         <source>Select template below</source>
@@ -10252,8 +10252,8 @@ kad būtų parodyti veiksmai</translation>
         <translation type="vanished">Aktyvuota padėties nustatymo paslauga</translation>
     </message>
     <message>
-        <source>QField has no permissions to use positioning.</source>
-        <translation type="vanished">QField neturi leidimo naudoti vietos nustatymą</translation>
+        <source>FfF has no permissions to use positioning.</source>
+        <translation type="vanished">FfF neturi leidimo naudoti vietos nustatymą</translation>
     </message>
     <message>
         <source>Map Canvas Options</source>
@@ -10448,12 +10448,12 @@ kad būtų parodyti veiksmai</translation>
         <translation type="vanished">Projektas %1 sėkmingai atsisiųstas ir dabar jį galima atverti</translation>
     </message>
     <message>
-        <source>Changes failed to reach QFieldCloud: %1</source>
-        <translation type="vanished">Pakeitimų nepavyko nusiųsti į QFieldCloud: %1</translation>
+        <source>Changes failed to reach FfF Cloud: %1</source>
+        <translation type="vanished">Pakeitimų nepavyko nusiųsti į FfF Cloud: %1</translation>
     </message>
     <message>
-        <source>Changes successfully pushed to QFieldCloud</source>
-        <translation type="vanished">Pakeitimai sėkmingai nusiųsti į QFieldCloud</translation>
+        <source>Changes successfully pushed to FfF Cloud</source>
+        <translation type="vanished">Pakeitimai sėkmingai nusiųsti į FfF Cloud</translation>
     </message>
     <message>
         <source>Press back again to close project and app</source>
@@ -10508,7 +10508,7 @@ kad būtų parodyti veiksmai</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud</source>
+        <source>FfF Cloud</source>
         <translation type="unfinished"/>
     </message>
 </context>

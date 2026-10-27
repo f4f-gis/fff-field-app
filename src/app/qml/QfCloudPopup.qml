@@ -47,7 +47,7 @@ Popup {
         case 2:
           return qsTr('Local changes');
         default:
-          return qsTr('QFieldCloud');
+          return qsTr('FfF Cloud');
         }
       }
 
@@ -191,7 +191,7 @@ Popup {
             visible: cloudProjectsModel.currentProjectId != '' && cloudProjectsModel.currentProject && cloudProjectsModel.currentProjectId !== cloudProjectsModel.currentProject.id
             font: QfTheme.tipFont
             color: QfTheme.secondaryTextColor
-            text: qsTr('This QFieldCloud project was first downloaded with another cloud account. Please sign in with the original account for this project to use the QFieldCloud functionality.')
+            text: qsTr('This FfF Cloud project was first downloaded with another cloud account. Please sign in with the original account for this project to use the FfF Cloud functionality.')
 
             wrapMode: Text.WordWrap
             horizontalAlignment: Text.AlignHCenter
@@ -228,7 +228,7 @@ Popup {
               switch (status) {
               case QfCloudProject.Downloading:
                 if (packagingStatus === QfCloudProject.PackagingBusyStatus) {
-                  return qsTr('QFieldCloud is packaging the latest data just for you; this might take some time, please hold tight');
+                  return qsTr('FfF Cloud is packaging the latest data just for you; this might take some time, please hold tight');
                 } else {
                   if (packagingStatus === QfCloudProject.PackagingFinishedStatus || downloadProgress > 0.0) {
                     if (downloadBytesTotal > 0) {
@@ -237,7 +237,7 @@ Popup {
                       return qsTr('Downloading, %1% fetched').arg(Math.round(downloadProgress * 100));
                     }
                   } else {
-                    return qsTr('Reaching out to QFieldCloud to download project');
+                    return qsTr('Reaching out to FfF Cloud to download project');
                   }
                 }
               case QfCloudProject.Pushing:
@@ -245,7 +245,7 @@ Popup {
                 case QfCloudProject.DeltaFileLocalStatus:
                   return qsTr('Pushing changes, %1%…').arg(Math.round(cloudProjectsModel.currentProject.pushDeltaProgress * 100));
                 default:
-                  return qsTr('QFieldCloud is applying the latest pushed changes. This might take some time, please hold tight…');
+                  return qsTr('FfF Cloud is applying the latest pushed changes. This might take some time, please hold tight…');
                 }
               default:
                 '';
@@ -393,7 +393,7 @@ Popup {
               accentColor: QfTheme.cloudColor
               iconSource: QfTheme.getThemeVectorIcon('ic_cloud_active_24dp')
               title: qsTr('Cloudify project')
-              description: localProjectGrid.isCloudifying ? qsTr('Uploading the current project to QFieldCloud.') : qsTr('The current project is not stored on QFieldCloud. Storing projects on QFieldCloud offers seamless synchronization, offline editing, and team management.') + (Qt.platform.os !== "ios" ? ' <a href="https://qfield.cloud/">' + qsTr('Learn more about QFieldCloud') + '</a>.' : '')
+              description: localProjectGrid.isCloudifying ? qsTr('Uploading the current project to FfF Cloud.') : qsTr('The current project is not stored on FfF Cloud. Storing projects on FfF Cloud offers seamless synchronization, offline editing, and team management.') + (Qt.platform.os !== "ios" ? ' <a href="https://qfield.cloud/">' + qsTr('Learn more about QFieldCloud') + '</a>.' : '')
 
               QfCollapsibleMessage {
                 id: cloudifyError
@@ -669,7 +669,7 @@ Popup {
                 iconSource: QfTheme.getThemeVectorIcon('ic_cloud_synchronize_24dp')
                 title: qsTr('Synchronize project')
                 indicatorVisible: cloudProjectsModel.currentProject && (cloudProjectsModel.currentProject.isOutdated || cloudProjectsModel.currentProject.isProjectOutdated)
-                description: qsTr('Uploads your edits, then downloads the latest project from QFieldCloud so everything is up to date.')
+                description: qsTr('Uploads your edits, then downloads the latest project from FfF Cloud so everything is up to date.')
                 footnote: {
                   if (!cloudProjectsModel.currentProject) {
                     return '';

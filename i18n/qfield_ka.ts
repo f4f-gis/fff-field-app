@@ -22,11 +22,11 @@
         <translation>ბმულების მენიუ</translation>
     </message>
     <message>
-        <source>QField app directories</source>
+        <source>FfF app directories</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QField app directory</source>
+        <source>FfF app directory</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -737,7 +737,7 @@ Cancel to make a minimal device scan instead.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>The external storage&apos;s authentication configuration ID is missing, please insure it is imported into QField</source>
+        <source>The external storage&apos;s authentication configuration ID is missing, please insure it is imported into FfF</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1401,8 +1401,8 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
 <context>
     <name>LocalFilesModel</name>
     <message>
-        <source>QField files directory</source>
-        <translation>QField ფაილების საქაღალდე</translation>
+        <source>FfF files directory</source>
+        <translation>FfF ფაილების საქაღალდე</translation>
     </message>
     <message>
         <source>Imported projects</source>
@@ -2461,8 +2461,8 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
         <translation>გაიგე მეტი QFieldCloud-ის შესახებ</translation>
     </message>
     <message>
-        <source>QFieldCloud</source>
-        <translation>QFieldCloud</translation>
+        <source>FfF Cloud</source>
+        <translation>FfF Cloud</translation>
     </message>
     <message>
         <source>or</source>
@@ -2476,34 +2476,34 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
 <context>
     <name>QFieldCloudPackageLayersFeedback</name>
     <message>
-        <source>Problematic QFieldCloud layer packaging</source>
+        <source>Problematic FfF Cloud layer packaging</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Some layers have not been packaged correctly on QFieldCloud. These layers might be misconfigured or their data source is not accessible from the QFieldCloud server.</source>
+        <source>Some layers have not been packaged correctly on FfF Cloud. These layers might be misconfigured or their data source is not accessible from the FfF Cloud server.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud had troubles packaging your project</source>
+        <source>FfF Cloud had troubles packaging your project</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Some layers have not been packaged correctly on QFieldCloud. These layers might be misconfigured or their data source is not accessible from the QFieldCloud server. Please check the logs of the latest packaging job on the qfield.cloud website.</source>
+        <source>Some layers have not been packaged correctly on FfF Cloud. These layers might be misconfigured or their data source is not accessible from the FfF Cloud server. Please check the logs of the latest packaging job on the qfield.cloud website.</source>
         <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>QFieldCloudPopup</name>
     <message>
-        <source>QFieldCloud</source>
-        <translation>QFieldCloud</translation>
+        <source>FfF Cloud</source>
+        <translation>FfF Cloud</translation>
     </message>
     <message>
-        <source>The current project is not stored on QFieldCloud.&lt;br&gt;&lt;br&gt;</source>
-        <translation>მიმდინარე პროექტი არ არის შენახული QFieldCloud-ში.&lt;br&gt;&lt;br&gt;</translation>
+        <source>The current project is not stored on FfF Cloud.&lt;br&gt;&lt;br&gt;</source>
+        <translation>მიმდინარე პროექტი არ არის შენახული FfF Cloud-ში.&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
-        <source>Storing projects on QFieldCloud offers seamless synchornization, offline editing, and team management.&lt;br&gt;&lt;br&gt;</source>
+        <source>Storing projects on FfF Cloud offers seamless synchornization, offline editing, and team management.&lt;br&gt;&lt;br&gt;</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2523,7 +2523,7 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
         <translation>მოგესალმებით &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <source>This QFieldCloud project was first downloaded with another cloud account. Please sign in with the original account for this project to use the QFieldCloud functionality.</source>
+        <source>This FfF Cloud project was first downloaded with another cloud account. Please sign in with the original account for this project to use the FfF Cloud functionality.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2531,15 +2531,15 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
         <translation type="vanished">ჩამოტვირთვა %1%…</translation>
     </message>
     <message>
-        <source>QFieldCloud is preparing the latest data just for you. This might take some time, please hold tight…</source>
-        <translation type="vanished">QFieldCloud ამზადებს უახლეს მონაცემებს. ამას შესაძლოა დასჭირდეს გარკვეული დრო, გთხოვთ მოითმინოთ...</translation>
+        <source>FfF Cloud is preparing the latest data just for you. This might take some time, please hold tight…</source>
+        <translation type="vanished">FfF Cloud ამზადებს უახლეს მონაცემებს. ამას შესაძლოა დასჭირდეს გარკვეული დრო, გთხოვთ მოითმინოთ...</translation>
     </message>
     <message>
         <source>Uploading %1%…</source>
         <translation>ატვირთვა %1%…</translation>
     </message>
     <message>
-        <source>QFieldCloud is applying the latest uploaded changes. This might take some time, please hold tight…</source>
+        <source>FfF Cloud is applying the latest uploaded changes. This might take some time, please hold tight…</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2567,8 +2567,8 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
         <translation>სინქრონიზაცია</translation>
     </message>
     <message>
-        <source>Synchronize the whole project with all modified features and download the freshly updated project with all the applied changes from QFieldCloud.</source>
-        <translation>სრული პროექტის ყველა ტოპოგრაფიული ელემენტის ცვლილების სინქრონიზაცია და QFieldCloud-დან სრულად განახლებული პროექტის ჩამოტვირთვა.</translation>
+        <source>Synchronize the whole project with all modified features and download the freshly updated project with all the applied changes from FfF Cloud.</source>
+        <translation>სრული პროექტის ყველა ტოპოგრაფიული ელემენტის ცვლილების სინქრონიზაცია და FfF Cloud-დან სრულად განახლებული პროექტის ჩამოტვირთვა.</translation>
     </message>
     <message>
         <source>Push changes</source>
@@ -2677,7 +2677,7 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud is packaging the latest data just for you; this might take some time, please hold tight</source>
+        <source>FfF Cloud is packaging the latest data just for you; this might take some time, please hold tight</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2689,7 +2689,7 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Reaching out to QFieldCloud to download project</source>
+        <source>Reaching out to FfF Cloud to download project</source>
         <translation type="unfinished"/>
     </message>
     <message numerus="yes">
@@ -2701,7 +2701,7 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Storing projects on QFieldCloud offers seamless synchronization, offline editing, and team management.&lt;br&gt;&lt;br&gt;</source>
+        <source>Storing projects on FfF Cloud offers seamless synchronization, offline editing, and team management.&lt;br&gt;&lt;br&gt;</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -2761,8 +2761,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation>სისტემური შეტყობინება: </translation>
     </message>
     <message>
-        <source> (see more in the QField error log)…</source>
-        <translation> (მეტი ინფორმაციისთვის იხილეთ QField შეცდომების ჟურნალი)…</translation>
+        <source> (see more in the FfF error log)…</source>
+        <translation> (მეტი ინფორმაციისთვის იხილეთ FfF შეცდომების ჟურნალი)…</translation>
     </message>
     <message>
         <source>Job creation finished, but the server response is missing required fields: id(string)</source>
@@ -2910,8 +2910,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">სისტემური შეტყობინება: </translation>
     </message>
     <message>
-        <source> (see more in the QField error log)…</source>
-        <translation type="vanished"> (მეტი ინფორმაციისთვის იხილეთ QField შეცდომების ჟურნალი)…</translation>
+        <source> (see more in the FfF error log)…</source>
+        <translation type="vanished"> (მეტი ინფორმაციისთვის იხილეთ FfF შეცდომების ჟურნალი)…</translation>
     </message>
     <message>
         <source>Failed to copy some of the downloaded files on your device. Check your device storage.</source>
@@ -2921,8 +2921,8 @@ While you can still view and use the project, it is strongly recommended to rese
 <context>
     <name>QFieldCloudScreen</name>
     <message>
-        <source>QFieldCloud Projects</source>
-        <translation>QFieldCloud პროექტები</translation>
+        <source>FfF Cloud Projects</source>
+        <translation>FfF Cloud პროექტები</translation>
     </message>
     <message>
         <source>Disconnected from the cloud.</source>
@@ -2953,8 +2953,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">იტვირთება, %1% შესრულდა…</translation>
     </message>
     <message>
-        <source>QFieldCloud is preparing the latest data just for you. This might take some time, please hold tight…</source>
-        <translation type="vanished">QFieldCloud ამზადებს უახლეს მონაცემებს. ამას შესაძლოა დასჭირდეს გარკვეული დრო, გთხოვთ მოითმინოთ...</translation>
+        <source>FfF Cloud is preparing the latest data just for you. This might take some time, please hold tight…</source>
+        <translation type="vanished">FfF Cloud ამზადებს უახლეს მონაცემებს. ამას შესაძლოა დასჭირდეს გარკვეული დრო, გთხოვთ მოითმინოთ...</translation>
     </message>
     <message>
         <source>Uploading…</source>
@@ -3029,7 +3029,7 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud is packaging the latest data just for you; this might take some time, please hold tight</source>
+        <source>FfF Cloud is packaging the latest data just for you; this might take some time, please hold tight</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3041,7 +3041,7 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Reaching out to QFieldCloud to download project</source>
+        <source>Reaching out to FfF Cloud to download project</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3093,7 +3093,7 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud is packaging project, hold tight</source>
+        <source>FfF Cloud is packaging project, hold tight</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3113,7 +3113,7 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud project details fetching failed</source>
+        <source>FfF Cloud project details fetching failed</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -3246,7 +3246,7 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>‘%1’ is being uploaded to QFieldCloud</source>
+        <source>‘%1’ is being uploaded to FfF Cloud</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3262,7 +3262,7 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Push to QFieldCloud</source>
+        <source>Push to FfF Cloud</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3382,11 +3382,11 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Push file(s) to QFieldCloud</source>
+        <source>Push file(s) to FfF Cloud</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Please select one or more files to push to QFieldCloud.</source>
+        <source>Please select one or more files to push to FfF Cloud.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3452,8 +3452,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation>აპლიკაციის კამერის გამოყენება</translation>
     </message>
     <message>
-        <source>If disabled, QField will use a minimalist internal camera instead of the camera app on the device.&lt;br&gt;Tip: Enable this option and install the open camera app to create geo tagged photos.</source>
-        <translation>როცა გამორთულია, ნაცვლად QField აპლიკაციის კამერისა, QField იყენებს მოწყობილობის ძირითადი კამერის აპლიკაციას.&lt;br&gt;რჩევა: იმისთვის რომ გადაღებული ფოტოები იყოს გეოლოკაციის ინფორმაციის შემცველი, დააყენეთ აპლიკაცია open camera და გააქტიურეთ ეს პარამეტრი.</translation>
+        <source>If disabled, FfF will use a minimalist internal camera instead of the camera app on the device.&lt;br&gt;Tip: Enable this option and install the open camera app to create geo tagged photos.</source>
+        <translation>როცა გამორთულია, ნაცვლად FfF აპლიკაციის კამერისა, FfF იყენებს მოწყობილობის ძირითადი კამერის აპლიკაციას.&lt;br&gt;რჩევა: იმისთვის რომ გადაღებული ფოტოები იყოს გეოლოკაციის ინფორმაციის შემცველი, დააყენეთ აპლიკაცია open camera და გააქტიურეთ ეს პარამეტრი.</translation>
     </message>
     <message>
         <source>Fast editing mode</source>
@@ -3484,7 +3484,7 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>If enabled, anonymized metrics will be collected and sent to help improve QField for everyone.</source>
+        <source>If enabled, anonymized metrics will be collected and sent to help improve FfF for everyone.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3508,8 +3508,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">მომხმარებლის ინტერფეისის ენა:</translation>
     </message>
     <message>
-        <source>To apply the selected user interface language, QField needs to completely shutdown and restart.</source>
-        <translation>ინტერფეისის არჩეული ენის დასაყენებლად საჭიროა, გამორთოთ QField და ხელახლა ჩართოთ.</translation>
+        <source>To apply the selected user interface language, FfF needs to completely shutdown and restart.</source>
+        <translation>ინტერფეისის არჩეული ენის დასაყენებლად საჭიროა, გამორთოთ FfF და ხელახლა ჩართოთ.</translation>
     </message>
     <message>
         <source>system</source>
@@ -3646,8 +3646,8 @@ Cancel to make a minimal device scan instead.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QField Settings</source>
-        <translation>QField-ის პარამეტრები</translation>
+        <source>FfF Settings</source>
+        <translation>FfF-ის პარამეტრები</translation>
     </message>
     <message>
         <source>Time of inactivity in seconds before the screen brightness get be dimmed to preserve battery.</source>
@@ -3762,7 +3762,7 @@ Cancel to make a minimal device scan instead.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>This value will correct the Z values recorded from the positioning device. If a value of 1.6 is entered, QField will automatically subtract 1.6 from each recorded value. Make sure to insert the effective antenna height, i.e. pole length + antenna phase centre offset.</source>
+        <source>This value will correct the Z values recorded from the positioning device. If a value of 1.6 is entered, FfF will automatically subtract 1.6 from each recorded value. Make sure to insert the effective antenna height, i.e. pole length + antenna phase centre offset.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3880,7 +3880,7 @@ Cancel to make a minimal device scan instead.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud Unknown Error</source>
+        <source>FfF Cloud Unknown Error</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3948,7 +3948,7 @@ Cancel to make a minimal device scan instead.</source>
         <translation>ქლაუდ მომხმარებლის ინფორმაცია</translation>
     </message>
     <message>
-        <source>Please wait while QField installation finalizes.</source>
+        <source>Please wait while FfF installation finalizes.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -4142,7 +4142,7 @@ Cancel to make a minimal device scan instead.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Map printed on %1 using QField</source>
+        <source>Map printed on %1 using FfF</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -4395,7 +4395,7 @@ Cancel to make a minimal device scan instead.</source>
 <context>
     <name>SystemLoader</name>
     <message>
-        <source>Preparing QField, this is a one time operation that might take some time</source>
+        <source>Preparing FfF, this is a one time operation that might take some time</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -4904,7 +4904,7 @@ Cancel to make a minimal device scan instead.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Hey there, how do you like your experience with QField so far?</source>
+        <source>Hey there, how do you like your experience with FfF so far?</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -4920,7 +4920,7 @@ Cancel to make a minimal device scan instead.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>To improve stability for everyone, QField collects and sends anonymized metrics.</source>
+        <source>To improve stability for everyone, FfF collects and sends anonymized metrics.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -4932,8 +4932,8 @@ Cancel to make a minimal device scan instead.</source>
         <translation>უარს ვაცხადებ</translation>
     </message>
     <message>
-        <source>QFieldCloud projects</source>
-        <translation>QFieldCloud პროექტები</translation>
+        <source>FfF Cloud projects</source>
+        <translation>FfF Cloud პროექტები</translation>
     </message>
     <message>
         <source>Open local file</source>
@@ -4960,12 +4960,12 @@ Cancel to make a minimal device scan instead.</source>
         <translation>ბოლო პროექტებიდან წაშლა</translation>
     </message>
     <message>
-        <source>Welcome to QField. First time using this application? Try out sample projects listed in the list below.</source>
+        <source>Welcome to FfF. First time using this application? Try out sample projects listed in the list below.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Welcome back to QField.</source>
-        <translation>კეთილი იყოს თქვენი დაბრუნება QField-ში.</translation>
+        <source>Welcome back to FfF.</source>
+        <translation>კეთილი იყოს თქვენი დაბრუნება FfF-ში.</translation>
     </message>
     <message>
         <source>Default project</source>
@@ -4996,7 +4996,7 @@ Cancel to make a minimal device scan instead.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Welcome to QField. First time using this application? Try the sample projects listed below.</source>
+        <source>Welcome to FfF. First time using this application? Try the sample projects listed below.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -5252,8 +5252,8 @@ Cancel to make a minimal device scan instead.</source>
         <translation>შეტყობინება ჟურნალიდან</translation>
     </message>
     <message>
-        <source>About QField</source>
-        <translation>QField-ის შესახებ</translation>
+        <source>About FfF</source>
+        <translation>FfF-ის შესახებ</translation>
     </message>
     <message>
         <source>Select template below</source>
@@ -5264,7 +5264,7 @@ Cancel to make a minimal device scan instead.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QField has no permissions to use positioning.</source>
+        <source>FfF has no permissions to use positioning.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -5460,11 +5460,11 @@ Cancel to make a minimal device scan instead.</source>
         <translation>პროექტი %1 წარმატებით ჩამოიტვირთა და ხელმისაწვდომია გამოსაყენებლად</translation>
     </message>
     <message>
-        <source>Changes failed to reach QFieldCloud: %1</source>
+        <source>Changes failed to reach FfF Cloud: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Changes successfully pushed to QFieldCloud</source>
+        <source>Changes successfully pushed to FfF Cloud</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -5724,7 +5724,7 @@ Cancel to make a minimal device scan instead.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Do you want to import &lt;b&gt;%1&lt;/b&gt; from &lt;b&gt;%2&lt;/b&gt; into QField?</source>
+        <source>Do you want to import &lt;b&gt;%1&lt;/b&gt; from &lt;b&gt;%2&lt;/b&gt; into FfF?</source>
         <translation type="unfinished"/>
     </message>
     <message>

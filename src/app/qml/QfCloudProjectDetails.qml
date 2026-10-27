@@ -357,7 +357,7 @@ ColumnLayout {
       }
       if (showProgress) {
         if (cloudProject.packagingStatus === QfCloudProject.PackagingBusyStatus) {
-          return qsTr("QFieldCloud is packaging project, hold tight");
+          return qsTr("FfF Cloud is packaging project, hold tight");
         } else {
           if (cloudProject.downloadProgress > 0) {
             return qsTr("Downloading project") + " (%1%)".arg(Math.round(cloudProject.downloadProgress * 100));

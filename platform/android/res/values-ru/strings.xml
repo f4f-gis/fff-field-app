@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
     <string name="done_unpacking_msg">Распаковка закончена, запускаю QGIS</string>
-    <string name="unpacking_title">Запуск QField</string>
+    <string name="unpacking_title">Запуск FfF</string>
     <string name="unpacking_msg">Эта однократная операция займет некоторое время </string>
     <string name="unpacking_msg_following">Почти готово</string>
     <string name="use_internal_storage">Использовать внутреннюю память </string>
     <string name="external_storage_unavailable">Распаковываю послеустановочные данные. Понадобится немного времени.</string>
     <string name="noexternalstorage_dialog">Похоже, что внешний накопитель (/sdcard) недоступен. Это происходит при подключении устройства к компьютеру через USB.\nQGIS запустится из внутренней памяти, что не рекомендуется, потому что ее объем может быть слишком мал. \nlt предлагает нажать ОТМЕНА, отсоединить все USB - кабели и перезапустить QGIS. </string>
     <string name="primary_storage">Внутренняя память устройства</string>
-    <string name="secondary_storage">директория файлов QField</string>
+    <string name="secondary_storage">директория файлов FfF</string>
     <string name="secondary_storage_extra">Дополнительные директории</string>
     <string name="secondary_storage_read_only">Внешний накопитель (только для чтения) </string>
     <string name="inaccessible">недоступно</string>
     <string name="loading">Загрузка</string>
     <string name="select_project">Выберете проект QGIS или набор данных</string>
     <string name="recent_projects">Недавние проекты и наборы данных</string>
-    <string name="rate_title">Оценить QField</string>
-    <string name="rate_message">Если вам нравится использовать QField, пожалуйста оцените приложение. Спасибо за поддержку! </string>
+    <string name="rate_title">Оценить FfF</string>
+    <string name="rate_message">Если вам нравится использовать FfF, пожалуйста оцените приложение. Спасибо за поддержку! </string>
     <string name="rate_now">Оценить</string>
     <string name="remind_later">Напомнить позже</string>
     <string name="no_thanks">Нет, спасибо!</string>
@@ -27,10 +27,10 @@
     <string name="added_to_favorites">Добавлено в избранное </string>
     <string name="removed_from_favorites">Удалено из избранного </string>
     <string name="external_files_title">Важное примечание</string>
-    <string name="external_files_message"><![CDATA[Директория файлов QField может использоваться для копирования файлов и проектов на ваше устройство через кабель USB. Полный путь к директории указан в плашке заголовка. You can see the directory\'s absolute path in the header bar.<br/><br/>Обратите внимание на то, что содержание этой директории <i>будет удалено </i> в случае удаления QField с устройства.]]></string>
+    <string name="external_files_message"><![CDATA[Директория файлов FfF может использоваться для копирования файлов и проектов на ваше устройство через кабель USB. Полный путь к директории указан в плашке заголовка. You can see the directory\'s absolute path in the header bar.<br/><br/>Обратите внимание на то, что содержание этой директории <i>будет удалено </i> в случае удаления FfF с устройства.]]></string>
     <string name="external_files_ok">OK</string>
     <string name="grant_permission">Доступ ко всем файлам</string>
-    <string name="grant_all_files_permission"><![CDATA[QField требуется разрешение доступа ко всем файлам на устройстве, чтобы открывать локальные проекты и наборы данных, а также поддерживать пользовательские проекции, шрифты и базовые карты. Разрешение доступа является хотя и не необходимым, <i>но предпочтительным вариантом </i>.<br/><br/>Перейдя на следующую страницу, выберите <b>QField</b> и опцию <b> Разрешить доступ ко всем файлам на устройстве </b> .]]></string>
+    <string name="grant_all_files_permission"><![CDATA[FfF требуется разрешение доступа ко всем файлам на устройстве, чтобы открывать локальные проекты и наборы данных, а также поддерживать пользовательские проекции, шрифты и базовые карты. Разрешение доступа является хотя и не необходимым, <i>но предпочтительным вариантом </i>.<br/><br/>Перейдя на следующую страницу, выберите <b>FfF</b> и опцию <b> Разрешить доступ ко всем файлам на устройстве </b> .]]></string>
     <string name="grant">Разрешения</string>
     <string name="deny_always">Запретить навсегда</string>
     <string name="deny_once">Запретить однажды</string>
@@ -55,10 +55,10 @@
     <string name="storage_information_message">Если вы уже являетесь пользователем QField 1.x и задаетесь вопросом, почему пропали ваши проекты и наборы данных, или вы новичок в QField, мы советуем вам потратить минуту на прочтение документации по работе с хранилищами. Ярлык на эту документацию будет по-прежнему доступен в меню действий на панели заголовка.</string>
     <string name="storage_information_view">Покажите мне документацию</string>
     <string name="storage_information_dismiss">Я прочитаю позже</string>
-    <string name="import_project_wait">Пожалуйста, подождите, пока QField импортирует проект</string>
-    <string name="import_dataset_wait">Пожалуйста, подождите, пока QField импортирует набор(ы) данных</string>
-    <string name="update_project_wait">Пожалуйста, подождите, пока QField обновляет локальный проект</string>
-    <string name="upload_pending_attachments">Выполняется загрузка вложений в QFieldCloud</string>
+    <string name="import_project_wait">Пожалуйста, подождите, пока FfF импортирует проект</string>
+    <string name="import_dataset_wait">Пожалуйста, подождите, пока FfF импортирует набор(ы) данных</string>
+    <string name="update_project_wait">Пожалуйста, подождите, пока FfF обновляет локальный проект</string>
+    <string name="upload_pending_attachments">Выполняется загрузка вложений в FfF Cloud</string>
     <string name="operation_unsupported">Операция не поддерживается</string>
     <string name="import_operation_unsupported">Ваше устройство не поддерживает эту операцию импорта.</string>
     <string name="export_operation_unsupported">Ваше устройство не поддерживает эту операцию экспорта.</string>

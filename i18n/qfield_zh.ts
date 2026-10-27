@@ -1143,7 +1143,7 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
 <context>
     <name>LocalFilesModel</name>
     <message>
-        <source>QField files directory</source>
+        <source>FfF files directory</source>
         <translation type="vanished">QField文件目录</translation>
     </message>
     <message>
@@ -1905,42 +1905,42 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">了解有关QFieldCloud的更多信息</translation>
     </message>
     <message>
-        <source>QFieldCloud</source>
+        <source>FfF Cloud</source>
         <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>QFieldCloudPackageLayersFeedback</name>
     <message>
-        <source>Problematic QFieldCloud layer packaging</source>
-        <translation type="vanished">QFieldCloud图层打包存在问题</translation>
+        <source>Problematic FfF Cloud layer packaging</source>
+        <translation type="vanished">FfF Cloud图层打包存在问题</translation>
     </message>
     <message>
-        <source>Some layers have not been packaged correctly on QFieldCloud. These layers might be misconfigured or their data source is not accessible from the QFieldCloud server.</source>
-        <translation type="vanished">QFieldCloud中的某些图层未正确打包。这些图层可能配置错误，或者无法从QFieldCloud服务器访问其数据源。</translation>
+        <source>Some layers have not been packaged correctly on FfF Cloud. These layers might be misconfigured or their data source is not accessible from the FfF Cloud server.</source>
+        <translation type="vanished">FfF Cloud中的某些图层未正确打包。这些图层可能配置错误，或者无法从FfF Cloud服务器访问其数据源。</translation>
     </message>
     <message>
-        <source>QFieldCloud had troubles packaging your project</source>
-        <translation type="vanished">QFieldCloud在打包工程时遇到问题</translation>
+        <source>FfF Cloud had troubles packaging your project</source>
+        <translation type="vanished">FfF Cloud在打包工程时遇到问题</translation>
     </message>
     <message>
-        <source>Some layers have not been packaged correctly on QFieldCloud. These layers might be misconfigured or their data source is not accessible from the QFieldCloud server. Please check the logs of the latest packaging job on the qfield.cloud website.</source>
-        <translation type="vanished">QFieldCloud的某些图层未正确打包。这些图层可能配置错误，或者无法从QFieldCloud服务器访问其的数据源。请在 qfield.cloud 网站查看最新打包作业日志。</translation>
+        <source>Some layers have not been packaged correctly on FfF Cloud. These layers might be misconfigured or their data source is not accessible from the FfF Cloud server. Please check the logs of the latest packaging job on the qfield.cloud website.</source>
+        <translation type="vanished">FfF Cloud的某些图层未正确打包。这些图层可能配置错误，或者无法从FfF Cloud服务器访问其的数据源。请在 qfield.cloud 网站查看最新打包作业日志。</translation>
     </message>
 </context>
 <context>
     <name>QFieldCloudPopup</name>
     <message>
-        <source>QFieldCloud</source>
-        <translation type="vanished">QFieldCloud</translation>
+        <source>FfF Cloud</source>
+        <translation type="vanished">FfF Cloud</translation>
     </message>
     <message>
-        <source>The current project is not stored on QFieldCloud.&lt;br&gt;&lt;br&gt;</source>
-        <translation type="vanished">当前工程未存储在QFieldCloud。&lt;br&gt;&lt;br&gt;</translation>
+        <source>The current project is not stored on FfF Cloud.&lt;br&gt;&lt;br&gt;</source>
+        <translation type="vanished">当前工程未存储在FfF Cloud。&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
-        <source>Storing projects on QFieldCloud offers seamless synchornization, offline editing, and team management.&lt;br&gt;&lt;br&gt;</source>
-        <translation type="vanished">将工程存储在QFieldCloud可提供无缝同步、离线编辑和团队管理。&lt;br&gt;&lt;br&gt;</translation>
+        <source>Storing projects on FfF Cloud offers seamless synchornization, offline editing, and team management.&lt;br&gt;&lt;br&gt;</source>
+        <translation type="vanished">将工程存储在FfF Cloud可提供无缝同步、离线编辑和团队管理。&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>Learn more about QFieldCloud</source>
@@ -1959,24 +1959,24 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">您好 &lt;strong&gt;%1&lt;/strong&gt;</translation>
     </message>
     <message>
-        <source>This QFieldCloud project was first downloaded with another cloud account. Please sign in with the original account for this project to use the QFieldCloud functionality.</source>
-        <translation type="vanished">该QFieldCloud工程最初是通过另一个云帐户下载的，请使用此工程的原始帐户登录以使用QFieldCloud功能。</translation>
+        <source>This FfF Cloud project was first downloaded with another cloud account. Please sign in with the original account for this project to use the FfF Cloud functionality.</source>
+        <translation type="vanished">该FfF Cloud工程最初是通过另一个云帐户下载的，请使用此工程的原始帐户登录以使用FfF Cloud功能。</translation>
     </message>
     <message>
         <source>Downloading %1%…</source>
         <translation type="vanished">正在下载 %1%…</translation>
     </message>
     <message>
-        <source>QFieldCloud is preparing the latest data just for you. This might take some time, please hold tight…</source>
-        <translation type="vanished">QFieldCloud正在为您准备最新数据。这可能需要一些时间，请稍等...</translation>
+        <source>FfF Cloud is preparing the latest data just for you. This might take some time, please hold tight…</source>
+        <translation type="vanished">FfF Cloud正在为您准备最新数据。这可能需要一些时间，请稍等...</translation>
     </message>
     <message>
         <source>Uploading %1%…</source>
         <translation type="vanished">正在上传 %1%…</translation>
     </message>
     <message>
-        <source>QFieldCloud is applying the latest uploaded changes. This might take some time, please hold tight…</source>
-        <translation type="vanished">QFieldCloud正在请求最新上传更改。这可能需要一些时间，请稍等...</translation>
+        <source>FfF Cloud is applying the latest uploaded changes. This might take some time, please hold tight…</source>
+        <translation type="vanished">FfF Cloud正在请求最新上传更改。这可能需要一些时间，请稍等...</translation>
     </message>
     <message>
         <source>A server error has occured, please try again.</source>
@@ -2003,8 +2003,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">同步</translation>
     </message>
     <message>
-        <source>Synchronize the whole project with all modified features and download the freshly updated project with all the applied changes from QFieldCloud.</source>
-        <translation type="vanished">将整个工程与所有已修改的要素进行同步，并从QFieldCloud下载包含所有已应用更改的最新更新工程。</translation>
+        <source>Synchronize the whole project with all modified features and download the freshly updated project with all the applied changes from FfF Cloud.</source>
+        <translation type="vanished">将整个工程与所有已修改的要素进行同步，并从FfF Cloud下载包含所有已应用更改的最新更新工程。</translation>
     </message>
     <message>
         <source>Push changes</source>
@@ -2163,7 +2163,7 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="unfinished"/>
     </message>
     <message>
-        <source> (see more in the QField error log)…</source>
+        <source> (see more in the FfF error log)…</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2329,7 +2329,7 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">系统信息：</translation>
     </message>
     <message>
-        <source> (see more in the QField error log)…</source>
+        <source> (see more in the FfF error log)…</source>
         <translation type="vanished"> (请查阅QField错误日志中的更多信息)…</translation>
     </message>
     <message>
@@ -2340,8 +2340,8 @@ While you can still view and use the project, it is strongly recommended to rese
 <context>
     <name>QFieldCloudScreen</name>
     <message>
-        <source>QFieldCloud Projects</source>
-        <translation type="vanished">QFieldCloud工程</translation>
+        <source>FfF Cloud Projects</source>
+        <translation type="vanished">FfF Cloud工程</translation>
     </message>
     <message>
         <source>Disconnected from the cloud.</source>
@@ -2372,8 +2372,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">正在下载，已提取%1%…</translation>
     </message>
     <message>
-        <source>QFieldCloud is preparing the latest data just for you. This might take some time, please hold tight…</source>
-        <translation type="vanished">QFieldCloud正在为您准备最新数据。这可能需要一些时间，请稍等...</translation>
+        <source>FfF Cloud is preparing the latest data just for you. This might take some time, please hold tight…</source>
+        <translation type="vanished">FfF Cloud正在为您准备最新数据。这可能需要一些时间，请稍等...</translation>
     </message>
     <message>
         <source>Uploading…</source>
@@ -2615,7 +2615,7 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">使用本机相机</translation>
     </message>
     <message>
-        <source>If disabled, QField will use a minimalist internal camera instead of the camera app on the device.&lt;br&gt;Tip: Enable this option and install the open camera app to create geo tagged photos.</source>
+        <source>If disabled, FfF will use a minimalist internal camera instead of the camera app on the device.&lt;br&gt;Tip: Enable this option and install the open camera app to create geo tagged photos.</source>
         <translation type="vanished">如禁用，QField将使用简易的内部相机替代设备上的相机应用程序。&lt;br&gt;提示：开启此选项并安装相机应用程序可以创建带有地理位置标签的照片。</translation>
     </message>
     <message>
@@ -2647,7 +2647,7 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">发送匿名测评数据</translation>
     </message>
     <message>
-        <source>If enabled, anonymized metrics will be collected and sent to help improve QField for everyone.</source>
+        <source>If enabled, anonymized metrics will be collected and sent to help improve FfF for everyone.</source>
         <translation type="vanished">如果启用，将收集并发送匿名测评数据，以帮助改善QField的个人使用体验。</translation>
     </message>
     <message>
@@ -2671,7 +2671,7 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">用户界面语言：</translation>
     </message>
     <message>
-        <source>To apply the selected user interface language, QField needs to completely shutdown and restart.</source>
+        <source>To apply the selected user interface language, FfF needs to completely shutdown and restart.</source>
         <translation type="vanished">要应用选中的用户界面语言，QField需要完全关闭并重新启动。</translation>
     </message>
     <message>
@@ -2809,7 +2809,7 @@ Cancel to make a minimal device scan instead.</source>
         <translation type="vanished">垂直网格偏移用于提高海拔精度。</translation>
     </message>
     <message>
-        <source>QField Settings</source>
+        <source>FfF Settings</source>
         <translation type="vanished">QField设置</translation>
     </message>
     <message>
@@ -2892,8 +2892,8 @@ Cancel to make a minimal device scan instead.</source>
         <translation>需要身份验证</translation>
     </message>
     <message>
-        <source>QFieldCloud Unknown Error</source>
-        <translation>QFieldCloud未知错误</translation>
+        <source>FfF Cloud Unknown Error</source>
+        <translation>FfF Cloud未知错误</translation>
     </message>
     <message>
         <source>Status not ok</source>
@@ -2960,7 +2960,7 @@ Cancel to make a minimal device scan instead.</source>
         <translation>云用户信息</translation>
     </message>
     <message>
-        <source>Please wait while QField installation finalizes.</source>
+        <source>Please wait while FfF installation finalizes.</source>
         <translation>QField正在完成安装，请稍候。</translation>
     </message>
     <message>
@@ -3556,7 +3556,7 @@ Cancel to make a minimal device scan instead.</source>
         <translation>例如: localhost, 192.168.*</translation>
     </message>
     <message>
-        <source>Configure a network proxy to route QField&apos;s traffic through a proxy server. Useful for corporate networks and VPNs.</source>
+        <source>Configure a network proxy to route FfF&apos;s traffic through a proxy server. Useful for corporate networks and VPNs.</source>
         <translation>配置网络代理，通过代理服务器路径QField的流量。适用于企业网络和VPN。</translation>
     </message>
     <message>
@@ -4471,12 +4471,12 @@ While you can still view and use the project, it is strongly recommended to rese
 <context>
     <name>QfCloudPackageLayersFeedback</name>
     <message>
-        <source>Some layers have not been packaged correctly. These layers might be misconfigured or their data source is not accessible from the QFieldCloud server.</source>
-        <translation>某些图层未正确打包。这些图层可能配置错误，或者无法从QFieldCloud服务器访问其数据源。</translation>
+        <source>Some layers have not been packaged correctly. These layers might be misconfigured or their data source is not accessible from the FfF Cloud server.</source>
+        <translation>某些图层未正确打包。这些图层可能配置错误，或者无法从FfF Cloud服务器访问其数据源。</translation>
     </message>
     <message>
-        <source>Please check the detailed feedback below and the latest packaging job logs on the QFieldCloud website.</source>
-        <translation>请查看以下详细反馈信息及QFieldCloud网站的最新打包作业日志。</translation>
+        <source>Please check the detailed feedback below and the latest packaging job logs on the FfF Cloud website.</source>
+        <translation>请查看以下详细反馈信息及FfF Cloud网站的最新打包作业日志。</translation>
     </message>
 </context>
 <context>
@@ -4525,16 +4525,16 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation>危险区域</translation>
     </message>
     <message>
-        <source>QFieldCloud</source>
-        <translation>QFieldCloud</translation>
+        <source>FfF Cloud</source>
+        <translation>FfF Cloud</translation>
     </message>
     <message>
-        <source>This QFieldCloud project was first downloaded with another cloud account. Please sign in with the original account for this project to use the QFieldCloud functionality.</source>
-        <translation>该QFieldCloud工程最初是通过另一个云帐户下载的，请使用此工程的原始帐户登录以使用QFieldCloud功能。</translation>
+        <source>This FfF Cloud project was first downloaded with another cloud account. Please sign in with the original account for this project to use the FfF Cloud functionality.</source>
+        <translation>该FfF Cloud工程最初是通过另一个云帐户下载的，请使用此工程的原始帐户登录以使用FfF Cloud功能。</translation>
     </message>
     <message>
-        <source>QFieldCloud is packaging the latest data just for you; this might take some time, please hold tight</source>
-        <translation>QFieldCloud正在为您打包最新数据；这可能需要一些时间，请稍等</translation>
+        <source>FfF Cloud is packaging the latest data just for you; this might take some time, please hold tight</source>
+        <translation>FfF Cloud正在为您打包最新数据；这可能需要一些时间，请稍等</translation>
     </message>
     <message>
         <source>Downloading, %1% of %2 fetched</source>
@@ -4545,28 +4545,28 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation>正在下载，已提取 %1%</translation>
     </message>
     <message>
-        <source>Reaching out to QFieldCloud to download project</source>
-        <translation>联系QFieldCloud下载工程</translation>
+        <source>Reaching out to FfF Cloud to download project</source>
+        <translation>联系FfF Cloud下载工程</translation>
     </message>
     <message>
         <source>Pushing changes, %1%…</source>
         <translation>推送更改, %1%…</translation>
     </message>
     <message>
-        <source>QFieldCloud is applying the latest pushed changes. This might take some time, please hold tight…</source>
-        <translation>QFieldCloud正在请求最新的推送更改。这可能需要一些时间，请稍等…</translation>
+        <source>FfF Cloud is applying the latest pushed changes. This might take some time, please hold tight…</source>
+        <translation>FfF Cloud正在请求最新的推送更改。这可能需要一些时间，请稍等…</translation>
     </message>
     <message>
         <source>Cloudify project</source>
         <translation>云化工程</translation>
     </message>
     <message>
-        <source>Uploading the current project to QFieldCloud.</source>
-        <translation>正在将当前工程上传到QFieldCloud。</translation>
+        <source>Uploading the current project to FfF Cloud.</source>
+        <translation>正在将当前工程上传到FfF Cloud。</translation>
     </message>
     <message>
-        <source>The current project is not stored on QFieldCloud. Storing projects on QFieldCloud offers seamless synchronization, offline editing, and team management.</source>
-        <translation>当前工程未存储在QFieldCloud。将工程存储在QFieldCloud可实现无缝同步、离线编辑和团队管理。</translation>
+        <source>The current project is not stored on FfF Cloud. Storing projects on FfF Cloud offers seamless synchronization, offline editing, and team management.</source>
+        <translation>当前工程未存储在FfF Cloud。将工程存储在FfF Cloud可实现无缝同步、离线编辑和团队管理。</translation>
     </message>
     <message>
         <source>Learn more about QFieldCloud</source>
@@ -4629,8 +4629,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation>同步工程</translation>
     </message>
     <message>
-        <source>Uploads your edits, then downloads the latest project from QFieldCloud so everything is up to date.</source>
-        <translation>上传您的编辑内容，然后从QFieldCloud下载最新工程，确保所有内容均为最新。</translation>
+        <source>Uploads your edits, then downloads the latest project from FfF Cloud so everything is up to date.</source>
+        <translation>上传您的编辑内容，然后从FfF Cloud下载最新工程，确保所有内容均为最新。</translation>
     </message>
     <message>
         <source>Last synchronized just now</source>
@@ -4810,7 +4810,7 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation>系统信息：</translation>
     </message>
     <message>
-        <source> (see more in the QField error log)…</source>
+        <source> (see more in the FfF error log)…</source>
         <translation> (请查阅QField错误日志中的更多信息)…</translation>
     </message>
     <message>
@@ -4885,8 +4885,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation>上传本地更改</translation>
     </message>
     <message>
-        <source>QFieldCloud is packaging project, hold tight</source>
-        <translation>QFieldCloud正在打包工程</translation>
+        <source>FfF Cloud is packaging project, hold tight</source>
+        <translation>FfF Cloud正在打包工程</translation>
     </message>
     <message>
         <source>Downloading project</source>
@@ -4978,7 +4978,7 @@ While you can still view and use the project, it is strongly recommended to rese
 <context>
     <name>QfCloudScreen</name>
     <message>
-        <source>QFieldCloud Projects</source>
+        <source>FfF Cloud Projects</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -5002,8 +5002,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation>搜索工程</translation>
     </message>
     <message>
-        <source>QFieldCloud is packaging the latest data just for you; this might take some time, please hold tight</source>
-        <translation>QFieldCloud正在为您打包最新数据；这可能需要一些时间，请稍等</translation>
+        <source>FfF Cloud is packaging the latest data just for you; this might take some time, please hold tight</source>
+        <translation>FfF Cloud正在为您打包最新数据；这可能需要一些时间，请稍等</translation>
     </message>
     <message>
         <source>Downloading, %1% of %2 fetched</source>
@@ -5014,8 +5014,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation>正在下载，已提取 %1%</translation>
     </message>
     <message>
-        <source>Reaching out to QFieldCloud to download project</source>
-        <translation>联系QFieldCloud下载工程</translation>
+        <source>Reaching out to FfF Cloud to download project</source>
+        <translation>联系FfF Cloud下载工程</translation>
     </message>
     <message>
         <source>Uploading…</source>
@@ -5110,8 +5110,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation>确定要移除 `%1` 吗？</translation>
     </message>
     <message>
-        <source>QFieldCloud project details fetching failed</source>
-        <translation>QFieldCloud工程详细信息获取失败</translation>
+        <source>FfF Cloud project details fetching failed</source>
+        <translation>FfF Cloud工程详细信息获取失败</translation>
     </message>
     <message>
         <source>Project cloning failed: %1</source>
@@ -5142,8 +5142,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation>允许使用的字符: 0-9A-Za-z_-</translation>
     </message>
     <message>
-        <source>QFieldCloud</source>
-        <translation>QFieldCloud</translation>
+        <source>FfF Cloud</source>
+        <translation>FfF Cloud</translation>
     </message>
     <message>
         <source>Search for templates</source>
@@ -5201,20 +5201,20 @@ While you can still view and use the project, it is strongly recommended to rese
 <context>
     <name>QfCloudStatus</name>
     <message>
-        <source>QFieldCloud server is not reachable</source>
-        <translation>QFieldCloud服务器无法访问</translation>
+        <source>FfF Cloud server is not reachable</source>
+        <translation>FfF Cloud服务器无法访问</translation>
     </message>
     <message>
         <source>The server at %1 could not be reached. Please check your internet connection.</source>
         <translation>无法访问位于%1的服务器。请检查您的互联网连接。</translation>
     </message>
     <message>
-        <source>QFieldCloud is under maintenance</source>
-        <translation>QFieldCloud正在维护中</translation>
+        <source>FfF Cloud is under maintenance</source>
+        <translation>FfF Cloud正在维护中</translation>
     </message>
     <message>
-        <source>QFieldCloud service is degraded</source>
-        <translation>QFieldCloud服务已降级</translation>
+        <source>FfF Cloud service is degraded</source>
+        <translation>FfF Cloud服务已降级</translation>
     </message>
     <message>
         <source>There is an ongoing incident</source>
@@ -5523,8 +5523,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation>无法处理此文件类型</translation>
     </message>
     <message>
-        <source>QFieldCloud on-demand attachment error: </source>
-        <translation>QFieldCloud按需附件错误: </translation>
+        <source>FfF Cloud on-demand attachment error: </source>
+        <translation>FfF Cloud按需附件错误: </translation>
     </message>
     <message>
         <source>Take a photo</source>
@@ -6465,8 +6465,8 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
         <translation>发送到...</translation>
     </message>
     <message>
-        <source>Push to QFieldCloud</source>
-        <translation>推送到QFieldCloud</translation>
+        <source>Push to FfF Cloud</source>
+        <translation>推送到FfF Cloud</translation>
     </message>
     <message>
         <source>Export to folder...</source>
@@ -6557,12 +6557,12 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
         <translation>将文件上传到WebDAV</translation>
     </message>
     <message>
-        <source>Push file(s) to QFieldCloud</source>
-        <translation>将文件推送到QFieldCloud</translation>
+        <source>Push file(s) to FfF Cloud</source>
+        <translation>将文件推送到FfF Cloud</translation>
     </message>
     <message>
-        <source>Please select one or more files to push to QFieldCloud.</source>
-        <translation>请选择一个或多个文件推送到QFieldCloud。</translation>
+        <source>Please select one or more files to push to FfF Cloud.</source>
+        <translation>请选择一个或多个文件推送到FfF Cloud。</translation>
     </message>
     <message>
         <source>Send compressed file(s) to...</source>
@@ -6573,12 +6573,12 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
         <translation>删除文件</translation>
     </message>
     <message>
-        <source>‘%1’ is being uploaded to QFieldCloud</source>
-        <translation>‘%1’ 正在上传到QFieldCloud</translation>
+        <source>‘%1’ is being uploaded to FfF Cloud</source>
+        <translation>‘%1’ 正在上传到FfF Cloud</translation>
     </message>
     <message>
-        <source>Items being uploaded to QFieldCloud</source>
-        <translation>正在上传到QFieldCloud的项目</translation>
+        <source>Items being uploaded to FfF Cloud</source>
+        <translation>正在上传到FfF Cloud的项目</translation>
     </message>
     <message>
         <source>Remove File(s)</source>
@@ -6700,7 +6700,7 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
         <translation>首页</translation>
     </message>
     <message>
-        <source>QField files directory</source>
+        <source>FfF files directory</source>
         <translation>QField文件目录</translation>
     </message>
     <message>
@@ -7647,8 +7647,8 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
         <translation>备份和协作？</translation>
     </message>
     <message>
-        <source>QFieldCloud allows to synchronize and merge the data collected by your team in %1. From small individual projects to large data collection campaigns. </source>
-        <translation>QFieldCloud允许同步与合并您的团队在%1中收集的数据。从小型个人工程到大型数据收集活动。</translation>
+        <source>FfF Cloud allows to synchronize and merge the data collected by your team in %1. From small individual projects to large data collection campaigns. </source>
+        <translation>FfF Cloud允许同步与合并您的团队在%1中收集的数据。从小型个人工程到大型数据收集活动。</translation>
     </message>
     <message>
         <source>Learn more about QFieldCloud here</source>
@@ -8441,9 +8441,9 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
         <translation>我不需要</translation>
     </message>
     <message>
-        <source>QFieldCloud
+        <source>FfF Cloud
 projects</source>
-        <translation>QFieldCloud
+        <translation>FfF Cloud
 工程</translation>
     </message>
     <message>
@@ -8558,7 +8558,7 @@ project</source>
         <translation>无法读取工程，文件 &quot;%1&quot; 不存在</translation>
     </message>
     <message>
-        <source>Map printed on %1 using QField</source>
+        <source>Map printed on %1 using FfF</source>
         <translation>使用QField在%1打印地图</translation>
     </message>
     <message>
@@ -9116,12 +9116,12 @@ to show actions</source>
         <translation>工程 %1 已成功下载，现在可以打开</translation>
     </message>
     <message>
-        <source>Changes failed to reach QFieldCloud: %1</source>
-        <translation>更改无法上传至QFieldCloud: %1</translation>
+        <source>Changes failed to reach FfF Cloud: %1</source>
+        <translation>更改无法上传至FfF Cloud: %1</translation>
     </message>
     <message>
-        <source>Changes successfully pushed to QFieldCloud</source>
-        <translation>更改已成功上传至QFieldCloud</translation>
+        <source>Changes successfully pushed to FfF Cloud</source>
+        <translation>更改已成功上传至FfF Cloud</translation>
     </message>
     <message>
         <source>Unlock the screen to close project and app</source>
@@ -9224,20 +9224,20 @@ to show actions</source>
         <translation>使用已配置的工程打印和地图集布局将地图画布导出为PDF。</translation>
     </message>
     <message>
-        <source>QFieldCloud</source>
-        <translation>QFieldCloud</translation>
+        <source>FfF Cloud</source>
+        <translation>FfF Cloud</translation>
     </message>
     <message>
-        <source>Upload local changes, synchronize or discard changes to and from QFieldCloud when a cloud project is opened.</source>
-        <translation>打开云工程时，上传本地更改，与QFieldCloud进行同步或放弃更改。</translation>
+        <source>Upload local changes, synchronize or discard changes to and from FfF Cloud when a cloud project is opened.</source>
+        <translation>打开云工程时，上传本地更改，与FfF Cloud进行同步或放弃更改。</translation>
     </message>
     <message>
         <source>Project folder</source>
         <translation>工程文件夹</translation>
     </message>
     <message>
-        <source>Open the project folder to access project files, data sources, and related documents. Useful for managing project resources, manually uploading data to QFieldCloud, and sharing datasets, attachments, and layouts.</source>
-        <translation>打开工程文件夹访问工程文件、数据源和相关文档。可用于管理工程资源、手动将数据上传到QFieldCloud以及共享数据集、附件与布局。</translation>
+        <source>Open the project folder to access project files, data sources, and related documents. Useful for managing project resources, manually uploading data to FfF Cloud, and sharing datasets, attachments, and layouts.</source>
+        <translation>打开工程文件夹访问工程文件、数据源和相关文档。可用于管理工程资源、手动将数据上传到FfF Cloud以及共享数据集、附件与布局。</translation>
     </message>
     <message>
         <source>Pending changes are present. Upload these now or press back again to keep them pending and close the cloud project and app.</source>
@@ -9252,12 +9252,12 @@ to show actions</source>
         <translation>本地更改</translation>
     </message>
     <message>
-        <source>This project has pending changes which have not been uploaded yet. Tap the blue cloud button to open the cloud project panel and send them to QFieldCloud.</source>
-        <translation>此工程有尚未上传的未提交更改。点击蓝色云按钮打开云工程面板，并将这些更改发送到QFieldCloud。</translation>
+        <source>This project has pending changes which have not been uploaded yet. Tap the blue cloud button to open the cloud project panel and send them to FfF Cloud.</source>
+        <translation>此工程有尚未上传的未提交更改。点击蓝色云按钮打开云工程面板，并将这些更改发送到FfF Cloud。</translation>
     </message>
     <message>
-        <source>This cloud project has pending changes which have not been uploaded yet. Open the dashboard using this button, then tap the blue cloud icon to send them to QFieldCloud.</source>
-        <translation>此云端工程有尚未上传的未提交更改。使用此按钮打开仪表板，然后点击蓝色云图标将它们发送到QFieldCloud。</translation>
+        <source>This cloud project has pending changes which have not been uploaded yet. Open the dashboard using this button, then tap the blue cloud icon to send them to FfF Cloud.</source>
+        <translation>此云端工程有尚未上传的未提交更改。使用此按钮打开仪表板，然后点击蓝色云图标将它们发送到FfF Cloud。</translation>
     </message>
     <message>
         <source>Printing %1</source>
@@ -9535,7 +9535,7 @@ to show actions</source>
 <context>
     <name>SystemLoader</name>
     <message>
-        <source>Preparing QField, this is a one time operation that might take some time</source>
+        <source>Preparing FfF, this is a one time operation that might take some time</source>
         <translation type="vanished">正在准备QField，请稍等</translation>
     </message>
 </context>
@@ -9952,7 +9952,7 @@ to show actions</source>
         <translation type="vanished">伸出您的手</translation>
     </message>
     <message>
-        <source>Hey there, how do you like your experience with QField so far?</source>
+        <source>Hey there, how do you like your experience with FfF so far?</source>
         <translation type="vanished">嘿，到目前为止，您如何看待QField？</translation>
     </message>
     <message>
@@ -9968,7 +9968,7 @@ to show actions</source>
         <translation type="vanished">收集匿名测评数据已禁用，您可以通过设置面板重新启用。</translation>
     </message>
     <message>
-        <source>To improve stability for everyone, QField collects and sends anonymized metrics.</source>
+        <source>To improve stability for everyone, FfF collects and sends anonymized metrics.</source>
         <translation type="vanished">为了提高稳定性，QField将收集并发送匿名测评数据。</translation>
     </message>
     <message>
@@ -9980,8 +9980,8 @@ to show actions</source>
         <translation type="vanished">我不需要</translation>
     </message>
     <message>
-        <source>QFieldCloud projects</source>
-        <translation type="vanished">QFieldCloud工程</translation>
+        <source>FfF Cloud projects</source>
+        <translation type="vanished">FfF Cloud工程</translation>
     </message>
     <message>
         <source>Open local file</source>
@@ -10008,11 +10008,11 @@ to show actions</source>
         <translation type="vanished">从最近文件列表中移除</translation>
     </message>
     <message>
-        <source>Welcome to QField. First time using this application? Try out sample projects listed in the list below.</source>
+        <source>Welcome to FfF. First time using this application? Try out sample projects listed in the list below.</source>
         <translation type="vanished">欢迎使用QField！是第一次使用本应用吗？试试下方文件列表的一些示例工程吧。</translation>
     </message>
     <message>
-        <source>Welcome back to QField.</source>
+        <source>Welcome back to FfF.</source>
         <translation type="vanished">欢迎使用QField</translation>
     </message>
 </context>
@@ -10030,8 +10030,8 @@ to show actions</source>
 <context>
     <name>gallery_relation_editor</name>
     <message>
-        <source>QFieldCloud on-demand attachment error: </source>
-        <translation>QFieldCloud按需附件错误: </translation>
+        <source>FfF Cloud on-demand attachment error: </source>
+        <translation>FfF Cloud按需附件错误: </translation>
     </message>
     <message>
         <source>The external storage&apos;s authentication configuration ID is missing, please insure it is imported into %1</source>
@@ -10228,7 +10228,7 @@ to show actions</source>
         <translation type="vanished">信息日志</translation>
     </message>
     <message>
-        <source>About QField</source>
+        <source>About FfF</source>
         <translation type="vanished">关于QField</translation>
     </message>
     <message>
@@ -10240,7 +10240,7 @@ to show actions</source>
         <translation type="vanished">激活定位设备</translation>
     </message>
     <message>
-        <source>QField has no permissions to use positioning.</source>
+        <source>FfF has no permissions to use positioning.</source>
         <translation type="vanished">QField没有使用定位的权限。</translation>
     </message>
     <message>
@@ -10436,12 +10436,12 @@ to show actions</source>
         <translation type="vanished">工程 %1 已成功下载，现在可以打开</translation>
     </message>
     <message>
-        <source>Changes failed to reach QFieldCloud: %1</source>
-        <translation type="vanished">更改无法上传至QFieldCloud: %1</translation>
+        <source>Changes failed to reach FfF Cloud: %1</source>
+        <translation type="vanished">更改无法上传至FfF Cloud: %1</translation>
     </message>
     <message>
-        <source>Changes successfully pushed to QFieldCloud</source>
-        <translation type="vanished">更改已成功上传至QFieldCloud</translation>
+        <source>Changes successfully pushed to FfF Cloud</source>
+        <translation type="vanished">更改已成功上传至FfF Cloud</translation>
     </message>
     <message>
         <source>Press back again to close project and app</source>
@@ -10496,7 +10496,7 @@ to show actions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud</source>
+        <source>FfF Cloud</source>
         <translation type="unfinished"/>
     </message>
 </context>

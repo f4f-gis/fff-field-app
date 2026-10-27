@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<vector xmlns:android="http://schemas.android.com/apk/res/android"
-    android:width="108dp" android:height="108dp"
-    android:viewportWidth="108" android:viewportHeight="108">
-    <path android:fillColor="#FFFFFF" android:pathData="M28 42.83H44.23V47.38H34.01V51.72H43.62V56.26H34.01V66.15H28ZM61.12 41.85V45.52H58.02Q56.84 45.52 56.37 45.95Q55.9 46.38 55.9 47.44V48.66H60.68V52.66H55.9V66.15H50.31V52.66H47.53V48.66H50.31V47.44Q50.31 44.58 51.9 43.21Q53.49 41.85 56.84 41.85ZM63.77 42.83H80V47.38H69.78V51.72H79.39V56.26H69.78V66.15H63.77Z" />
-</vector>
+<bitmap xmlns:android="http://schemas.android.com/apk/res/android"
+    android:src="@drawable/fff_logo_fg"
+    android:gravity="fill" />

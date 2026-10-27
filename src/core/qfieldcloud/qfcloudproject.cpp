@@ -1573,7 +1573,7 @@ void QfCloudProject::logFailedDownload( const QString &fileKey, const QString &e
   const QString baseMessage = tr( "Project `%1`, file `%2`: %3" ).arg( mName, fileKey, errorMessage );
   const QString trimmedMessage = baseMessage + QStringLiteral( " " ) + tr( "System message: " )
                                  + ( ( errorMessageDetail.size() > 100 )
-                                       ? ( errorMessageDetail.left( 100 ) + tr( " (see more in the QField error log)…" ) )
+                                       ? ( errorMessageDetail.left( 100 ) + tr( " (see more in the FfF error log)…" ) )
                                        : errorMessageDetail );
 
   QgsMessageLog::logMessage( QStringLiteral( "%1\n%2" ).arg( baseMessage, errorMessageDetail ) );

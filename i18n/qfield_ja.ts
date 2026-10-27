@@ -1143,7 +1143,7 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
 <context>
     <name>LocalFilesModel</name>
     <message>
-        <source>QField files directory</source>
+        <source>FfF files directory</source>
         <translation type="vanished">QFieldファイルディレクトリ</translation>
     </message>
     <message>
@@ -1905,42 +1905,42 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">QFieldCloudについてもっと知る</translation>
     </message>
     <message>
-        <source>QFieldCloud</source>
+        <source>FfF Cloud</source>
         <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>QFieldCloudPackageLayersFeedback</name>
     <message>
-        <source>Problematic QFieldCloud layer packaging</source>
-        <translation type="vanished">問題のあるQFieldCloudレイヤーのパッケージング</translation>
+        <source>Problematic FfF Cloud layer packaging</source>
+        <translation type="vanished">問題のあるFfF Cloudレイヤーのパッケージング</translation>
     </message>
     <message>
-        <source>Some layers have not been packaged correctly on QFieldCloud. These layers might be misconfigured or their data source is not accessible from the QFieldCloud server.</source>
-        <translation type="vanished">一部のレイヤーはQFieldCloud上で正しくパッケージ化されていません。これらのレイヤーは、設定が間違っているか、データソースがQFieldCloudサーバーからアクセスできない可能性があります。</translation>
+        <source>Some layers have not been packaged correctly on FfF Cloud. These layers might be misconfigured or their data source is not accessible from the FfF Cloud server.</source>
+        <translation type="vanished">一部のレイヤーはFfF Cloud上で正しくパッケージ化されていません。これらのレイヤーは、設定が間違っているか、データソースがFfF Cloudサーバーからアクセスできない可能性があります。</translation>
     </message>
     <message>
-        <source>QFieldCloud had troubles packaging your project</source>
-        <translation type="vanished">QFieldCloudでプロジェクトのパッケージングに問題が発生しました</translation>
+        <source>FfF Cloud had troubles packaging your project</source>
+        <translation type="vanished">FfF Cloudでプロジェクトのパッケージングに問題が発生しました</translation>
     </message>
     <message>
-        <source>Some layers have not been packaged correctly on QFieldCloud. These layers might be misconfigured or their data source is not accessible from the QFieldCloud server. Please check the logs of the latest packaging job on the qfield.cloud website.</source>
-        <translation type="vanished">一部のレイヤーはQFieldCloud上で正しくパッケージ化されていません。これらのレイヤーは、設定が間違っているか、データソースがQFieldCloudサーバーからアクセスできない可能性があります。qfield.cloudのサイトで、最新のパッケージングジョブのログを確認してください。</translation>
+        <source>Some layers have not been packaged correctly on FfF Cloud. These layers might be misconfigured or their data source is not accessible from the FfF Cloud server. Please check the logs of the latest packaging job on the qfield.cloud website.</source>
+        <translation type="vanished">一部のレイヤーはFfF Cloud上で正しくパッケージ化されていません。これらのレイヤーは、設定が間違っているか、データソースがFfF Cloudサーバーからアクセスできない可能性があります。qfield.cloudのサイトで、最新のパッケージングジョブのログを確認してください。</translation>
     </message>
 </context>
 <context>
     <name>QFieldCloudPopup</name>
     <message>
-        <source>QFieldCloud</source>
-        <translation type="vanished">QFieldCloud</translation>
+        <source>FfF Cloud</source>
+        <translation type="vanished">FfF Cloud</translation>
     </message>
     <message>
-        <source>The current project is not stored on QFieldCloud.&lt;br&gt;&lt;br&gt;</source>
-        <translation type="vanished">現在のプロジェクトはQFieldCloudに保存されていません。&lt;br&gt;&lt;br&gt;</translation>
+        <source>The current project is not stored on FfF Cloud.&lt;br&gt;&lt;br&gt;</source>
+        <translation type="vanished">現在のプロジェクトはFfF Cloudに保存されていません。&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
-        <source>Storing projects on QFieldCloud offers seamless synchornization, offline editing, and team management.&lt;br&gt;&lt;br&gt;</source>
-        <translation type="vanished">QFieldCloudにプロジェクトを保存することで、シームレスな同期、オフライン編集、チームでの管理が可能になります。&lt;br&gt;&lt;br&gt;</translation>
+        <source>Storing projects on FfF Cloud offers seamless synchornization, offline editing, and team management.&lt;br&gt;&lt;br&gt;</source>
+        <translation type="vanished">FfF Cloudにプロジェクトを保存することで、シームレスな同期、オフライン編集、チームでの管理が可能になります。&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>Learn more about QFieldCloud</source>
@@ -1948,35 +1948,35 @@ While you can still view and use the project, it is strongly recommended to rese
     </message>
     <message>
         <source>Disconnected from the cloud.</source>
-        <translation type="vanished">QFieldCloudから切り離されました。</translation>
+        <translation type="vanished">FfF Cloudから切り離されました。</translation>
     </message>
     <message>
         <source>Connecting to the cloud.</source>
-        <translation type="vanished">QFieldCloudに接続しています。</translation>
+        <translation type="vanished">FfF Cloudに接続しています。</translation>
     </message>
     <message>
         <source>Greetings &lt;strong&gt;%1&lt;/strong&gt;.</source>
         <translation type="vanished">こんにちは &lt;strong&gt;%1&lt;/strong&gt;さん。</translation>
     </message>
     <message>
-        <source>This QFieldCloud project was first downloaded with another cloud account. Please sign in with the original account for this project to use the QFieldCloud functionality.</source>
-        <translation type="vanished">このQFieldCloudプロジェクトは、最初に別のクラウドアカウントでダウンロードされたものです。QFieldCloudの機能を使用するには、このプロジェクトの元のアカウントでサインインしてください。</translation>
+        <source>This FfF Cloud project was first downloaded with another cloud account. Please sign in with the original account for this project to use the FfF Cloud functionality.</source>
+        <translation type="vanished">このFfF Cloudプロジェクトは、最初に別のクラウドアカウントでダウンロードされたものです。FfF Cloudの機能を使用するには、このプロジェクトの元のアカウントでサインインしてください。</translation>
     </message>
     <message>
         <source>Downloading %1%…</source>
         <translation type="vanished">%1% をダウンロードしています…</translation>
     </message>
     <message>
-        <source>QFieldCloud is preparing the latest data just for you. This might take some time, please hold tight…</source>
-        <translation type="vanished">QFieldCloudは最新のデータを準備しています。少し時間がかかるかもしれませんが、しばらくお待ちください…</translation>
+        <source>FfF Cloud is preparing the latest data just for you. This might take some time, please hold tight…</source>
+        <translation type="vanished">FfF Cloudは最新のデータを準備しています。少し時間がかかるかもしれませんが、しばらくお待ちください…</translation>
     </message>
     <message>
         <source>Uploading %1%…</source>
         <translation type="vanished">%1% をアップロードしています…</translation>
     </message>
     <message>
-        <source>QFieldCloud is applying the latest uploaded changes. This might take some time, please hold tight…</source>
-        <translation type="vanished">QFieldCloudはアップロードされた最新の変更内容を適用しています。少し時間がかかるかもしれませんが、しばらくお待ちください…</translation>
+        <source>FfF Cloud is applying the latest uploaded changes. This might take some time, please hold tight…</source>
+        <translation type="vanished">FfF Cloudはアップロードされた最新の変更内容を適用しています。少し時間がかかるかもしれませんが、しばらくお待ちください…</translation>
     </message>
     <message>
         <source>A server error has occured, please try again.</source>
@@ -2003,8 +2003,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">同期する</translation>
     </message>
     <message>
-        <source>Synchronize the whole project with all modified features and download the freshly updated project with all the applied changes from QFieldCloud.</source>
-        <translation type="vanished">全ての変更された地物を持つプロジェクト全体を同期させ、全ての更新内容が含まれた最新のプロジェクトをQFieldCloudからダウンロードします。</translation>
+        <source>Synchronize the whole project with all modified features and download the freshly updated project with all the applied changes from FfF Cloud.</source>
+        <translation type="vanished">全ての変更された地物を持つプロジェクト全体を同期させ、全ての更新内容が含まれた最新のプロジェクトをFfF Cloudからダウンロードします。</translation>
     </message>
     <message>
         <source>Push changes</source>
@@ -2092,7 +2092,7 @@ While you can still view and use the project, it is strongly recommended to rese
     </message>
     <message>
         <source>Connecting cloud</source>
-        <translation type="vanished">QFieldCloudに接続しています</translation>
+        <translation type="vanished">FfF Cloudに接続しています</translation>
     </message>
     <message>
         <source>Local changes reverted</source>
@@ -2163,7 +2163,7 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="unfinished"/>
     </message>
     <message>
-        <source> (see more in the QField error log)…</source>
+        <source> (see more in the FfF error log)…</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2329,7 +2329,7 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">システムメッセージ: </translation>
     </message>
     <message>
-        <source> (see more in the QField error log)…</source>
+        <source> (see more in the FfF error log)…</source>
         <translation type="vanished"> (QFieldのエラーログを見てください)…</translation>
     </message>
     <message>
@@ -2340,16 +2340,16 @@ While you can still view and use the project, it is strongly recommended to rese
 <context>
     <name>QFieldCloudScreen</name>
     <message>
-        <source>QFieldCloud Projects</source>
-        <translation type="vanished">QFieldCloudプロジェクト</translation>
+        <source>FfF Cloud Projects</source>
+        <translation type="vanished">FfF Cloudプロジェクト</translation>
     </message>
     <message>
         <source>Disconnected from the cloud.</source>
-        <translation type="vanished">QFieldCloudから切り離されました</translation>
+        <translation type="vanished">FfF Cloudから切り離されました</translation>
     </message>
     <message>
         <source>Connecting to the cloud.</source>
-        <translation type="vanished">QFieldCloudに接続しています。</translation>
+        <translation type="vanished">FfF Cloudに接続しています。</translation>
     </message>
     <message>
         <source>Greetings &lt;strong&gt;%1&lt;/strong&gt;.</source>
@@ -2372,8 +2372,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">ダウンロード中、 %1% がフェッチされました…</translation>
     </message>
     <message>
-        <source>QFieldCloud is preparing the latest data just for you. This might take some time, please hold tight…</source>
-        <translation type="vanished">QFieldCloudは最新のデータを準備しています。少し時間がかかるかもしれませんが、しばらくお待ちください…</translation>
+        <source>FfF Cloud is preparing the latest data just for you. This might take some time, please hold tight…</source>
+        <translation type="vanished">FfF Cloudは最新のデータを準備しています。少し時間がかかるかもしれませんが、しばらくお待ちください…</translation>
     </message>
     <message>
         <source>Uploading…</source>
@@ -2615,7 +2615,7 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">ネイティブカメラを使用する</translation>
     </message>
     <message>
-        <source>If disabled, QField will use a minimalist internal camera instead of the camera app on the device.&lt;br&gt;Tip: Enable this option and install the open camera app to create geo tagged photos.</source>
+        <source>If disabled, FfF will use a minimalist internal camera instead of the camera app on the device.&lt;br&gt;Tip: Enable this option and install the open camera app to create geo tagged photos.</source>
         <translation type="vanished">オフの場合, QFieldはデバイスのカメラアプリではなく、内部に搭載のカメラ機能を使用します。&lt;br&gt;参考: このオプションをオンにするとカメラアプリを起動してジオタグ写真を撮影するようになります。</translation>
     </message>
     <message>
@@ -2647,7 +2647,7 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">匿名化されたメトリクスの送信</translation>
     </message>
     <message>
-        <source>If enabled, anonymized metrics will be collected and sent to help improve QField for everyone.</source>
+        <source>If enabled, anonymized metrics will be collected and sent to help improve FfF for everyone.</source>
         <translation type="vanished">有効にすると、匿名化されたメトリクスが収集され、送信され、他の利用者のためにQFieldを改善するのに役立ちます。</translation>
     </message>
     <message>
@@ -2671,7 +2671,7 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">ユーザーインターフェース言語:</translation>
     </message>
     <message>
-        <source>To apply the selected user interface language, QField needs to completely shutdown and restart.</source>
+        <source>To apply the selected user interface language, FfF needs to completely shutdown and restart.</source>
         <translation type="vanished">選択した表示言語を適用するには、QFieldを完全にシャットダウンして再起動する必要があります。</translation>
     </message>
     <message>
@@ -2809,7 +2809,7 @@ Cancel to make a minimal device scan instead.</source>
         <translation type="vanished">垂直方向のグリッドシフトは高度の精度を向上させるために使われます。</translation>
     </message>
     <message>
-        <source>QField Settings</source>
+        <source>FfF Settings</source>
         <translation type="vanished">QField設定</translation>
     </message>
     <message>
@@ -2892,8 +2892,8 @@ Cancel to make a minimal device scan instead.</source>
         <translation>認証が必要です</translation>
     </message>
     <message>
-        <source>QFieldCloud Unknown Error</source>
-        <translation>QFieldCloudの不明なエラー</translation>
+        <source>FfF Cloud Unknown Error</source>
+        <translation>FfF Cloudの不明なエラー</translation>
     </message>
     <message>
         <source>Status not ok</source>
@@ -2960,7 +2960,7 @@ Cancel to make a minimal device scan instead.</source>
         <translation>クラウドユーザ情報</translation>
     </message>
     <message>
-        <source>Please wait while QField installation finalizes.</source>
+        <source>Please wait while FfF installation finalizes.</source>
         <translation>QFieldが最終化している間、しばらくお待ちください。</translation>
     </message>
     <message>
@@ -3556,8 +3556,8 @@ Cancel to make a minimal device scan instead.</source>
         <translation>例 localhost, 192.168.*</translation>
     </message>
     <message>
-        <source>Configure a network proxy to route QField&apos;s traffic through a proxy server. Useful for corporate networks and VPNs.</source>
-        <translation>QField のトラフィックをプロキシ サーバー経由でルーティングするようにネットワーク プロキシを構成します。社内ネットワークや VPN に役立ちます。</translation>
+        <source>Configure a network proxy to route FfF&apos;s traffic through a proxy server. Useful for corporate networks and VPNs.</source>
+        <translation>FfF のトラフィックをプロキシ サーバー経由でルーティングするようにネットワーク プロキシを構成します。社内ネットワークや VPN に役立ちます。</translation>
     </message>
     <message>
         <source>Advanced</source>
@@ -4471,12 +4471,12 @@ While you can still view and use the project, it is strongly recommended to rese
 <context>
     <name>QfCloudPackageLayersFeedback</name>
     <message>
-        <source>Some layers have not been packaged correctly. These layers might be misconfigured or their data source is not accessible from the QFieldCloud server.</source>
-        <translation>一部のレイヤーは正しくパッケージ化されていません。これらのレイヤーは、設定が間違っているか、データソースがQFieldCloudサーバーからアクセスできない可能性があります。</translation>
+        <source>Some layers have not been packaged correctly. These layers might be misconfigured or their data source is not accessible from the FfF Cloud server.</source>
+        <translation>一部のレイヤーは正しくパッケージ化されていません。これらのレイヤーは、設定が間違っているか、データソースがFfF Cloudサーバーからアクセスできない可能性があります。</translation>
     </message>
     <message>
-        <source>Please check the detailed feedback below and the latest packaging job logs on the QFieldCloud website.</source>
-        <translation>QFieldCloudのウェブサイトで、以下の詳細なフィードバックと最新のパッケージング・ジョブ・ログをご確認ください。</translation>
+        <source>Please check the detailed feedback below and the latest packaging job logs on the FfF Cloud website.</source>
+        <translation>FfF Cloudのウェブサイトで、以下の詳細なフィードバックと最新のパッケージング・ジョブ・ログをご確認ください。</translation>
     </message>
 </context>
 <context>
@@ -4525,16 +4525,16 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation>デンジャーゾーン</translation>
     </message>
     <message>
-        <source>QFieldCloud</source>
-        <translation>QFieldCloud</translation>
+        <source>FfF Cloud</source>
+        <translation>FfF Cloud</translation>
     </message>
     <message>
-        <source>This QFieldCloud project was first downloaded with another cloud account. Please sign in with the original account for this project to use the QFieldCloud functionality.</source>
-        <translation>このQFieldCloudプロジェクトは、最初に別のクラウドアカウントでダウンロードされたものです。QFieldCloudの機能を使用するには、このプロジェクトの元のアカウントでサインインしてください。</translation>
+        <source>This FfF Cloud project was first downloaded with another cloud account. Please sign in with the original account for this project to use the FfF Cloud functionality.</source>
+        <translation>このFfF Cloudプロジェクトは、最初に別のクラウドアカウントでダウンロードされたものです。FfF Cloudの機能を使用するには、このプロジェクトの元のアカウントでサインインしてください。</translation>
     </message>
     <message>
-        <source>QFieldCloud is packaging the latest data just for you; this might take some time, please hold tight</source>
-        <translation>QFieldCloudは最新のデータを準備しています。少し時間がかかるかもしれませんが、しばらくお待ちください</translation>
+        <source>FfF Cloud is packaging the latest data just for you; this might take some time, please hold tight</source>
+        <translation>FfF Cloudは最新のデータを準備しています。少し時間がかかるかもしれませんが、しばらくお待ちください</translation>
     </message>
     <message>
         <source>Downloading, %1% of %2 fetched</source>
@@ -4545,28 +4545,28 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation>ダウンロード中、 %1% がフェッチされました</translation>
     </message>
     <message>
-        <source>Reaching out to QFieldCloud to download project</source>
-        <translation>プロジェクトをダウンロードするためにQFieldCloudに連絡する</translation>
+        <source>Reaching out to FfF Cloud to download project</source>
+        <translation>プロジェクトをダウンロードするためにFfF Cloudに連絡する</translation>
     </message>
     <message>
         <source>Pushing changes, %1%…</source>
         <translation>変更内容をプッシュしています, %1%…</translation>
     </message>
     <message>
-        <source>QFieldCloud is applying the latest pushed changes. This might take some time, please hold tight…</source>
-        <translation>QFieldCloudはアップロードされた最新の変更内容を適用しています。少し時間がかかるかもしれませんが、しばらくお待ちください…</translation>
+        <source>FfF Cloud is applying the latest pushed changes. This might take some time, please hold tight…</source>
+        <translation>FfF Cloudはアップロードされた最新の変更内容を適用しています。少し時間がかかるかもしれませんが、しばらくお待ちください…</translation>
     </message>
     <message>
         <source>Cloudify project</source>
         <translation>プロジェクトをクラウド化する</translation>
     </message>
     <message>
-        <source>Uploading the current project to QFieldCloud.</source>
-        <translation>現在のプロジェクトをQFieldCloudにアップロードしています。</translation>
+        <source>Uploading the current project to FfF Cloud.</source>
+        <translation>現在のプロジェクトをFfF Cloudにアップロードしています。</translation>
     </message>
     <message>
-        <source>The current project is not stored on QFieldCloud. Storing projects on QFieldCloud offers seamless synchronization, offline editing, and team management.</source>
-        <translation>現在のプロジェクトはQFieldCloudに保存されていません。QFieldCloudにプロジェクトを保存すると、シームレスな同期、オフライン編集、チーム管理が可能になります。</translation>
+        <source>The current project is not stored on FfF Cloud. Storing projects on FfF Cloud offers seamless synchronization, offline editing, and team management.</source>
+        <translation>現在のプロジェクトはFfF Cloudに保存されていません。FfF Cloudにプロジェクトを保存すると、シームレスな同期、オフライン編集、チーム管理が可能になります。</translation>
     </message>
     <message>
         <source>Learn more about QFieldCloud</source>
@@ -4629,8 +4629,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation>プロジェクトを同期する</translation>
     </message>
     <message>
-        <source>Uploads your edits, then downloads the latest project from QFieldCloud so everything is up to date.</source>
-        <translation>編集内容をアップロードし、QFieldCloudから最新のプロジェクトをダウンロードして、すべてを最新の状態にします。</translation>
+        <source>Uploads your edits, then downloads the latest project from FfF Cloud so everything is up to date.</source>
+        <translation>編集内容をアップロードし、FfF Cloudから最新のプロジェクトをダウンロードして、すべてを最新の状態にします。</translation>
     </message>
     <message>
         <source>Last synchronized just now</source>
@@ -4686,7 +4686,7 @@ While you can still view and use the project, it is strongly recommended to rese
     </message>
     <message>
         <source>Connecting cloud</source>
-        <translation>QFieldCloudに接続しています</translation>
+        <translation>FfF Cloudに接続しています</translation>
     </message>
     <message>
         <source>This project has an updated project file on the cloud, you are advised to synchronize.</source>
@@ -4810,7 +4810,7 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation>システムメッセージ: </translation>
     </message>
     <message>
-        <source> (see more in the QField error log)…</source>
+        <source> (see more in the FfF error log)…</source>
         <translation> (QFieldのエラーログを見てください)…</translation>
     </message>
     <message>
@@ -4885,8 +4885,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation>ローカルの変更をアップロードする</translation>
     </message>
     <message>
-        <source>QFieldCloud is packaging project, hold tight</source>
-        <translation>QFieldCloudはプロジェクトを適切にパッケージ化しています。</translation>
+        <source>FfF Cloud is packaging project, hold tight</source>
+        <translation>FfF Cloudはプロジェクトを適切にパッケージ化しています。</translation>
     </message>
     <message>
         <source>Downloading project</source>
@@ -4978,7 +4978,7 @@ While you can still view and use the project, it is strongly recommended to rese
 <context>
     <name>QfCloudScreen</name>
     <message>
-        <source>QFieldCloud Projects</source>
+        <source>FfF Cloud Projects</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -5002,8 +5002,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud is packaging the latest data just for you; this might take some time, please hold tight</source>
-        <translation>QFieldCloudは最新のデータを準備しています。少し時間がかかるかもしれませんが、しばらくお待ちください</translation>
+        <source>FfF Cloud is packaging the latest data just for you; this might take some time, please hold tight</source>
+        <translation>FfF Cloudは最新のデータを準備しています。少し時間がかかるかもしれませんが、しばらくお待ちください</translation>
     </message>
     <message>
         <source>Downloading, %1% of %2 fetched</source>
@@ -5014,8 +5014,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation>ダウンロード中、 %1% がフェッチされました</translation>
     </message>
     <message>
-        <source>Reaching out to QFieldCloud to download project</source>
-        <translation>プロジェクトをダウンロードするためにQFieldCloudに連絡する</translation>
+        <source>Reaching out to FfF Cloud to download project</source>
+        <translation>プロジェクトをダウンロードするためにFfF Cloudに連絡する</translation>
     </message>
     <message>
         <source>Uploading…</source>
@@ -5110,8 +5110,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud project details fetching failed</source>
-        <translation>QFieldCloudプロジェクトの詳細の取得に失敗しました</translation>
+        <source>FfF Cloud project details fetching failed</source>
+        <translation>FfF Cloudプロジェクトの詳細の取得に失敗しました</translation>
     </message>
     <message>
         <source>Project cloning failed: %1</source>
@@ -5142,8 +5142,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud</source>
-        <translation>QFieldCloud</translation>
+        <source>FfF Cloud</source>
+        <translation>FfF Cloud</translation>
     </message>
     <message>
         <source>Search for templates</source>
@@ -5201,7 +5201,7 @@ While you can still view and use the project, it is strongly recommended to rese
 <context>
     <name>QfCloudStatus</name>
     <message>
-        <source>QFieldCloud server is not reachable</source>
+        <source>FfF Cloud server is not reachable</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -5209,11 +5209,11 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud is under maintenance</source>
+        <source>FfF Cloud is under maintenance</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud service is degraded</source>
+        <source>FfF Cloud service is degraded</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -5523,8 +5523,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation>このファイル種別は利用できません</translation>
     </message>
     <message>
-        <source>QFieldCloud on-demand attachment error: </source>
-        <translation>QFieldCloudのオンデマンド添付ファイルエラー</translation>
+        <source>FfF Cloud on-demand attachment error: </source>
+        <translation>FfF Cloudのオンデマンド添付ファイルエラー</translation>
     </message>
     <message>
         <source>Take a photo</source>
@@ -6464,8 +6464,8 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
         <translation>送信...</translation>
     </message>
     <message>
-        <source>Push to QFieldCloud</source>
-        <translation>QFieldCloudにプッシュ</translation>
+        <source>Push to FfF Cloud</source>
+        <translation>FfF Cloudにプッシュ</translation>
     </message>
     <message>
         <source>Export to folder...</source>
@@ -6556,12 +6556,12 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
         <translation>WebDAVへファイルをアップロード</translation>
     </message>
     <message>
-        <source>Push file(s) to QFieldCloud</source>
-        <translation>QFieldCloudにファイルをプッシュ</translation>
+        <source>Push file(s) to FfF Cloud</source>
+        <translation>FfF Cloudにファイルをプッシュ</translation>
     </message>
     <message>
-        <source>Please select one or more files to push to QFieldCloud.</source>
-        <translation>QFieldCloudにプッシュするファイルを一つ以上選択してください。</translation>
+        <source>Please select one or more files to push to FfF Cloud.</source>
+        <translation>FfF Cloudにプッシュするファイルを一つ以上選択してください。</translation>
     </message>
     <message>
         <source>Send compressed file(s) to...</source>
@@ -6572,11 +6572,11 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>‘%1’ is being uploaded to QFieldCloud</source>
-        <translation>‘%1’がQFieldCloudにアップロードされてします</translation>
+        <source>‘%1’ is being uploaded to FfF Cloud</source>
+        <translation>‘%1’がFfF Cloudにアップロードされてします</translation>
     </message>
     <message>
-        <source>Items being uploaded to QFieldCloud</source>
+        <source>Items being uploaded to FfF Cloud</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -6699,7 +6699,7 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QField files directory</source>
+        <source>FfF files directory</source>
         <translation>QFieldファイルディレクトリ</translation>
     </message>
     <message>
@@ -7646,7 +7646,7 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud allows to synchronize and merge the data collected by your team in %1. From small individual projects to large data collection campaigns. </source>
+        <source>FfF Cloud allows to synchronize and merge the data collected by your team in %1. From small individual projects to large data collection campaigns. </source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -8440,7 +8440,7 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
         <translation>同意しません</translation>
     </message>
     <message>
-        <source>QFieldCloud
+        <source>FfF Cloud
 projects</source>
         <translation type="unfinished"/>
     </message>
@@ -8554,7 +8554,7 @@ project</source>
         <translation>プロジェクトを読み込めません。ファイル 「%1」は存在しません</translation>
     </message>
     <message>
-        <source>Map printed on %1 using QField</source>
+        <source>Map printed on %1 using FfF</source>
         <translation>QFieldを利用して %1 に地図を印刷しました</translation>
     </message>
     <message>
@@ -9111,12 +9111,12 @@ to show actions</source>
         <translation>プロジェクト %1 が正常にダウンロードされて開けるようになりました</translation>
     </message>
     <message>
-        <source>Changes failed to reach QFieldCloud: %1</source>
-        <translation>変更内容がQFieldCloudにプッシュされませんでした: %1</translation>
+        <source>Changes failed to reach FfF Cloud: %1</source>
+        <translation>変更内容がFfF Cloudにプッシュされませんでした: %1</translation>
     </message>
     <message>
-        <source>Changes successfully pushed to QFieldCloud</source>
-        <translation>変更内容がQFieldCloudに正常にプッシュされました</translation>
+        <source>Changes successfully pushed to FfF Cloud</source>
+        <translation>変更内容がFfF Cloudに正常にプッシュされました</translation>
     </message>
     <message>
         <source>Unlock the screen to close project and app</source>
@@ -9219,11 +9219,11 @@ to show actions</source>
         <translation>構成されたプロジェクトの印刷とアトラスのレイアウトを使用して、地図キャンバスを PDF に出力します。</translation>
     </message>
     <message>
-        <source>QFieldCloud</source>
-        <translation>QFieldCloud</translation>
+        <source>FfF Cloud</source>
+        <translation>FfF Cloud</translation>
     </message>
     <message>
-        <source>Upload local changes, synchronize or discard changes to and from QFieldCloud when a cloud project is opened.</source>
+        <source>Upload local changes, synchronize or discard changes to and from FfF Cloud when a cloud project is opened.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -9231,8 +9231,8 @@ to show actions</source>
         <translation>プロジェクトフォルダ</translation>
     </message>
     <message>
-        <source>Open the project folder to access project files, data sources, and related documents. Useful for managing project resources, manually uploading data to QFieldCloud, and sharing datasets, attachments, and layouts.</source>
-        <translation>プロジェクトフォルダを開くと、プロジェクトファイル、データソース、関連ドキュメントにアクセスできます。プロジェクトリソースの管理、QFieldCloudへのデータの手動アップロード、データセット、添付ファイル、レイアウトの共有に役立ちます。</translation>
+        <source>Open the project folder to access project files, data sources, and related documents. Useful for managing project resources, manually uploading data to FfF Cloud, and sharing datasets, attachments, and layouts.</source>
+        <translation>プロジェクトフォルダを開くと、プロジェクトファイル、データソース、関連ドキュメントにアクセスできます。プロジェクトリソースの管理、FfF Cloudへのデータの手動アップロード、データセット、添付ファイル、レイアウトの共有に役立ちます。</translation>
     </message>
     <message>
         <source>Pending changes are present. Upload these now or press back again to keep them pending and close the cloud project and app.</source>
@@ -9247,11 +9247,11 @@ to show actions</source>
         <translation>ローカルの変更</translation>
     </message>
     <message>
-        <source>This project has pending changes which have not been uploaded yet. Tap the blue cloud button to open the cloud project panel and send them to QFieldCloud.</source>
+        <source>This project has pending changes which have not been uploaded yet. Tap the blue cloud button to open the cloud project panel and send them to FfF Cloud.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>This cloud project has pending changes which have not been uploaded yet. Open the dashboard using this button, then tap the blue cloud icon to send them to QFieldCloud.</source>
+        <source>This cloud project has pending changes which have not been uploaded yet. Open the dashboard using this button, then tap the blue cloud icon to send them to FfF Cloud.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -9530,7 +9530,7 @@ to show actions</source>
 <context>
     <name>SystemLoader</name>
     <message>
-        <source>Preparing QField, this is a one time operation that might take some time</source>
+        <source>Preparing FfF, this is a one time operation that might take some time</source>
         <translation type="vanished">QFieldを順しています。これは一回限りの操作で少し時間がかかる場合があります。</translation>
     </message>
 </context>
@@ -9947,7 +9947,7 @@ to show actions</source>
         <translation type="vanished">連絡する</translation>
     </message>
     <message>
-        <source>Hey there, how do you like your experience with QField so far?</source>
+        <source>Hey there, how do you like your experience with FfF so far?</source>
         <translation type="vanished">QFieldを使ってみて気に入っていただけましたか？</translation>
     </message>
     <message>
@@ -9963,7 +9963,7 @@ to show actions</source>
         <translation type="vanished">匿名化されたメトリクスの収集は無効化されました。設定パネルから再有効化することができます。</translation>
     </message>
     <message>
-        <source>To improve stability for everyone, QField collects and sends anonymized metrics.</source>
+        <source>To improve stability for everyone, FfF collects and sends anonymized metrics.</source>
         <translation type="vanished">利用者の安定性を高めるため、QFieldでは匿名化されたメトリクスを収集し、送信しています。</translation>
     </message>
     <message>
@@ -9975,8 +9975,8 @@ to show actions</source>
         <translation type="vanished">同意しません</translation>
     </message>
     <message>
-        <source>QFieldCloud projects</source>
-        <translation type="vanished">QFieldCloudプロジェクト</translation>
+        <source>FfF Cloud projects</source>
+        <translation type="vanished">FfF Cloudプロジェクト</translation>
     </message>
     <message>
         <source>Open local file</source>
@@ -10003,11 +10003,11 @@ to show actions</source>
         <translation type="vanished">最近のプロジェクトから削除する</translation>
     </message>
     <message>
-        <source>Welcome to QField. First time using this application? Try out sample projects listed in the list below.</source>
+        <source>Welcome to FfF. First time using this application? Try out sample projects listed in the list below.</source>
         <translation type="vanished">QFieldにようこそ。初めてこのアプリをご使用になりますか？どうぞ下のリストにあるサンプルプロジェクトをお試しください。</translation>
     </message>
     <message>
-        <source>Welcome back to QField.</source>
+        <source>Welcome back to FfF.</source>
         <translation type="vanished">QFieldへようこそ。</translation>
     </message>
 </context>
@@ -10025,8 +10025,8 @@ to show actions</source>
 <context>
     <name>gallery_relation_editor</name>
     <message>
-        <source>QFieldCloud on-demand attachment error: </source>
-        <translation>QFieldCloudのオンデマンド添付ファイルエラー</translation>
+        <source>FfF Cloud on-demand attachment error: </source>
+        <translation>FfF Cloudのオンデマンド添付ファイルエラー</translation>
     </message>
     <message>
         <source>The external storage&apos;s authentication configuration ID is missing, please insure it is imported into %1</source>
@@ -10223,7 +10223,7 @@ to show actions</source>
         <translation type="vanished">メッセージログ</translation>
     </message>
     <message>
-        <source>About QField</source>
+        <source>About FfF</source>
         <translation type="vanished">QFieldについて</translation>
     </message>
     <message>
@@ -10235,7 +10235,7 @@ to show actions</source>
         <translation type="vanished">位置情報取得機能を有効にしています</translation>
     </message>
     <message>
-        <source>QField has no permissions to use positioning.</source>
+        <source>FfF has no permissions to use positioning.</source>
         <translation type="vanished">QFieldは位置情報表示機能を使用する許可を与えられていません。</translation>
     </message>
     <message>
@@ -10431,12 +10431,12 @@ to show actions</source>
         <translation type="vanished">プロジェクト %1 が正常にダウンロードされて開けるようになりました</translation>
     </message>
     <message>
-        <source>Changes failed to reach QFieldCloud: %1</source>
-        <translation type="vanished">変更内容がQFieldCloudにプッシュされませんでした: %1</translation>
+        <source>Changes failed to reach FfF Cloud: %1</source>
+        <translation type="vanished">変更内容がFfF Cloudにプッシュされませんでした: %1</translation>
     </message>
     <message>
-        <source>Changes successfully pushed to QFieldCloud</source>
-        <translation type="vanished">変更内容がQFieldCloudに正常にプッシュされました</translation>
+        <source>Changes successfully pushed to FfF Cloud</source>
+        <translation type="vanished">変更内容がFfF Cloudに正常にプッシュされました</translation>
     </message>
     <message>
         <source>Press back again to close project and app</source>
@@ -10491,7 +10491,7 @@ to show actions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud</source>
+        <source>FfF Cloud</source>
         <translation type="unfinished"/>
     </message>
 </context>

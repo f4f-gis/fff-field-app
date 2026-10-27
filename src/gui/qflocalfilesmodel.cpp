@@ -144,7 +144,7 @@ const QString QfLocalFilesModel::getCurrentTitleFromPath( const QString &path ) 
   }
   else if ( path == QfPlatformUtilities::instance()->applicationDirectory() )
   {
-    return tr( "QField files directory" );
+    return tr( "FfF files directory" );
   }
   else if ( path == mCreatedProjectsPath )
   {
@@ -252,7 +252,7 @@ void QfLocalFilesModel::reloadModel()
     const QString applicationDirectory = QfPlatformUtilities::instance()->applicationDirectory();
     if ( !applicationDirectory.isEmpty() )
     {
-      mItems << QfLocalFileItem( ItemMetaType::Folder, ItemType::ApplicationFolder, tr( "QField files directory" ), QString(), applicationDirectory );
+      mItems << QfLocalFileItem( ItemMetaType::Folder, ItemType::ApplicationFolder, tr( "FfF files directory" ), QString(), applicationDirectory );
     }
 
     const QStringList additionalApplicationDirectories = QfPlatformUtilities::instance()->additionalApplicationDirectories();

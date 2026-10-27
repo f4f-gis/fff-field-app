@@ -38,3 +38,13 @@ server (https://fff-summer202627.southafricanorth.cloudapp.azure.com). Later cha
 Additional FfF files (new): `branding/fff/*`, `scripts/rebrand.sh`, `.github/workflows/fff-android.yml`,
 `platform/android/res/drawable/launcher_fff_logo*.xml`, `platform/android/res/drawable/fff_logo_vector.xml`.
 Also modified: `CMakeLists.txt` (default icon and icon path), `scripts/build-vcpkg.sh` (default icon).
+
+### 2026-10-27
+- Replaced the placeholder icons with the Foundations for Farming logo: `branding/fff/*`,
+  `images/icons/qfieldcloud_logo.svg`, `images/icons/nyuki.svg`,
+  `platform/android/res/drawable/launcher_fff_logo*.xml`, `platform/android/res/drawable/fff_logo_vector.xml`,
+  `platform/android/res/drawable-nodpi/fff_logo_fg.png`, `platform/android/res/drawable-nodpi/fff_logo_splash.png`.
+- Renamed "QField" to "FfF" and "QFieldCloud" to "FfF Cloud" in user-visible texts (QML/C++ translatable
+  strings, `i18n/*.ts`, `platform/android/res/values*/strings.xml`) using `branding/fff/rename_texts.py`.
+  Credits, the donation button and links to QField's own documentation and releases still name QField.
+The Foundations for Farming logo is not covered by the GPL; it remains the property of Foundations for Farming.

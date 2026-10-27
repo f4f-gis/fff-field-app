@@ -27,10 +27,10 @@
     <string name="added_to_favorites">お気に入りに追加しました</string>
     <string name="removed_from_favorites">お気に入りから削除しました</string>
     <string name="external_files_title">重要なお知らせ</string>
-    <string name="external_files_message"><![CDATA[QField のファイルディレクトリは、ファイルやプロジェクトを USB ケーブルでデバイスにコピーする際に使用します。ヘッダーバーでディレクトリの絶対パスを確認いただけます。<br/><br/>QField をデバイスからアンインストールすると、このディレクトリの内容は<i>削除されます</i>ので、ご注意ください。]]></string>
+    <string name="external_files_message"><![CDATA[FfF のファイルディレクトリは、ファイルやプロジェクトを USB ケーブルでデバイスにコピーする際に使用します。ヘッダーバーでディレクトリの絶対パスを確認いただけます。<br/><br/>FfF をデバイスからアンインストールすると、このディレクトリの内容は<i>削除されます</i>ので、ご注意ください。]]></string>
     <string name="external_files_ok">OK</string>
     <string name="grant_permission">全てのファイルへのアクセス</string>
-    <string name="grant_all_files_permission"><![CDATA[QField は、ローカルプロジェクトやデータセットを開いたり、カスタム座標系のグリッド、フォント、ベースマップをサポートしたりするために、すべてのファイルへのアクセス許可が必要です。 必須ではありませんが、 <i>アクセスを許可することを強くお勧めします</i>。<br/><br/>次の画面で、<b>QField</b>を選択し、<b>全てのファイルへのアクセスを許可する</b> オプションを選択してください。]]></string>
+    <string name="grant_all_files_permission"><![CDATA[FfF は、ローカルプロジェクトやデータセットを開いたり、カスタム座標系のグリッド、フォント、ベースマップをサポートしたりするために、すべてのファイルへのアクセス許可が必要です。 必須ではありませんが、 <i>アクセスを許可することを強くお勧めします</i>。<br/><br/>次の画面で、<b>FfF</b>を選択し、<b>全てのファイルへのアクセスを許可する</b> オプションを選択してください。]]></string>
     <string name="grant">許可</string>
     <string name="deny_always">必ず拒否</string>
     <string name="deny_once">一度だけ拒否</string>
@@ -58,7 +58,7 @@
     <string name="import_project_wait">QFieldがプロジェクトをインポートしている間、しばらくお待ちください。</string>
     <string name="import_dataset_wait">QFieldがデータセットをインポートしている間、しばらくお待ちください。</string>
     <string name="update_project_wait">QFieldがローカルプロジェクトを更新しています。しばらくお待ちください。</string>
-    <string name="upload_pending_attachments">現在、QFieldCloudに添付ファイルをアップロードしています。</string>
+    <string name="upload_pending_attachments">現在、FfF Cloudに添付ファイルをアップロードしています。</string>
     <string name="operation_unsupported">サポートされていない操作です</string>
     <string name="import_operation_unsupported">お使いのデバイスはこのインポート操作に対応していません。</string>
     <string name="export_operation_unsupported">お使いのデバイスはこのエクスポート操作に対応していません。</string>

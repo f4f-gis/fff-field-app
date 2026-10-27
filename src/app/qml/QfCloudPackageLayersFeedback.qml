@@ -22,14 +22,14 @@ QfDialog {
 
     Label {
       Layout.fillWidth: true
-      text: qsTr("Some layers have not been packaged correctly. These layers might be misconfigured or their data source is not accessible from the QFieldCloud server.")
+      text: qsTr("Some layers have not been packaged correctly. These layers might be misconfigured or their data source is not accessible from the FfF Cloud server.")
       font: QfTheme.defaultFont
       wrapMode: Text.WordWrap
     }
 
     Label {
       Layout.fillWidth: true
-      text: qsTr("Please check the detailed feedback below and the latest packaging job logs on the QFieldCloud website.")
+      text: qsTr("Please check the detailed feedback below and the latest packaging job logs on the FfF Cloud website.")
       font: QfTheme.defaultFont
       wrapMode: Text.WordWrap
     }

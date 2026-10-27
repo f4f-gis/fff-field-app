@@ -780,7 +780,7 @@ QfEditorWidgetBase {
     function onDownloadAttachmentFinished(fileName, errorString) {
       if (downloadAttachmentFileName === fileName) {
         if (errorString !== "") {
-          displayToast(qsTr("QFieldCloud on-demand attachment error: ") + errorString, 'error');
+          displayToast(qsTr("FfF Cloud on-demand attachment error: ") + errorString, 'error');
         } else {
           prepareValue(prefixToRelativePath + fileName);
         }

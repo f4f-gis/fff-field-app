@@ -1144,8 +1144,8 @@ Az elem geometriákat összevonjuk a &apos;%1&apos; elembe, mely megőrzi az att
 <context>
     <name>LocalFilesModel</name>
     <message>
-        <source>QField files directory</source>
-        <translation type="vanished">QField fájlok könyvtár</translation>
+        <source>FfF files directory</source>
+        <translation type="vanished">FfF fájlok könyvtár</translation>
     </message>
     <message>
         <source>Imported projects</source>
@@ -1905,42 +1905,42 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">Tanuljon többet a QFieldCloud-ról</translation>
     </message>
     <message>
-        <source>QFieldCloud</source>
+        <source>FfF Cloud</source>
         <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>QFieldCloudPackageLayersFeedback</name>
     <message>
-        <source>Problematic QFieldCloud layer packaging</source>
-        <translation type="vanished">Problémás QField réteg becsomagolás</translation>
+        <source>Problematic FfF Cloud layer packaging</source>
+        <translation type="vanished">Problémás FfF réteg becsomagolás</translation>
     </message>
     <message>
-        <source>Some layers have not been packaged correctly on QFieldCloud. These layers might be misconfigured or their data source is not accessible from the QFieldCloud server.</source>
-        <translation type="vanished">Néhány réteget helytelenül csomagoltak be a QFieldCloud-on. Ezen a rétegek konfigurációja hibás lehet vagy az adatforrásai nem érhetők el a QFieldCloud szerverről.</translation>
+        <source>Some layers have not been packaged correctly on FfF Cloud. These layers might be misconfigured or their data source is not accessible from the FfF Cloud server.</source>
+        <translation type="vanished">Néhány réteget helytelenül csomagoltak be a FfF Cloud-on. Ezen a rétegek konfigurációja hibás lehet vagy az adatforrásai nem érhetők el a FfF Cloud szerverről.</translation>
     </message>
     <message>
-        <source>QFieldCloud had troubles packaging your project</source>
-        <translation type="vanished">A QFieldCloud probléma a projekt csomagolása közben.</translation>
+        <source>FfF Cloud had troubles packaging your project</source>
+        <translation type="vanished">A FfF Cloud probléma a projekt csomagolása közben.</translation>
     </message>
     <message>
-        <source>Some layers have not been packaged correctly on QFieldCloud. These layers might be misconfigured or their data source is not accessible from the QFieldCloud server. Please check the logs of the latest packaging job on the qfield.cloud website.</source>
-        <translation type="vanished">Néhány réteg nincs megfelelően csomagolva a QFieldCloudban. Lehetséges, hogy ezek a rétegek rosszul vannak konfigurálva, vagy adatforrásuk nem érhető el a QFieldCloud szerverről. Kérjük, ellenőrizze a naplófájlokat a qfield.cloud webhelyen.</translation>
+        <source>Some layers have not been packaged correctly on FfF Cloud. These layers might be misconfigured or their data source is not accessible from the FfF Cloud server. Please check the logs of the latest packaging job on the qfield.cloud website.</source>
+        <translation type="vanished">Néhány réteg nincs megfelelően csomagolva a FfF Cloudban. Lehetséges, hogy ezek a rétegek rosszul vannak konfigurálva, vagy adatforrásuk nem érhető el a FfF Cloud szerverről. Kérjük, ellenőrizze a naplófájlokat a qfield.cloud webhelyen.</translation>
     </message>
 </context>
 <context>
     <name>QFieldCloudPopup</name>
     <message>
-        <source>QFieldCloud</source>
-        <translation type="vanished">QFieldCloud</translation>
+        <source>FfF Cloud</source>
+        <translation type="vanished">FfF Cloud</translation>
     </message>
     <message>
-        <source>The current project is not stored on QFieldCloud.&lt;br&gt;&lt;br&gt;</source>
-        <translation type="vanished">Az aktuális projektet nem a QFieldCloud-on tároljuk.&lt;br&gt;&lt;br&gt;</translation>
+        <source>The current project is not stored on FfF Cloud.&lt;br&gt;&lt;br&gt;</source>
+        <translation type="vanished">Az aktuális projektet nem a FfF Cloud-on tároljuk.&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
-        <source>Storing projects on QFieldCloud offers seamless synchornization, offline editing, and team management.&lt;br&gt;&lt;br&gt;</source>
-        <translation type="vanished">A projekt QFieldCloud-on tárolása zökkenőmentes szinkronizálást, offline szerkesztést és csoport kezelést biztosít.&lt;br&gt;&lt;br&gt;</translation>
+        <source>Storing projects on FfF Cloud offers seamless synchornization, offline editing, and team management.&lt;br&gt;&lt;br&gt;</source>
+        <translation type="vanished">A projekt FfF Cloud-on tárolása zökkenőmentes szinkronizálást, offline szerkesztést és csoport kezelést biztosít.&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>Learn more about QFieldCloud</source>
@@ -1959,24 +1959,24 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">Üdvözlet &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <source>This QFieldCloud project was first downloaded with another cloud account. Please sign in with the original account for this project to use the QFieldCloud functionality.</source>
-        <translation type="vanished">Néhány réteg nincs megfelelően csomagolva a QFieldCloudban. Lehetséges, hogy ezek a rétegek rosszul vannak konfigurálva, vagy adatforrásuk nem érhető el a QFieldCloud szerverről. Kérjük, ellenőrizze a csomagolás naplófájljait a qfield.cloud webhelyen.</translation>
+        <source>This FfF Cloud project was first downloaded with another cloud account. Please sign in with the original account for this project to use the FfF Cloud functionality.</source>
+        <translation type="vanished">Néhány réteg nincs megfelelően csomagolva a FfF Cloudban. Lehetséges, hogy ezek a rétegek rosszul vannak konfigurálva, vagy adatforrásuk nem érhető el a FfF Cloud szerverről. Kérjük, ellenőrizze a csomagolás naplófájljait a qfield.cloud webhelyen.</translation>
     </message>
     <message>
         <source>Downloading %1%…</source>
         <translation type="vanished">Letöltés %1%...</translation>
     </message>
     <message>
-        <source>QFieldCloud is preparing the latest data just for you. This might take some time, please hold tight…</source>
-        <translation type="vanished">QFieldCloud előkészíti az legfrissebb adatokat önnek. Ez eltarthat egy ideig, kérem várjon...</translation>
+        <source>FfF Cloud is preparing the latest data just for you. This might take some time, please hold tight…</source>
+        <translation type="vanished">FfF Cloud előkészíti az legfrissebb adatokat önnek. Ez eltarthat egy ideig, kérem várjon...</translation>
     </message>
     <message>
         <source>Uploading %1%…</source>
         <translation type="vanished">Feltöltés %1%...</translation>
     </message>
     <message>
-        <source>QFieldCloud is applying the latest uploaded changes. This might take some time, please hold tight…</source>
-        <translation type="vanished">QFieldCloud a legutóbb feltöltött változásokat alkalmazza. Ez eltarthat egy ideig, kérem várjon...</translation>
+        <source>FfF Cloud is applying the latest uploaded changes. This might take some time, please hold tight…</source>
+        <translation type="vanished">FfF Cloud a legutóbb feltöltött változásokat alkalmazza. Ez eltarthat egy ideig, kérem várjon...</translation>
     </message>
     <message>
         <source>A server error has occured, please try again.</source>
@@ -2003,8 +2003,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">Szinkronizálás</translation>
     </message>
     <message>
-        <source>Synchronize the whole project with all modified features and download the freshly updated project with all the applied changes from QFieldCloud.</source>
-        <translation type="vanished">Az egész projekt szinkronizálása az összes módosult elemmel és a frissen aktualizált projekt letöltése a QFieldCloud-ból az összes alkalmazott módosítással.</translation>
+        <source>Synchronize the whole project with all modified features and download the freshly updated project with all the applied changes from FfF Cloud.</source>
+        <translation type="vanished">Az egész projekt szinkronizálása az összes módosult elemmel és a frissen aktualizált projekt letöltése a FfF Cloud-ból az összes alkalmazott módosítással.</translation>
     </message>
     <message>
         <source>Push changes</source>
@@ -2161,7 +2161,7 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="unfinished"/>
     </message>
     <message>
-        <source> (see more in the QField error log)…</source>
+        <source> (see more in the FfF error log)…</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2325,8 +2325,8 @@ name(string), owner(string), description(string), user_role(string), is_public(b
         <translation type="vanished">Rendszerüzenet:</translation>
     </message>
     <message>
-        <source> (see more in the QField error log)…</source>
-        <translation type="vanished">(többet láthat a QField hiba naplóban)...</translation>
+        <source> (see more in the FfF error log)…</source>
+        <translation type="vanished">(többet láthat a FfF hiba naplóban)...</translation>
     </message>
     <message>
         <source>Failed to copy some of the downloaded files on your device. Check your device storage.</source>
@@ -2336,8 +2336,8 @@ name(string), owner(string), description(string), user_role(string), is_public(b
 <context>
     <name>QFieldCloudScreen</name>
     <message>
-        <source>QFieldCloud Projects</source>
-        <translation type="vanished">QFieldCloud projektek</translation>
+        <source>FfF Cloud Projects</source>
+        <translation type="vanished">FfF Cloud projektek</translation>
     </message>
     <message>
         <source>Disconnected from the cloud.</source>
@@ -2368,8 +2368,8 @@ name(string), owner(string), description(string), user_role(string), is_public(b
         <translation type="vanished">Letöltés folyamatban, %1% letöltve...</translation>
     </message>
     <message>
-        <source>QFieldCloud is preparing the latest data just for you. This might take some time, please hold tight…</source>
-        <translation type="vanished">QFieldCloud előkészíti az legfrissebb adatokat önnek. Ez eltarthat egy ideig, kérem várjon...</translation>
+        <source>FfF Cloud is preparing the latest data just for you. This might take some time, please hold tight…</source>
+        <translation type="vanished">FfF Cloud előkészíti az legfrissebb adatokat önnek. Ez eltarthat egy ideig, kérem várjon...</translation>
     </message>
     <message>
         <source>Uploading…</source>
@@ -2611,8 +2611,8 @@ name(string), owner(string), description(string), user_role(string), is_public(b
         <translation type="vanished">Natív kamera használata</translation>
     </message>
     <message>
-        <source>If disabled, QField will use a minimalist internal camera instead of the camera app on the device.&lt;br&gt;Tip: Enable this option and install the open camera app to create geo tagged photos.</source>
-        <translation type="vanished">Ha letiltják, a QField a minimalista belső kamerát használja az egység kamara alkalmazása helyett. &lt;br&gt;Tipp: Engedélyezze ezt a beállítást és telepítse a nyílt kamera alkalmazást geo taggelt képek készítéséhez. </translation>
+        <source>If disabled, FfF will use a minimalist internal camera instead of the camera app on the device.&lt;br&gt;Tip: Enable this option and install the open camera app to create geo tagged photos.</source>
+        <translation type="vanished">Ha letiltják, a FfF a minimalista belső kamerát használja az egység kamara alkalmazása helyett. &lt;br&gt;Tipp: Engedélyezze ezt a beállítást és telepítse a nyílt kamera alkalmazást geo taggelt képek készítéséhez. </translation>
     </message>
     <message>
         <source>Fast editing mode</source>
@@ -2643,8 +2643,8 @@ name(string), owner(string), description(string), user_role(string), is_public(b
         <translation type="vanished">Névtelen mérőszámok küldése</translation>
     </message>
     <message>
-        <source>If enabled, anonymized metrics will be collected and sent to help improve QField for everyone.</source>
-        <translation type="vanished">Ha engedélyezve van, a rendszer anonimizált mérőszámokat gyűjt és küld el, hogy  javítsa a QField szolgáltatást.</translation>
+        <source>If enabled, anonymized metrics will be collected and sent to help improve FfF for everyone.</source>
+        <translation type="vanished">Ha engedélyezve van, a rendszer anonimizált mérőszámokat gyűjt és küld el, hogy  javítsa a FfF szolgáltatást.</translation>
     </message>
     <message>
         <source>General</source>
@@ -2667,8 +2667,8 @@ name(string), owner(string), description(string), user_role(string), is_public(b
         <translation type="vanished">Felhasználói felület nyelve:</translation>
     </message>
     <message>
-        <source>To apply the selected user interface language, QField needs to completely shutdown and restart.</source>
-        <translation type="vanished">A kiválasztott felhasználói felület nyelvének alkalmazásához a QField-t teljesen le kell állítani, majd újra kell indítani.</translation>
+        <source>To apply the selected user interface language, FfF needs to completely shutdown and restart.</source>
+        <translation type="vanished">A kiválasztott felhasználói felület nyelvének alkalmazásához a FfF-t teljesen le kell állítani, majd újra kell indítani.</translation>
     </message>
     <message>
         <source>system</source>
@@ -2806,8 +2806,8 @@ Bekapcsolható még a pontossági követelmény mód, amely megakadályozza a gy
         <translation type="vanished">Függőleges eltolási rács  a magasság pontosságának növelésére. Függőleges eltolási rács fájl hozzáadás a dokumentáció szerint.</translation>
     </message>
     <message>
-        <source>QField Settings</source>
-        <translation type="vanished">QField beállítások</translation>
+        <source>FfF Settings</source>
+        <translation type="vanished">FfF beállítások</translation>
     </message>
     <message>
         <source>Time of inactivity in seconds before the screen brightness get be dimmed to preserve battery.</source>
@@ -2889,8 +2889,8 @@ Bekapcsolható még a pontossági követelmény mód, amely megakadályozza a gy
         <translation>Hitelesítés szükséges</translation>
     </message>
     <message>
-        <source>QFieldCloud Unknown Error</source>
-        <translation>QFieldCloud ismeretlen hiba</translation>
+        <source>FfF Cloud Unknown Error</source>
+        <translation>FfF Cloud ismeretlen hiba</translation>
     </message>
     <message>
         <source>Status not ok</source>
@@ -2957,8 +2957,8 @@ Bekapcsolható még a pontossági követelmény mód, amely megakadályozza a gy
         <translation>Felhő felhasználó info</translation>
     </message>
     <message>
-        <source>Please wait while QField installation finalizes.</source>
-        <translation>Kérjük, várja meg, amíg a QField telepítése befejeződik.</translation>
+        <source>Please wait while FfF installation finalizes.</source>
+        <translation>Kérjük, várja meg, amíg a FfF telepítése befejeződik.</translation>
     </message>
     <message>
         <source>averaged</source>
@@ -3553,8 +3553,8 @@ Bekapcsolható még a pontossági követelmény mód, amely megakadályozza a gy
         <translation>pl. localhost, 192.168.*</translation>
     </message>
     <message>
-        <source>Configure a network proxy to route QField&apos;s traffic through a proxy server. Useful for corporate networks and VPNs.</source>
-        <translation>Hálózati proxy beállítása, a QField forgalom proxy szerveren keresztüli vezetésére. Hasznos vállalati hálózatokhoz és VPN-hez.</translation>
+        <source>Configure a network proxy to route FfF&apos;s traffic through a proxy server. Useful for corporate networks and VPNs.</source>
+        <translation>Hálózati proxy beállítása, a FfF forgalom proxy szerveren keresztüli vezetésére. Hasznos vállalati hálózatokhoz és VPN-hez.</translation>
     </message>
     <message>
         <source>Advanced</source>
@@ -4466,12 +4466,12 @@ While you can still view and use the project, it is strongly recommended to rese
 <context>
     <name>QfCloudPackageLayersFeedback</name>
     <message>
-        <source>Some layers have not been packaged correctly. These layers might be misconfigured or their data source is not accessible from the QFieldCloud server.</source>
-        <translation>Néhány réteg helytelenül lett becsomagolva. Ezen a rétegek konfigurációja hibás lehet vagy az adatforrásai nem érhetők el a QFieldCloud szerverről.</translation>
+        <source>Some layers have not been packaged correctly. These layers might be misconfigured or their data source is not accessible from the FfF Cloud server.</source>
+        <translation>Néhány réteg helytelenül lett becsomagolva. Ezen a rétegek konfigurációja hibás lehet vagy az adatforrásai nem érhetők el a FfF Cloud szerverről.</translation>
     </message>
     <message>
-        <source>Please check the detailed feedback below and the latest packaging job logs on the QFieldCloud website.</source>
-        <translation>Ellenőrizd az alábbi visszajelzést és az utolsó csomagolási naplót a QFieldCloud oldalán.</translation>
+        <source>Please check the detailed feedback below and the latest packaging job logs on the FfF Cloud website.</source>
+        <translation>Ellenőrizd az alábbi visszajelzést és az utolsó csomagolási naplót a FfF Cloud oldalán.</translation>
     </message>
 </context>
 <context>
@@ -4520,16 +4520,16 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation>Veszélyzóna</translation>
     </message>
     <message>
-        <source>QFieldCloud</source>
-        <translation>QFieldCloud</translation>
+        <source>FfF Cloud</source>
+        <translation>FfF Cloud</translation>
     </message>
     <message>
-        <source>This QFieldCloud project was first downloaded with another cloud account. Please sign in with the original account for this project to use the QFieldCloud functionality.</source>
-        <translation>Néhány réteg nincs megfelelően csomagolva a QFieldCloudban. Lehetséges, hogy ezek a rétegek rosszul vannak konfigurálva, vagy adatforrásuk nem érhető el a QFieldCloud szerverről. Kérjük, ellenőrizze a csomagolás naplófájljait a qfield.cloud webhelyen.</translation>
+        <source>This FfF Cloud project was first downloaded with another cloud account. Please sign in with the original account for this project to use the FfF Cloud functionality.</source>
+        <translation>Néhány réteg nincs megfelelően csomagolva a FfF Cloudban. Lehetséges, hogy ezek a rétegek rosszul vannak konfigurálva, vagy adatforrásuk nem érhető el a FfF Cloud szerverről. Kérjük, ellenőrizze a csomagolás naplófájljait a qfield.cloud webhelyen.</translation>
     </message>
     <message>
-        <source>QFieldCloud is packaging the latest data just for you; this might take some time, please hold tight</source>
-        <translation>A QFieldCloud az Ön számára csomagolja a legfrissebb adatokat; ez eltarthat egy ideig, kérjük legyen türelmes</translation>
+        <source>FfF Cloud is packaging the latest data just for you; this might take some time, please hold tight</source>
+        <translation>A FfF Cloud az Ön számára csomagolja a legfrissebb adatokat; ez eltarthat egy ideig, kérjük legyen türelmes</translation>
     </message>
     <message>
         <source>Downloading, %1% of %2 fetched</source>
@@ -4540,28 +4540,28 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation>Letöltési folyamat: %1% letöltve</translation>
     </message>
     <message>
-        <source>Reaching out to QFieldCloud to download project</source>
-        <translation>A projekt letöltését kezdeményezze a QFieldCloud-ról</translation>
+        <source>Reaching out to FfF Cloud to download project</source>
+        <translation>A projekt letöltését kezdeményezze a FfF Cloud-ról</translation>
     </message>
     <message>
         <source>Pushing changes, %1%…</source>
         <translation>Változások feltöltése, %1%…</translation>
     </message>
     <message>
-        <source>QFieldCloud is applying the latest pushed changes. This might take some time, please hold tight…</source>
-        <translation>A QFieldCloud érvényesíti a legutóbb feltöltött változásokat. Ez eltarthat egy ideig, kérem várjon...</translation>
+        <source>FfF Cloud is applying the latest pushed changes. This might take some time, please hold tight…</source>
+        <translation>A FfF Cloud érvényesíti a legutóbb feltöltött változásokat. Ez eltarthat egy ideig, kérem várjon...</translation>
     </message>
     <message>
         <source>Cloudify project</source>
         <translation>Felhősítsd a projektet</translation>
     </message>
     <message>
-        <source>Uploading the current project to QFieldCloud.</source>
-        <translation>Az aktuális projekt feltöltése a QFieldCloud-ra.</translation>
+        <source>Uploading the current project to FfF Cloud.</source>
+        <translation>Az aktuális projekt feltöltése a FfF Cloud-ra.</translation>
     </message>
     <message>
-        <source>The current project is not stored on QFieldCloud. Storing projects on QFieldCloud offers seamless synchronization, offline editing, and team management.</source>
-        <translation>Az aktuális projekt nincs meg a QFieldCloud-ban. A QFieldCloud-ban tárolás zökkenőmentes szinkronizációt, offline szerkesztést és csapatkezelést tesz lehetővé.</translation>
+        <source>The current project is not stored on FfF Cloud. Storing projects on FfF Cloud offers seamless synchronization, offline editing, and team management.</source>
+        <translation>Az aktuális projekt nincs meg a FfF Cloud-ban. A FfF Cloud-ban tárolás zökkenőmentes szinkronizációt, offline szerkesztést és csapatkezelést tesz lehetővé.</translation>
     </message>
     <message>
         <source>Learn more about QFieldCloud</source>
@@ -4624,7 +4624,7 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation>Szinkronizáld a projektet</translation>
     </message>
     <message>
-        <source>Uploads your edits, then downloads the latest project from QFieldCloud so everything is up to date.</source>
+        <source>Uploads your edits, then downloads the latest project from FfF Cloud so everything is up to date.</source>
         <translation>A változások feltöltése, majd a projekt utolsó változatának letöltése után minden adat aktuális.</translation>
     </message>
     <message>
@@ -4804,8 +4804,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation>Rendszerüzenet:</translation>
     </message>
     <message>
-        <source> (see more in the QField error log)…</source>
-        <translation>(többet láthat a QField hiba naplóban)...</translation>
+        <source> (see more in the FfF error log)…</source>
+        <translation>(többet láthat a FfF hiba naplóban)...</translation>
     </message>
     <message>
         <source>Job creation finished, but the server response is missing required fields: id(string)</source>
@@ -4880,8 +4880,8 @@ name(string), owner(string), description(string), user_role(string), is_public(b
         <translation>Helyi változások feltöltése</translation>
     </message>
     <message>
-        <source>QFieldCloud is packaging project, hold tight</source>
-        <translation>A QFieldCloud projektet csomagol, szoríts</translation>
+        <source>FfF Cloud is packaging project, hold tight</source>
+        <translation>A FfF Cloud projektet csomagol, szoríts</translation>
     </message>
     <message>
         <source>Downloading project</source>
@@ -4973,7 +4973,7 @@ name(string), owner(string), description(string), user_role(string), is_public(b
 <context>
     <name>QfCloudScreen</name>
     <message>
-        <source>QFieldCloud Projects</source>
+        <source>FfF Cloud Projects</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -4997,8 +4997,8 @@ name(string), owner(string), description(string), user_role(string), is_public(b
         <translation>Projektek keresése</translation>
     </message>
     <message>
-        <source>QFieldCloud is packaging the latest data just for you; this might take some time, please hold tight</source>
-        <translation>A QFieldCloud az Ön számára csomagolja a legfrissebb adatokat; ez eltarthat egy ideig, kérjük legyen türelmes</translation>
+        <source>FfF Cloud is packaging the latest data just for you; this might take some time, please hold tight</source>
+        <translation>A FfF Cloud az Ön számára csomagolja a legfrissebb adatokat; ez eltarthat egy ideig, kérjük legyen türelmes</translation>
     </message>
     <message>
         <source>Downloading, %1% of %2 fetched</source>
@@ -5009,8 +5009,8 @@ name(string), owner(string), description(string), user_role(string), is_public(b
         <translation>Letöltési folyamat: %1% letöltve</translation>
     </message>
     <message>
-        <source>Reaching out to QFieldCloud to download project</source>
-        <translation>A projekt letöltését kezdeményezze a QFieldCloud-ról</translation>
+        <source>Reaching out to FfF Cloud to download project</source>
+        <translation>A projekt letöltését kezdeményezze a FfF Cloud-ról</translation>
     </message>
     <message>
         <source>Uploading…</source>
@@ -5105,7 +5105,7 @@ name(string), owner(string), description(string), user_role(string), is_public(b
         <translation>Valóban törölni kívánod `%1`-t?</translation>
     </message>
     <message>
-        <source>QFieldCloud project details fetching failed</source>
+        <source>FfF Cloud project details fetching failed</source>
         <translation>Felhőprojekt részleteinek lekérése sikertelen</translation>
     </message>
     <message>
@@ -5137,8 +5137,8 @@ name(string), owner(string), description(string), user_role(string), is_public(b
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud</source>
-        <translation>QFieldCloud</translation>
+        <source>FfF Cloud</source>
+        <translation>FfF Cloud</translation>
     </message>
     <message>
         <source>Search for templates</source>
@@ -5196,20 +5196,20 @@ name(string), owner(string), description(string), user_role(string), is_public(b
 <context>
     <name>QfCloudStatus</name>
     <message>
-        <source>QFieldCloud server is not reachable</source>
-        <translation>QFieldCloud szerver nem hívható</translation>
+        <source>FfF Cloud server is not reachable</source>
+        <translation>FfF Cloud szerver nem hívható</translation>
     </message>
     <message>
         <source>The server at %1 could not be reached. Please check your internet connection.</source>
         <translation>A %1 szerver nem hívható. Kérlek ellenőrizd az internet kapcsolatot.</translation>
     </message>
     <message>
-        <source>QFieldCloud is under maintenance</source>
-        <translation>A QFieldCloud karbantartás alatt</translation>
+        <source>FfF Cloud is under maintenance</source>
+        <translation>A FfF Cloud karbantartás alatt</translation>
     </message>
     <message>
-        <source>QFieldCloud service is degraded</source>
-        <translation>A QFieldCloud szolgáltatás rontott</translation>
+        <source>FfF Cloud service is degraded</source>
+        <translation>A FfF Cloud szolgáltatás rontott</translation>
     </message>
     <message>
         <source>There is an ongoing incident</source>
@@ -5518,8 +5518,8 @@ name(string), owner(string), description(string), user_role(string), is_public(b
         <translation>Nem tudom kezelni ezt a fájl típust</translation>
     </message>
     <message>
-        <source>QFieldCloud on-demand attachment error: </source>
-        <translation>QFieldCloud igény szerinti melléklet hiba:</translation>
+        <source>FfF Cloud on-demand attachment error: </source>
+        <translation>FfF Cloud igény szerinti melléklet hiba:</translation>
     </message>
     <message>
         <source>Take a photo</source>
@@ -6460,8 +6460,8 @@ Az elem geometriákat összevonjuk a &apos;%1&apos; elembe, mely megőrzi az att
         <translation>Küldés...</translation>
     </message>
     <message>
-        <source>Push to QFieldCloud</source>
-        <translation>Feltöltés a QFieldCloud-ra</translation>
+        <source>Push to FfF Cloud</source>
+        <translation>Feltöltés a FfF Cloud-ra</translation>
     </message>
     <message>
         <source>Export to folder...</source>
@@ -6552,12 +6552,12 @@ Az elem geometriákat összevonjuk a &apos;%1&apos; elembe, mely megőrzi az att
         <translation>Fájl(ok) feltöltése WebDAV-ra</translation>
     </message>
     <message>
-        <source>Push file(s) to QFieldCloud</source>
-        <translation>Fájl(ok) elküldése a QFieldCloudba</translation>
+        <source>Push file(s) to FfF Cloud</source>
+        <translation>Fájl(ok) elküldése a FfF Cloudba</translation>
     </message>
     <message>
-        <source>Please select one or more files to push to QFieldCloud.</source>
-        <translation>Válassz ki egy, vagy több fájlt a QFieldCloud-ba töltésre.</translation>
+        <source>Please select one or more files to push to FfF Cloud.</source>
+        <translation>Válassz ki egy, vagy több fájlt a FfF Cloud-ba töltésre.</translation>
     </message>
     <message>
         <source>Send compressed file(s) to...</source>
@@ -6568,12 +6568,12 @@ Az elem geometriákat összevonjuk a &apos;%1&apos; elembe, mely megőrzi az att
         <translation>Fájl(ok) törlése</translation>
     </message>
     <message>
-        <source>‘%1’ is being uploaded to QFieldCloud</source>
-        <translation>‘%1’ a QFieldCloud-ra való feltöltés alatt</translation>
+        <source>‘%1’ is being uploaded to FfF Cloud</source>
+        <translation>‘%1’ a FfF Cloud-ra való feltöltés alatt</translation>
     </message>
     <message>
-        <source>Items being uploaded to QFieldCloud</source>
-        <translation>A QFieldCloud-ra feltöltendő elemek</translation>
+        <source>Items being uploaded to FfF Cloud</source>
+        <translation>A FfF Cloud-ra feltöltendő elemek</translation>
     </message>
     <message>
         <source>Remove File(s)</source>
@@ -6695,8 +6695,8 @@ Az elem geometriákat összevonjuk a &apos;%1&apos; elembe, mely megőrzi az att
         <translation>Kezdőoldal</translation>
     </message>
     <message>
-        <source>QField files directory</source>
-        <translation>QField fájlok könyvtár</translation>
+        <source>FfF files directory</source>
+        <translation>FfF fájlok könyvtár</translation>
     </message>
     <message>
         <source>Created projects</source>
@@ -7642,8 +7642,8 @@ Az elem geometriákat összevonjuk a &apos;%1&apos; elembe, mely megőrzi az att
         <translation>Mentés és együttműködés?</translation>
     </message>
     <message>
-        <source>QFieldCloud allows to synchronize and merge the data collected by your team in %1. From small individual projects to large data collection campaigns. </source>
-        <translation>A QFieldCloud biztosítja a %1 során a csapatoddal gyűjtött adatok szinkronizálását és egyesítését. Kis egyedi projektektől nagy adatgyűjtési kampányokig. </translation>
+        <source>FfF Cloud allows to synchronize and merge the data collected by your team in %1. From small individual projects to large data collection campaigns. </source>
+        <translation>A FfF Cloud biztosítja a %1 során a csapatoddal gyűjtött adatok szinkronizálását és egyesítését. Kis egyedi projektektől nagy adatgyűjtési kampányokig. </translation>
     </message>
     <message>
         <source>Learn more about QFieldCloud here</source>
@@ -8436,9 +8436,9 @@ Az elem geometriákat összevonjuk a &apos;%1&apos; elembe, mely megőrzi az att
         <translation>Inkább nem</translation>
     </message>
     <message>
-        <source>QFieldCloud
+        <source>FfF Cloud
 projects</source>
-        <translation>QFieldCloud
+        <translation>FfF Cloud
 projektek</translation>
     </message>
     <message>
@@ -8553,7 +8553,7 @@ készítése</translation>
         <translation>A projekt nem olvasható, a &quot;%1&quot; file nem létezik</translation>
     </message>
     <message>
-        <source>Map printed on %1 using QField</source>
+        <source>Map printed on %1 using FfF</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -9110,12 +9110,12 @@ to show actions</source>
         <translation>%1 projektet sikeresen letöltöttem, most megnyitható</translation>
     </message>
     <message>
-        <source>Changes failed to reach QFieldCloud: %1</source>
-        <translation>A módosítások nem jutottak el a QFieldCloud-ba: %1</translation>
+        <source>Changes failed to reach FfF Cloud: %1</source>
+        <translation>A módosítások nem jutottak el a FfF Cloud-ba: %1</translation>
     </message>
     <message>
-        <source>Changes successfully pushed to QFieldCloud</source>
-        <translation>A módosítások sikeresen átküldve a QFieldCloud-ba</translation>
+        <source>Changes successfully pushed to FfF Cloud</source>
+        <translation>A módosítások sikeresen átküldve a FfF Cloud-ba</translation>
     </message>
     <message>
         <source>Unlock the screen to close project and app</source>
@@ -9218,11 +9218,11 @@ to show actions</source>
         <translation>Exportáld a térképnézetet PDF-be a projekt nyomtatási és atlasz beállításai szerint.</translation>
     </message>
     <message>
-        <source>QFieldCloud</source>
-        <translation>QFieldCloud</translation>
+        <source>FfF Cloud</source>
+        <translation>FfF Cloud</translation>
     </message>
     <message>
-        <source>Upload local changes, synchronize or discard changes to and from QFieldCloud when a cloud project is opened.</source>
+        <source>Upload local changes, synchronize or discard changes to and from FfF Cloud when a cloud project is opened.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -9230,7 +9230,7 @@ to show actions</source>
         <translation>Projekt könyvtár</translation>
     </message>
     <message>
-        <source>Open the project folder to access project files, data sources, and related documents. Useful for managing project resources, manually uploading data to QFieldCloud, and sharing datasets, attachments, and layouts.</source>
+        <source>Open the project folder to access project files, data sources, and related documents. Useful for managing project resources, manually uploading data to FfF Cloud, and sharing datasets, attachments, and layouts.</source>
         <translation>Nyisd meg a projekt könyvtárat a fájlokhoz, adatforrásokhoz és kapcsolt dokumentumokhoz való hozzáférésért. Hasznos a projekt források kezelésében, a manuális adatfeltöltésben, megosztásban, csatolásban.</translation>
     </message>
     <message>
@@ -9246,11 +9246,11 @@ to show actions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>This project has pending changes which have not been uploaded yet. Tap the blue cloud button to open the cloud project panel and send them to QFieldCloud.</source>
+        <source>This project has pending changes which have not been uploaded yet. Tap the blue cloud button to open the cloud project panel and send them to FfF Cloud.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>This cloud project has pending changes which have not been uploaded yet. Open the dashboard using this button, then tap the blue cloud icon to send them to QFieldCloud.</source>
+        <source>This cloud project has pending changes which have not been uploaded yet. Open the dashboard using this button, then tap the blue cloud icon to send them to FfF Cloud.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -9529,8 +9529,8 @@ to show actions</source>
 <context>
     <name>SystemLoader</name>
     <message>
-        <source>Preparing QField, this is a one time operation that might take some time</source>
-        <translation type="vanished">QField előkészítése, ezt egy egyszeri művelet, mely több időbe telhet</translation>
+        <source>Preparing FfF, this is a one time operation that might take some time</source>
+        <translation type="vanished">FfF előkészítése, ezt egy egyszeri művelet, mely több időbe telhet</translation>
     </message>
 </context>
 <context>
@@ -9946,7 +9946,7 @@ to show actions</source>
         <translation type="vanished">elérni</translation>
     </message>
     <message>
-        <source>Hey there, how do you like your experience with QField so far?</source>
+        <source>Hey there, how do you like your experience with FfF so far?</source>
         <translation type="vanished">Üdvözöllek, hogy tetszettek a QFielddel kapcsolatos eddigi tapasztalataid?</translation>
     </message>
     <message>
@@ -9962,8 +9962,8 @@ to show actions</source>
         <translation type="vanished">Az anonimizált mutatók gyűjtése le van tiltva. A beállítások panelen keresztül újra engedélyezheti.</translation>
     </message>
     <message>
-        <source>To improve stability for everyone, QField collects and sends anonymized metrics.</source>
-        <translation type="vanished">A stabilitás növelése érdekében a QField névtelen mérőszámokat gyűjt és küld.</translation>
+        <source>To improve stability for everyone, FfF collects and sends anonymized metrics.</source>
+        <translation type="vanished">A stabilitás növelése érdekében a FfF névtelen mérőszámokat gyűjt és küld.</translation>
     </message>
     <message>
         <source>I agree</source>
@@ -9974,8 +9974,8 @@ to show actions</source>
         <translation type="vanished">Inkább nem</translation>
     </message>
     <message>
-        <source>QFieldCloud projects</source>
-        <translation type="vanished">QFieldCloud projektek</translation>
+        <source>FfF Cloud projects</source>
+        <translation type="vanished">FfF Cloud projektek</translation>
     </message>
     <message>
         <source>Open local file</source>
@@ -10002,12 +10002,12 @@ to show actions</source>
         <translation type="vanished">Eltávolítás a legutóbbi projektekből</translation>
     </message>
     <message>
-        <source>Welcome to QField. First time using this application? Try out sample projects listed in the list below.</source>
-        <translation type="vanished">Üdvözöl a QField. Először használod ezt az alkalmazást? Próbáld ki az alábbi listában szereplő mintaprojekteket.</translation>
+        <source>Welcome to FfF. First time using this application? Try out sample projects listed in the list below.</source>
+        <translation type="vanished">Üdvözöl a FfF. Először használod ezt az alkalmazást? Próbáld ki az alábbi listában szereplő mintaprojekteket.</translation>
     </message>
     <message>
-        <source>Welcome back to QField.</source>
-        <translation type="vanished">Üdvözöllek újra a QField-ben.</translation>
+        <source>Welcome back to FfF.</source>
+        <translation type="vanished">Üdvözöllek újra a FfF-ben.</translation>
     </message>
 </context>
 <context>
@@ -10024,8 +10024,8 @@ to show actions</source>
 <context>
     <name>gallery_relation_editor</name>
     <message>
-        <source>QFieldCloud on-demand attachment error: </source>
-        <translation>QFieldCloud igény szerinti melléklet hiba:</translation>
+        <source>FfF Cloud on-demand attachment error: </source>
+        <translation>FfF Cloud igény szerinti melléklet hiba:</translation>
     </message>
     <message>
         <source>The external storage&apos;s authentication configuration ID is missing, please insure it is imported into %1</source>
@@ -10222,8 +10222,8 @@ to show actions</source>
         <translation type="vanished">Üzenet napló</translation>
     </message>
     <message>
-        <source>About QField</source>
-        <translation type="vanished">QField névjegy</translation>
+        <source>About FfF</source>
+        <translation type="vanished">FfF névjegy</translation>
     </message>
     <message>
         <source>Select template below</source>
@@ -10234,7 +10234,7 @@ to show actions</source>
         <translation type="vanished">A pozíciós szolgáltatás aktiválása</translation>
     </message>
     <message>
-        <source>QField has no permissions to use positioning.</source>
+        <source>FfF has no permissions to use positioning.</source>
         <translation type="vanished">A QFieldnek nincs joga a pozicionálás használatára.</translation>
     </message>
     <message>
@@ -10430,12 +10430,12 @@ to show actions</source>
         <translation type="vanished">%1 projektet sikeresen letöltöttem, most megnyitható</translation>
     </message>
     <message>
-        <source>Changes failed to reach QFieldCloud: %1</source>
-        <translation type="vanished">A módosítások nem jutottak el a QFieldCloud-ba: %1</translation>
+        <source>Changes failed to reach FfF Cloud: %1</source>
+        <translation type="vanished">A módosítások nem jutottak el a FfF Cloud-ba: %1</translation>
     </message>
     <message>
-        <source>Changes successfully pushed to QFieldCloud</source>
-        <translation type="vanished">A módosítások sikeresen átküldve a QFieldCloud-ba</translation>
+        <source>Changes successfully pushed to FfF Cloud</source>
+        <translation type="vanished">A módosítások sikeresen átküldve a FfF Cloud-ba</translation>
     </message>
     <message>
         <source>Press back again to close project and app</source>
@@ -10490,7 +10490,7 @@ to show actions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud</source>
+        <source>FfF Cloud</source>
         <translation type="unfinished"/>
     </message>
 </context>

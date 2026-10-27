@@ -1136,8 +1136,8 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
 <context>
     <name>LocalFilesModel</name>
     <message>
-        <source>QField files directory</source>
-        <translation type="vanished">ລາຍຊື່ໄຟລ໌ QField</translation>
+        <source>FfF files directory</source>
+        <translation type="vanished">ລາຍຊື່ໄຟລ໌ FfF</translation>
     </message>
     <message>
         <source>Imported projects</source>
@@ -1896,42 +1896,42 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">ສຶກສາເພີ່ມເຕີມກ່ຽວກັບ QFieldCloud</translation>
     </message>
     <message>
-        <source>QFieldCloud</source>
+        <source>FfF Cloud</source>
         <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>QFieldCloudPackageLayersFeedback</name>
     <message>
-        <source>Problematic QFieldCloud layer packaging</source>
-        <translation type="vanished">ມີບັນຫາການຫຸ້ມຫໍ່ຊັ້ນ QFieldCloud</translation>
+        <source>Problematic FfF Cloud layer packaging</source>
+        <translation type="vanished">ມີບັນຫາການຫຸ້ມຫໍ່ຊັ້ນ FfF Cloud</translation>
     </message>
     <message>
-        <source>Some layers have not been packaged correctly on QFieldCloud. These layers might be misconfigured or their data source is not accessible from the QFieldCloud server.</source>
-        <translation type="vanished">ບາງຊັ້ນຂໍ້ມູນບໍ່ໄດ້ຖືກຫຸ້ມຫໍ່ຢ່າງຖືກຕ້ອງຢູ່ໃນ QFieldCloud. ຊັ້ນຂໍ້ມູນເຫຼົ່ານີ້ອາດຈະຖືກຕັ້ງຄ່າຜິດ ຫຼືແຫຼ່ງຂໍ້ມູນຂອງພວກມັນບໍ່ສາມາດເຂົ້າເຖິງໄດ້ຈາກເຊີບເວີ QFieldCloud.</translation>
+        <source>Some layers have not been packaged correctly on FfF Cloud. These layers might be misconfigured or their data source is not accessible from the FfF Cloud server.</source>
+        <translation type="vanished">ບາງຊັ້ນຂໍ້ມູນບໍ່ໄດ້ຖືກຫຸ້ມຫໍ່ຢ່າງຖືກຕ້ອງຢູ່ໃນ FfF Cloud. ຊັ້ນຂໍ້ມູນເຫຼົ່ານີ້ອາດຈະຖືກຕັ້ງຄ່າຜິດ ຫຼືແຫຼ່ງຂໍ້ມູນຂອງພວກມັນບໍ່ສາມາດເຂົ້າເຖິງໄດ້ຈາກເຊີບເວີ FfF Cloud.</translation>
     </message>
     <message>
-        <source>QFieldCloud had troubles packaging your project</source>
-        <translation type="vanished">QFieldCloud ມີບັນຫາໃນການຫຸ້ມຫໍ່ໂຄງການຂອງທ່ານ</translation>
+        <source>FfF Cloud had troubles packaging your project</source>
+        <translation type="vanished">FfF Cloud ມີບັນຫາໃນການຫຸ້ມຫໍ່ໂຄງການຂອງທ່ານ</translation>
     </message>
     <message>
-        <source>Some layers have not been packaged correctly on QFieldCloud. These layers might be misconfigured or their data source is not accessible from the QFieldCloud server. Please check the logs of the latest packaging job on the qfield.cloud website.</source>
-        <translation type="vanished">ບາງຊັ້ນຂໍ້ມູນບໍ່ໄດ້ຖືກຫຸ້ມຫໍ່ຢ່າງຖືກຕ້ອງຢູ່ໃນ QFieldCloud. ຊັ້ນຂໍ້ມູນເຫຼົ່ານີ້ອາດຈະຖືກຕັ້ງຄ່າຜິດ ຫຼືແຫຼ່ງຂໍ້ມູນຂອງພວກມັນບໍ່ສາມາດເຂົ້າເຖິງໄດ້ຈາກເຊີບເວີ QFieldCloud. ກະລຸນາກວດເບິ່ງບັນທຶກຂອງວຽກການຫຸ້ມຫໍ່ຫຼ້າສຸດຢູ່ໃນເວັບໄຊທ໌ qfield.cloud.</translation>
+        <source>Some layers have not been packaged correctly on FfF Cloud. These layers might be misconfigured or their data source is not accessible from the FfF Cloud server. Please check the logs of the latest packaging job on the qfield.cloud website.</source>
+        <translation type="vanished">ບາງຊັ້ນຂໍ້ມູນບໍ່ໄດ້ຖືກຫຸ້ມຫໍ່ຢ່າງຖືກຕ້ອງຢູ່ໃນ FfF Cloud. ຊັ້ນຂໍ້ມູນເຫຼົ່ານີ້ອາດຈະຖືກຕັ້ງຄ່າຜິດ ຫຼືແຫຼ່ງຂໍ້ມູນຂອງພວກມັນບໍ່ສາມາດເຂົ້າເຖິງໄດ້ຈາກເຊີບເວີ FfF Cloud. ກະລຸນາກວດເບິ່ງບັນທຶກຂອງວຽກການຫຸ້ມຫໍ່ຫຼ້າສຸດຢູ່ໃນເວັບໄຊທ໌ qfield.cloud.</translation>
     </message>
 </context>
 <context>
     <name>QFieldCloudPopup</name>
     <message>
-        <source>QFieldCloud</source>
-        <translation type="vanished">QFieldCloud</translation>
+        <source>FfF Cloud</source>
+        <translation type="vanished">FfF Cloud</translation>
     </message>
     <message>
-        <source>The current project is not stored on QFieldCloud.&lt;br&gt;&lt;br&gt;</source>
-        <translation type="vanished">ໂຄງການປະຈຸບັນບໍ່ໄດ້ເກັບຮັກສາໄວ້ໃນ QFieldCloud.</translation>
+        <source>The current project is not stored on FfF Cloud.&lt;br&gt;&lt;br&gt;</source>
+        <translation type="vanished">ໂຄງການປະຈຸບັນບໍ່ໄດ້ເກັບຮັກສາໄວ້ໃນ FfF Cloud.</translation>
     </message>
     <message>
-        <source>Storing projects on QFieldCloud offers seamless synchornization, offline editing, and team management.&lt;br&gt;&lt;br&gt;</source>
-        <translation type="vanished">ການເກັບຮັກສາໂຄງການຢູ່ໃນ QFieldCloud ສະຫນອງການ synchornizing seamless, ການແກ້ໄຂອອຟໄລ, ແລະການຄຸ້ມຄອງທີມງານ.</translation>
+        <source>Storing projects on FfF Cloud offers seamless synchornization, offline editing, and team management.&lt;br&gt;&lt;br&gt;</source>
+        <translation type="vanished">ການເກັບຮັກສາໂຄງການຢູ່ໃນ FfF Cloud ສະຫນອງການ synchornizing seamless, ການແກ້ໄຂອອຟໄລ, ແລະການຄຸ້ມຄອງທີມງານ.</translation>
     </message>
     <message>
         <source>Learn more about QFieldCloud</source>
@@ -1950,24 +1950,24 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">ທັກທາຍ %1.</translation>
     </message>
     <message>
-        <source>This QFieldCloud project was first downloaded with another cloud account. Please sign in with the original account for this project to use the QFieldCloud functionality.</source>
-        <translation type="vanished">ໂຄງການ QFieldCloud ນີ້ຖືກດາວໂຫຼດຄັ້ງທຳອິດດ້ວຍບັນຊີຄລາວອື່ນ. ກະລຸນາເຂົ້າສູ່ລະບົບດ້ວຍບັນຊີຕົ້ນສະບັບສໍາລັບໂຄງການນີ້ເພື່ອໃຊ້ຟັງຊັນ QFieldCloud.</translation>
+        <source>This FfF Cloud project was first downloaded with another cloud account. Please sign in with the original account for this project to use the FfF Cloud functionality.</source>
+        <translation type="vanished">ໂຄງການ FfF Cloud ນີ້ຖືກດາວໂຫຼດຄັ້ງທຳອິດດ້ວຍບັນຊີຄລາວອື່ນ. ກະລຸນາເຂົ້າສູ່ລະບົບດ້ວຍບັນຊີຕົ້ນສະບັບສໍາລັບໂຄງການນີ້ເພື່ອໃຊ້ຟັງຊັນ FfF Cloud.</translation>
     </message>
     <message>
         <source>Downloading %1%…</source>
         <translation type="vanished">ກຳລັງດາວໂຫຼດ %1%…</translation>
     </message>
     <message>
-        <source>QFieldCloud is preparing the latest data just for you. This might take some time, please hold tight…</source>
-        <translation type="vanished">QFieldCloud ກໍາລັງກະກຽມຂໍ້ມູນຫຼ້າສຸດສໍາລັບທ່ານ. ອັນນີ້ອາດຈະໃຊ້ເວລາຄາວໜຶ່ງ, ກະລຸນາລໍຖ້າ...</translation>
+        <source>FfF Cloud is preparing the latest data just for you. This might take some time, please hold tight…</source>
+        <translation type="vanished">FfF Cloud ກໍາລັງກະກຽມຂໍ້ມູນຫຼ້າສຸດສໍາລັບທ່ານ. ອັນນີ້ອາດຈະໃຊ້ເວລາຄາວໜຶ່ງ, ກະລຸນາລໍຖ້າ...</translation>
     </message>
     <message>
         <source>Uploading %1%…</source>
         <translation type="vanished">ກຳລັງອັບໂຫລດ %1%…</translation>
     </message>
     <message>
-        <source>QFieldCloud is applying the latest uploaded changes. This might take some time, please hold tight…</source>
-        <translation type="vanished">QFieldCloud ກຳລັງນຳໃຊ້ການປ່ຽນແປງທີ່ອັບໂຫຼດຫຼ້າສຸດ. ອັນນີ້ອາດຈະໃຊ້ເວລາຄາວໜຶ່ງ, ກະລຸນາລໍຖ້າ...</translation>
+        <source>FfF Cloud is applying the latest uploaded changes. This might take some time, please hold tight…</source>
+        <translation type="vanished">FfF Cloud ກຳລັງນຳໃຊ້ການປ່ຽນແປງທີ່ອັບໂຫຼດຫຼ້າສຸດ. ອັນນີ້ອາດຈະໃຊ້ເວລາຄາວໜຶ່ງ, ກະລຸນາລໍຖ້າ...</translation>
     </message>
     <message>
         <source>A server error has occured, please try again.</source>
@@ -1994,8 +1994,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">ຊິ້ງຂໍ້ມູນ</translation>
     </message>
     <message>
-        <source>Synchronize the whole project with all modified features and download the freshly updated project with all the applied changes from QFieldCloud.</source>
-        <translation type="vanished">Sync ​ໂຄງ​ການທັງ​ຫມົດ​ທີ່​ມີ​ລັກ​ສະ​ນະ​ການ​ປ່ຽນ​ແປງ​ ​ແລະ​ ດາວ​ໂຫລດ​ໂຄງ​ການ​​ທີ່​ມີ​ການ​ປ່ຽນ​ແປງ​ທັງ​ຫມົດ​ຈາກ QFieldCloud​.</translation>
+        <source>Synchronize the whole project with all modified features and download the freshly updated project with all the applied changes from FfF Cloud.</source>
+        <translation type="vanished">Sync ​ໂຄງ​ການທັງ​ຫມົດ​ທີ່​ມີ​ລັກ​ສະ​ນະ​ການ​ປ່ຽນ​ແປງ​ ​ແລະ​ ດາວ​ໂຫລດ​ໂຄງ​ການ​​ທີ່​ມີ​ການ​ປ່ຽນ​ແປງ​ທັງ​ຫມົດ​ຈາກ FfF Cloud​.</translation>
     </message>
     <message>
         <source>Push changes</source>
@@ -2152,7 +2152,7 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="unfinished"/>
     </message>
     <message>
-        <source> (see more in the QField error log)…</source>
+        <source> (see more in the FfF error log)…</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2314,8 +2314,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">ຂໍ້ຄວາມລະບົບ:</translation>
     </message>
     <message>
-        <source> (see more in the QField error log)…</source>
-        <translation type="vanished">(ເບິ່ງເພີ່ມເຕີມໃນບັນທຶກຄວາມຜິດພາດ QField)…</translation>
+        <source> (see more in the FfF error log)…</source>
+        <translation type="vanished">(ເບິ່ງເພີ່ມເຕີມໃນບັນທຶກຄວາມຜິດພາດ FfF)…</translation>
     </message>
     <message>
         <source>Failed to copy some of the downloaded files on your device. Check your device storage.</source>
@@ -2325,8 +2325,8 @@ While you can still view and use the project, it is strongly recommended to rese
 <context>
     <name>QFieldCloudScreen</name>
     <message>
-        <source>QFieldCloud Projects</source>
-        <translation type="vanished">ໂຄງການ QFieldCloud</translation>
+        <source>FfF Cloud Projects</source>
+        <translation type="vanished">ໂຄງການ FfF Cloud</translation>
     </message>
     <message>
         <source>Disconnected from the cloud.</source>
@@ -2357,8 +2357,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">ກຳລັງດາວໂຫຼດ, %1% ດຶງມາ...</translation>
     </message>
     <message>
-        <source>QFieldCloud is preparing the latest data just for you. This might take some time, please hold tight…</source>
-        <translation type="vanished">QFieldCloud ກໍາລັງກະກຽມຂໍ້ມູນຫຼ້າສຸດສໍາລັບທ່ານ. ອັນນີ້ອາດຈະໃຊ້ເວລາຄາວໜຶ່ງ, ກະລຸນາລໍຖ້າ...</translation>
+        <source>FfF Cloud is preparing the latest data just for you. This might take some time, please hold tight…</source>
+        <translation type="vanished">FfF Cloud ກໍາລັງກະກຽມຂໍ້ມູນຫຼ້າສຸດສໍາລັບທ່ານ. ອັນນີ້ອາດຈະໃຊ້ເວລາຄາວໜຶ່ງ, ກະລຸນາລໍຖ້າ...</translation>
     </message>
     <message>
         <source>Uploading…</source>
@@ -2600,8 +2600,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">ໃຊ້ກ້ອງຖ່າຍຮູບເດີມ</translation>
     </message>
     <message>
-        <source>If disabled, QField will use a minimalist internal camera instead of the camera app on the device.&lt;br&gt;Tip: Enable this option and install the open camera app to create geo tagged photos.</source>
-        <translation type="vanished">ຖ້າປິດການໃຊ້ງານ, QField ຈະໃຊ້ກ້ອງຖ່າຍຮູບພາຍໃນແທນທີ່ຈະເປັນແອັບຯກ້ອງຖ່າຍຮູບໃນອຸປະກອນ. ໝາຍເຫດ: ເປີດໃຊ້ຕົວເລືອກນີ້ ແລະຕິດຕັ້ງແອັບຯກ້ອງຖ່າຍຮູບເພື່ອສ້າງຮູບພາບທີ່ຖືກແທັກທາງພູມສາດ.</translation>
+        <source>If disabled, FfF will use a minimalist internal camera instead of the camera app on the device.&lt;br&gt;Tip: Enable this option and install the open camera app to create geo tagged photos.</source>
+        <translation type="vanished">ຖ້າປິດການໃຊ້ງານ, FfF ຈະໃຊ້ກ້ອງຖ່າຍຮູບພາຍໃນແທນທີ່ຈະເປັນແອັບຯກ້ອງຖ່າຍຮູບໃນອຸປະກອນ. ໝາຍເຫດ: ເປີດໃຊ້ຕົວເລືອກນີ້ ແລະຕິດຕັ້ງແອັບຯກ້ອງຖ່າຍຮູບເພື່ອສ້າງຮູບພາບທີ່ຖືກແທັກທາງພູມສາດ.</translation>
     </message>
     <message>
         <source>Fast editing mode</source>
@@ -2632,8 +2632,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">ສົ່ງເມຕຣິກທີ່ບໍ່ເປີດເຜີຍຊື່</translation>
     </message>
     <message>
-        <source>If enabled, anonymized metrics will be collected and sent to help improve QField for everyone.</source>
-        <translation type="vanished">ຖ້າເປີດໃຊ້ງານ, ເມຕຣິກທີ່ບໍ່ເປີດເຜີຍຊື່ຈະຖືກລວບລວມ ແລະ ສົ່ງເພື່ອຊ່ວຍປັບປຸງ QField ສໍາລັບທຸກຄົນ.</translation>
+        <source>If enabled, anonymized metrics will be collected and sent to help improve FfF for everyone.</source>
+        <translation type="vanished">ຖ້າເປີດໃຊ້ງານ, ເມຕຣິກທີ່ບໍ່ເປີດເຜີຍຊື່ຈະຖືກລວບລວມ ແລະ ສົ່ງເພື່ອຊ່ວຍປັບປຸງ FfF ສໍາລັບທຸກຄົນ.</translation>
     </message>
     <message>
         <source>General</source>
@@ -2656,8 +2656,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="vanished">ພາສາສື່ສານຜູ້ໃຊ້:</translation>
     </message>
     <message>
-        <source>To apply the selected user interface language, QField needs to completely shutdown and restart.</source>
-        <translation type="vanished">ເພື່ອນຳໃຊ້ພາສາສື່ສານຜູ້ໃຊ້ທີ່ເລືອກ, QField ຕ້ອງການປິດເຄື່ອງທັງໝົດ ແລະ ຣີສະຕາດ.</translation>
+        <source>To apply the selected user interface language, FfF needs to completely shutdown and restart.</source>
+        <translation type="vanished">ເພື່ອນຳໃຊ້ພາສາສື່ສານຜູ້ໃຊ້ທີ່ເລືອກ, FfF ຕ້ອງການປິດເຄື່ອງທັງໝົດ ແລະ ຣີສະຕາດ.</translation>
     </message>
     <message>
         <source>system</source>
@@ -2793,8 +2793,8 @@ Cancel to make a minimal device scan instead.</source>
         <translation type="vanished">ການປ່ຽນຕາໜ່າງແນວຕັ້ງແມ່ນໃຊ້ເພື່ອເພີ່ມຄວາມຖືກຕ້ອງຂອງລະດັບຄວາມສູງ.</translation>
     </message>
     <message>
-        <source>QField Settings</source>
-        <translation type="vanished">ການຕັ້ງຄ່າ QField</translation>
+        <source>FfF Settings</source>
+        <translation type="vanished">ການຕັ້ງຄ່າ FfF</translation>
     </message>
     <message>
         <source>Time of inactivity in seconds before the screen brightness get be dimmed to preserve battery.</source>
@@ -2876,8 +2876,8 @@ Cancel to make a minimal device scan instead.</source>
         <translation>ຕ້ອງມີການຢັ້ງຢືນ</translation>
     </message>
     <message>
-        <source>QFieldCloud Unknown Error</source>
-        <translation>QFieldCloud ຄວາມຜິດພາດທີ່ບໍ່ຮູ້</translation>
+        <source>FfF Cloud Unknown Error</source>
+        <translation>FfF Cloud ຄວາມຜິດພາດທີ່ບໍ່ຮູ້</translation>
     </message>
     <message>
         <source>Status not ok</source>
@@ -2944,8 +2944,8 @@ Cancel to make a minimal device scan instead.</source>
         <translation>ຂໍ້ມູນຜູ້ໃຊ້ຄລາວ</translation>
     </message>
     <message>
-        <source>Please wait while QField installation finalizes.</source>
-        <translation>ກະລຸນາລໍຖ້າໃນຂະນະທີ່ການຕິດຕັ້ງ QField ສິ້ນສຸດ.</translation>
+        <source>Please wait while FfF installation finalizes.</source>
+        <translation>ກະລຸນາລໍຖ້າໃນຂະນະທີ່ການຕິດຕັ້ງ FfF ສິ້ນສຸດ.</translation>
     </message>
     <message>
         <source>averaged</source>
@@ -3540,7 +3540,7 @@ Cancel to make a minimal device scan instead.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Configure a network proxy to route QField&apos;s traffic through a proxy server. Useful for corporate networks and VPNs.</source>
+        <source>Configure a network proxy to route FfF&apos;s traffic through a proxy server. Useful for corporate networks and VPNs.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -4452,11 +4452,11 @@ While you can still view and use the project, it is strongly recommended to rese
 <context>
     <name>QfCloudPackageLayersFeedback</name>
     <message>
-        <source>Some layers have not been packaged correctly. These layers might be misconfigured or their data source is not accessible from the QFieldCloud server.</source>
+        <source>Some layers have not been packaged correctly. These layers might be misconfigured or their data source is not accessible from the FfF Cloud server.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Please check the detailed feedback below and the latest packaging job logs on the QFieldCloud website.</source>
+        <source>Please check the detailed feedback below and the latest packaging job logs on the FfF Cloud website.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -4506,16 +4506,16 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud</source>
-        <translation>QFieldCloud</translation>
+        <source>FfF Cloud</source>
+        <translation>FfF Cloud</translation>
     </message>
     <message>
-        <source>This QFieldCloud project was first downloaded with another cloud account. Please sign in with the original account for this project to use the QFieldCloud functionality.</source>
-        <translation>ໂຄງການ QFieldCloud ນີ້ຖືກດາວໂຫຼດຄັ້ງທຳອິດດ້ວຍບັນຊີຄລາວອື່ນ. ກະລຸນາເຂົ້າສູ່ລະບົບດ້ວຍບັນຊີຕົ້ນສະບັບສໍາລັບໂຄງການນີ້ເພື່ອໃຊ້ຟັງຊັນ QFieldCloud.</translation>
+        <source>This FfF Cloud project was first downloaded with another cloud account. Please sign in with the original account for this project to use the FfF Cloud functionality.</source>
+        <translation>ໂຄງການ FfF Cloud ນີ້ຖືກດາວໂຫຼດຄັ້ງທຳອິດດ້ວຍບັນຊີຄລາວອື່ນ. ກະລຸນາເຂົ້າສູ່ລະບົບດ້ວຍບັນຊີຕົ້ນສະບັບສໍາລັບໂຄງການນີ້ເພື່ອໃຊ້ຟັງຊັນ FfF Cloud.</translation>
     </message>
     <message>
-        <source>QFieldCloud is packaging the latest data just for you; this might take some time, please hold tight</source>
-        <translation>QFieldCloud ກຳລັງຫຸ້ມຫໍ່ຂໍ້ມູນຫລ້າສຸດສໍາລັບທ່ານ; ອາດຈະໃຊ້ເວລາ, ກະລຸນາລໍຖ້າ</translation>
+        <source>FfF Cloud is packaging the latest data just for you; this might take some time, please hold tight</source>
+        <translation>FfF Cloud ກຳລັງຫຸ້ມຫໍ່ຂໍ້ມູນຫລ້າສຸດສໍາລັບທ່ານ; ອາດຈະໃຊ້ເວລາ, ກະລຸນາລໍຖ້າ</translation>
     </message>
     <message>
         <source>Downloading, %1% of %2 fetched</source>
@@ -4526,27 +4526,27 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation>ກຳລັງດາວໂຫຼດ, %1% ໄດ້ຖືກດຶງມາ</translation>
     </message>
     <message>
-        <source>Reaching out to QFieldCloud to download project</source>
-        <translation>ກຳລັງເຂົ້າຫາ QFieldCloud ເພື່ອດາວໂຫລດໂຄງການ</translation>
+        <source>Reaching out to FfF Cloud to download project</source>
+        <translation>ກຳລັງເຂົ້າຫາ FfF Cloud ເພື່ອດາວໂຫລດໂຄງການ</translation>
     </message>
     <message>
         <source>Pushing changes, %1%…</source>
         <translation>ກຳລັງຊຸກການປ່ຽນແປງ, %1%…</translation>
     </message>
     <message>
-        <source>QFieldCloud is applying the latest pushed changes. This might take some time, please hold tight…</source>
-        <translation>QFieldCloud ກຳລັງນຳໃຊ້ການປ່ຽນແປງຫຼ້າສຸດ. ອາດຈະໃຊ້ເວລາຄາວໜຶ່ງ, ກະລຸນາລໍຖ້າ...</translation>
+        <source>FfF Cloud is applying the latest pushed changes. This might take some time, please hold tight…</source>
+        <translation>FfF Cloud ກຳລັງນຳໃຊ້ການປ່ຽນແປງຫຼ້າສຸດ. ອາດຈະໃຊ້ເວລາຄາວໜຶ່ງ, ກະລຸນາລໍຖ້າ...</translation>
     </message>
     <message>
         <source>Cloudify project</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Uploading the current project to QFieldCloud.</source>
-        <translation>ກຳລັງອັບໂຫລດໂຄງການປັດຈຸບັນໄປໃສ່ QFieldCloud.</translation>
+        <source>Uploading the current project to FfF Cloud.</source>
+        <translation>ກຳລັງອັບໂຫລດໂຄງການປັດຈຸບັນໄປໃສ່ FfF Cloud.</translation>
     </message>
     <message>
-        <source>The current project is not stored on QFieldCloud. Storing projects on QFieldCloud offers seamless synchronization, offline editing, and team management.</source>
+        <source>The current project is not stored on FfF Cloud. Storing projects on FfF Cloud offers seamless synchronization, offline editing, and team management.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -4610,7 +4610,7 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Uploads your edits, then downloads the latest project from QFieldCloud so everything is up to date.</source>
+        <source>Uploads your edits, then downloads the latest project from FfF Cloud so everything is up to date.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -4790,8 +4790,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation>ຂໍ້ຄວາມລະບົບ:</translation>
     </message>
     <message>
-        <source> (see more in the QField error log)…</source>
-        <translation>(ເບິ່ງເພີ່ມເຕີມໃນບັນທຶກຄວາມຜິດພາດ QField)…</translation>
+        <source> (see more in the FfF error log)…</source>
+        <translation>(ເບິ່ງເພີ່ມເຕີມໃນບັນທຶກຄວາມຜິດພາດ FfF)…</translation>
     </message>
     <message>
         <source>Job creation finished, but the server response is missing required fields: id(string)</source>
@@ -4865,8 +4865,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud is packaging project, hold tight</source>
-        <translation>QFieldCloud ກໍາລັງບັນຈຸໂຄງການ, ກະລຸນາລໍຖ້າ</translation>
+        <source>FfF Cloud is packaging project, hold tight</source>
+        <translation>FfF Cloud ກໍາລັງບັນຈຸໂຄງການ, ກະລຸນາລໍຖ້າ</translation>
     </message>
     <message>
         <source>Downloading project</source>
@@ -4958,7 +4958,7 @@ While you can still view and use the project, it is strongly recommended to rese
 <context>
     <name>QfCloudScreen</name>
     <message>
-        <source>QFieldCloud Projects</source>
+        <source>FfF Cloud Projects</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -4982,8 +4982,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud is packaging the latest data just for you; this might take some time, please hold tight</source>
-        <translation>QFieldCloud ກຳລັງຫຸ້ມຫໍ່ຂໍ້ມູນຫລ້າສຸດສໍາລັບທ່ານ; ອາດຈະໃຊ້ເວລາ, ກະລຸນາລໍຖ້າ</translation>
+        <source>FfF Cloud is packaging the latest data just for you; this might take some time, please hold tight</source>
+        <translation>FfF Cloud ກຳລັງຫຸ້ມຫໍ່ຂໍ້ມູນຫລ້າສຸດສໍາລັບທ່ານ; ອາດຈະໃຊ້ເວລາ, ກະລຸນາລໍຖ້າ</translation>
     </message>
     <message>
         <source>Downloading, %1% of %2 fetched</source>
@@ -4994,8 +4994,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation>ກຳລັງດາວໂຫຼດ, %1% ໄດ້ຖືກດຶງມາ</translation>
     </message>
     <message>
-        <source>Reaching out to QFieldCloud to download project</source>
-        <translation>ກຳລັງເຂົ້າຫາ QFieldCloud ເພື່ອດາວໂຫລດໂຄງການ</translation>
+        <source>Reaching out to FfF Cloud to download project</source>
+        <translation>ກຳລັງເຂົ້າຫາ FfF Cloud ເພື່ອດາວໂຫລດໂຄງການ</translation>
     </message>
     <message>
         <source>Uploading…</source>
@@ -5090,8 +5090,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation>ທ່ານແນ່ໃຈບໍ່ວ່າຕ້ອງການເອົາ `%1` ອອກ?</translation>
     </message>
     <message>
-        <source>QFieldCloud project details fetching failed</source>
-        <translation>ການດຶງຂໍ້ມູນລາຍລະອຽດໂຄງການ QFieldCloud ບໍ່ສຳເລັດ</translation>
+        <source>FfF Cloud project details fetching failed</source>
+        <translation>ການດຶງຂໍ້ມູນລາຍລະອຽດໂຄງການ FfF Cloud ບໍ່ສຳເລັດ</translation>
     </message>
     <message>
         <source>Project cloning failed: %1</source>
@@ -5122,8 +5122,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud</source>
-        <translation>QFieldCloud</translation>
+        <source>FfF Cloud</source>
+        <translation>FfF Cloud</translation>
     </message>
     <message>
         <source>Search for templates</source>
@@ -5181,7 +5181,7 @@ While you can still view and use the project, it is strongly recommended to rese
 <context>
     <name>QfCloudStatus</name>
     <message>
-        <source>QFieldCloud server is not reachable</source>
+        <source>FfF Cloud server is not reachable</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -5189,11 +5189,11 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud is under maintenance</source>
+        <source>FfF Cloud is under maintenance</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud service is degraded</source>
+        <source>FfF Cloud service is degraded</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -5503,8 +5503,8 @@ While you can still view and use the project, it is strongly recommended to rese
         <translation>ບໍ່ສາມາດຈັດການໄຟລ໌ປະເພດນີ້ໄດ້</translation>
     </message>
     <message>
-        <source>QFieldCloud on-demand attachment error: </source>
-        <translation>ຂໍ້ຜິດພາດໃນການຕິດຄັດໄຟລ໌ແບບ On-demand ຂອງ QFieldCloud: </translation>
+        <source>FfF Cloud on-demand attachment error: </source>
+        <translation>ຂໍ້ຜິດພາດໃນການຕິດຄັດໄຟລ໌ແບບ On-demand ຂອງ FfF Cloud: </translation>
     </message>
     <message>
         <source>Take a photo</source>
@@ -6438,8 +6438,8 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
         <translation>ສົ່ງໄປ...</translation>
     </message>
     <message>
-        <source>Push to QFieldCloud</source>
-        <translation>ຍູ້ໄປທີ່ QFieldCloud</translation>
+        <source>Push to FfF Cloud</source>
+        <translation>ຍູ້ໄປທີ່ FfF Cloud</translation>
     </message>
     <message>
         <source>Export to folder...</source>
@@ -6530,12 +6530,12 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
         <translation>ອັບໂຫຼດໄຟລ໌ໃສ່ WebDAV</translation>
     </message>
     <message>
-        <source>Push file(s) to QFieldCloud</source>
-        <translation>ຍູ້ໄຟລ໌ໄປຫາ QFieldCloud</translation>
+        <source>Push file(s) to FfF Cloud</source>
+        <translation>ຍູ້ໄຟລ໌ໄປຫາ FfF Cloud</translation>
     </message>
     <message>
-        <source>Please select one or more files to push to QFieldCloud.</source>
-        <translation>ກະລຸນາເລືອກໜຶ່ງ ຫຼືຫຼາຍໄຟລ໌ເພື່ອຍູ້ໄປທີ່ QFieldCloud.</translation>
+        <source>Please select one or more files to push to FfF Cloud.</source>
+        <translation>ກະລຸນາເລືອກໜຶ່ງ ຫຼືຫຼາຍໄຟລ໌ເພື່ອຍູ້ໄປທີ່ FfF Cloud.</translation>
     </message>
     <message>
         <source>Send compressed file(s) to...</source>
@@ -6546,12 +6546,12 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
         <translation>ລົບໄຟລ໌</translation>
     </message>
     <message>
-        <source>‘%1’ is being uploaded to QFieldCloud</source>
-        <translation>&apos;%1&apos; ກຳລັງຖືກອັບໂຫລດໄປໃສ່ QFieldCloud</translation>
+        <source>‘%1’ is being uploaded to FfF Cloud</source>
+        <translation>&apos;%1&apos; ກຳລັງຖືກອັບໂຫລດໄປໃສ່ FfF Cloud</translation>
     </message>
     <message>
-        <source>Items being uploaded to QFieldCloud</source>
-        <translation>ລາຍການກຳລັງຖືກອັບໂຫຼດໃສ່ QFieldCloud</translation>
+        <source>Items being uploaded to FfF Cloud</source>
+        <translation>ລາຍການກຳລັງຖືກອັບໂຫຼດໃສ່ FfF Cloud</translation>
     </message>
     <message>
         <source>Remove File(s)</source>
@@ -6673,8 +6673,8 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
         <translation>ໜ້າຫຼັກ</translation>
     </message>
     <message>
-        <source>QField files directory</source>
-        <translation>ລາຍຊື່ໄຟລ໌ QField</translation>
+        <source>FfF files directory</source>
+        <translation>ລາຍຊື່ໄຟລ໌ FfF</translation>
     </message>
     <message>
         <source>Created projects</source>
@@ -7620,7 +7620,7 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
         <translation>ສຳຮອງ ແລະຮ່ວມມືບໍ?</translation>
     </message>
     <message>
-        <source>QFieldCloud allows to synchronize and merge the data collected by your team in %1. From small individual projects to large data collection campaigns. </source>
+        <source>FfF Cloud allows to synchronize and merge the data collected by your team in %1. From small individual projects to large data collection campaigns. </source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -8414,9 +8414,9 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
         <translation>ຂ້ອຍຂໍບໍ່</translation>
     </message>
     <message>
-        <source>QFieldCloud
+        <source>FfF Cloud
 projects</source>
-        <translation>QFieldCloudໂຄງການ</translation>
+        <translation>FfF Cloudໂຄງການ</translation>
     </message>
     <message>
         <source>Local projects and
@@ -8528,8 +8528,8 @@ project</source>
         <translation>ບໍ່ສາມາດອ່ານໂຄງການ, ໄຟລ໌ &quot;%1&quot; ບໍ່ມີ</translation>
     </message>
     <message>
-        <source>Map printed on %1 using QField</source>
-        <translation>ແຜນທີ່ພິມອອກໃນ %1 ໂດຍໃຊ້ QField</translation>
+        <source>Map printed on %1 using FfF</source>
+        <translation>ແຜນທີ່ພິມອອກໃນ %1 ໂດຍໃຊ້ FfF</translation>
     </message>
     <message>
         <source>Could not load resource font: %1</source>
@@ -9085,12 +9085,12 @@ to show actions</source>
         <translation>ດາວໂຫຼດໂຄງການ %1 ສຳເລັດແລ້ວ, ຕອນນີ້ສາມາດເປີດໄດ້.</translation>
     </message>
     <message>
-        <source>Changes failed to reach QFieldCloud: %1</source>
-        <translation>ການປ່ຽນແປງບໍ່ສາມາດສົ່ງໄປເຖິງ QFieldCloud ໄດ້: %1</translation>
+        <source>Changes failed to reach FfF Cloud: %1</source>
+        <translation>ການປ່ຽນແປງບໍ່ສາມາດສົ່ງໄປເຖິງ FfF Cloud ໄດ້: %1</translation>
     </message>
     <message>
-        <source>Changes successfully pushed to QFieldCloud</source>
-        <translation>ການປ່ຽນແປງໄດ້ຖືກສົ່ງໄປຫາ QFieldCloud ສຳເລັດແລ້ວ</translation>
+        <source>Changes successfully pushed to FfF Cloud</source>
+        <translation>ການປ່ຽນແປງໄດ້ຖືກສົ່ງໄປຫາ FfF Cloud ສຳເລັດແລ້ວ</translation>
     </message>
     <message>
         <source>Unlock the screen to close project and app</source>
@@ -9193,11 +9193,11 @@ to show actions</source>
         <translation>ສົ່ງອອກຜືນແຜນທີ່ເປັນ PDF ໂດຍໃຊ້ຮູບແບບການພິມໂຄງການ ແລະ ແຜນຜັງແຜນທີ່ຄູ່ມືທີ່ໄດ້ຕັ້ງຄ່າໄວ້.</translation>
     </message>
     <message>
-        <source>QFieldCloud</source>
-        <translation>QFieldCloud</translation>
+        <source>FfF Cloud</source>
+        <translation>FfF Cloud</translation>
     </message>
     <message>
-        <source>Upload local changes, synchronize or discard changes to and from QFieldCloud when a cloud project is opened.</source>
+        <source>Upload local changes, synchronize or discard changes to and from FfF Cloud when a cloud project is opened.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -9205,8 +9205,8 @@ to show actions</source>
         <translation>ໂຟນເດີໂຄງການ</translation>
     </message>
     <message>
-        <source>Open the project folder to access project files, data sources, and related documents. Useful for managing project resources, manually uploading data to QFieldCloud, and sharing datasets, attachments, and layouts.</source>
-        <translation>ເປີດໂຟນເດີໂຄງການ ເພື່ອເຂົ້າເຖິງໄຟລ໌ໂຄງການ, ແຫຼ່ງຂໍ້ມູນ, ແລະ ເອກະສານທີ່ກ່ຽວຂ້ອງ. ເປັນປະໂຫຍດສຳລັບການຈັດການຊັບພະຍາກອນໂຄງການ, ການອັບໂຫຼດຂໍ້ມູນດ້ວຍຕົນເອງໄປໃສ່ QFieldCloud, ແລະ ການແບ່ງປັນຊຸດຂໍ້ມູນ, ໄຟລ໌ຄັດຕິດ, ແລະ ຮູບແບບຕ່າງໆ.</translation>
+        <source>Open the project folder to access project files, data sources, and related documents. Useful for managing project resources, manually uploading data to FfF Cloud, and sharing datasets, attachments, and layouts.</source>
+        <translation>ເປີດໂຟນເດີໂຄງການ ເພື່ອເຂົ້າເຖິງໄຟລ໌ໂຄງການ, ແຫຼ່ງຂໍ້ມູນ, ແລະ ເອກະສານທີ່ກ່ຽວຂ້ອງ. ເປັນປະໂຫຍດສຳລັບການຈັດການຊັບພະຍາກອນໂຄງການ, ການອັບໂຫຼດຂໍ້ມູນດ້ວຍຕົນເອງໄປໃສ່ FfF Cloud, ແລະ ການແບ່ງປັນຊຸດຂໍ້ມູນ, ໄຟລ໌ຄັດຕິດ, ແລະ ຮູບແບບຕ່າງໆ.</translation>
     </message>
     <message>
         <source>Pending changes are present. Upload these now or press back again to keep them pending and close the cloud project and app.</source>
@@ -9221,11 +9221,11 @@ to show actions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>This project has pending changes which have not been uploaded yet. Tap the blue cloud button to open the cloud project panel and send them to QFieldCloud.</source>
+        <source>This project has pending changes which have not been uploaded yet. Tap the blue cloud button to open the cloud project panel and send them to FfF Cloud.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>This cloud project has pending changes which have not been uploaded yet. Open the dashboard using this button, then tap the blue cloud icon to send them to QFieldCloud.</source>
+        <source>This cloud project has pending changes which have not been uploaded yet. Open the dashboard using this button, then tap the blue cloud icon to send them to FfF Cloud.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -9504,8 +9504,8 @@ to show actions</source>
 <context>
     <name>SystemLoader</name>
     <message>
-        <source>Preparing QField, this is a one time operation that might take some time</source>
-        <translation type="vanished">ການກະກຽມ QField, ນີ້ແມ່ນການດໍາເນີນການຄັ້ງດຽວທີ່ອາດຈະໃຊ້ເວລາ</translation>
+        <source>Preparing FfF, this is a one time operation that might take some time</source>
+        <translation type="vanished">ການກະກຽມ FfF, ນີ້ແມ່ນການດໍາເນີນການຄັ້ງດຽວທີ່ອາດຈະໃຊ້ເວລາ</translation>
     </message>
 </context>
 <context>
@@ -9923,8 +9923,8 @@ to show actions</source>
         <translation type="vanished">ຕິດຕໍ່</translation>
     </message>
     <message>
-        <source>Hey there, how do you like your experience with QField so far?</source>
-        <translation type="vanished">ສະບາຍດີ, ທ່ານຄິດແນວໃດກັບປະສົບການທີ່ໄດ້ໃຊ້ QField ຈົນເຖິງຕອນນີ້?</translation>
+        <source>Hey there, how do you like your experience with FfF so far?</source>
+        <translation type="vanished">ສະບາຍດີ, ທ່ານຄິດແນວໃດກັບປະສົບການທີ່ໄດ້ໃຊ້ FfF ຈົນເຖິງຕອນນີ້?</translation>
     </message>
     <message>
         <source>That&apos;s great! We&apos;d love for you to click on the button below and leave a comment on the store.</source>
@@ -9939,8 +9939,8 @@ to show actions</source>
         <translation type="vanished">ການເກັບກຳມາດຕະການທີ່ບໍ່ເປີດເຜີຍຊື່ໄດ້ຖືກປິດນຳໃຊ້ແລ້ວ. ທ່ານສາມາດເປີດນຳໃຊ້ຄືນໃໝ່ຜ່ານແຜງຕັ້ງຄ່າ.</translation>
     </message>
     <message>
-        <source>To improve stability for everyone, QField collects and sends anonymized metrics.</source>
-        <translation type="vanished">ເພື່ອປັບປຸງຄວາມສະຖຽນສຳລັບທຸກຄົນ, QField ໄດ້ເກັບກຳ ແລະ ສົ່ງຂໍ້ມູນສະຖິຕິທີ່ບໍ່ເປີດເຜີຍຊື່.</translation>
+        <source>To improve stability for everyone, FfF collects and sends anonymized metrics.</source>
+        <translation type="vanished">ເພື່ອປັບປຸງຄວາມສະຖຽນສຳລັບທຸກຄົນ, FfF ໄດ້ເກັບກຳ ແລະ ສົ່ງຂໍ້ມູນສະຖິຕິທີ່ບໍ່ເປີດເຜີຍຊື່.</translation>
     </message>
     <message>
         <source>I agree</source>
@@ -9951,8 +9951,8 @@ to show actions</source>
         <translation type="vanished">ຂ້ອຍຂໍບໍ່</translation>
     </message>
     <message>
-        <source>QFieldCloud projects</source>
-        <translation type="vanished">ໂຄງການ QFieldCloud</translation>
+        <source>FfF Cloud projects</source>
+        <translation type="vanished">ໂຄງການ FfF Cloud</translation>
     </message>
     <message>
         <source>Open local file</source>
@@ -9979,12 +9979,12 @@ to show actions</source>
         <translation type="vanished">ລຶບອອກຈາກໂຄງການຫຼ້າສຸດ</translation>
     </message>
     <message>
-        <source>Welcome to QField. First time using this application? Try out sample projects listed in the list below.</source>
-        <translation type="vanished">ຍິນດີຕ້ອນຮັບສູ່ QField. ໃຊ້ແອັບພລິເຄຊັ່ນນີ້ ເປັນເທື່ອທຳອິດບໍ? ລອງໃຊ້ບັນດາໂຄງການຕົວຢ່າງທີ່ລະບຸໄວ້ຂ້າງລຸ່ມນີ້.</translation>
+        <source>Welcome to FfF. First time using this application? Try out sample projects listed in the list below.</source>
+        <translation type="vanished">ຍິນດີຕ້ອນຮັບສູ່ FfF. ໃຊ້ແອັບພລິເຄຊັ່ນນີ້ ເປັນເທື່ອທຳອິດບໍ? ລອງໃຊ້ບັນດາໂຄງການຕົວຢ່າງທີ່ລະບຸໄວ້ຂ້າງລຸ່ມນີ້.</translation>
     </message>
     <message>
-        <source>Welcome back to QField.</source>
-        <translation type="vanished">ຍິນດີຕ້ອນຮັບກັບມາທີ່ QField</translation>
+        <source>Welcome back to FfF.</source>
+        <translation type="vanished">ຍິນດີຕ້ອນຮັບກັບມາທີ່ FfF</translation>
     </message>
 </context>
 <context>
@@ -10001,8 +10001,8 @@ to show actions</source>
 <context>
     <name>gallery_relation_editor</name>
     <message>
-        <source>QFieldCloud on-demand attachment error: </source>
-        <translation>ຂໍ້ຜິດພາດໃນການຕິດຄັດໄຟລ໌ແບບ On-demand ຂອງ QFieldCloud: </translation>
+        <source>FfF Cloud on-demand attachment error: </source>
+        <translation>ຂໍ້ຜິດພາດໃນການຕິດຄັດໄຟລ໌ແບບ On-demand ຂອງ FfF Cloud: </translation>
     </message>
     <message>
         <source>The external storage&apos;s authentication configuration ID is missing, please insure it is imported into %1</source>
@@ -10199,8 +10199,8 @@ to show actions</source>
         <translation type="vanished">ບັນທຶກຂໍ້ຄວາມ</translation>
     </message>
     <message>
-        <source>About QField</source>
-        <translation type="vanished">ກ່ຽວກັບ QField</translation>
+        <source>About FfF</source>
+        <translation type="vanished">ກ່ຽວກັບ FfF</translation>
     </message>
     <message>
         <source>Select template below</source>
@@ -10211,8 +10211,8 @@ to show actions</source>
         <translation type="vanished">ກຳລັງເປີດນຳໃຊ້ບໍລິການກຳນົດຕຳແໜ່ງ</translation>
     </message>
     <message>
-        <source>QField has no permissions to use positioning.</source>
-        <translation type="vanished">QField ບໍ່ມີສິດໃນການນຳໃຊ້ການກຳນົດຕຳແໜ່ງ.</translation>
+        <source>FfF has no permissions to use positioning.</source>
+        <translation type="vanished">FfF ບໍ່ມີສິດໃນການນຳໃຊ້ການກຳນົດຕຳແໜ່ງ.</translation>
     </message>
     <message>
         <source>Map Canvas Options</source>
@@ -10407,12 +10407,12 @@ to show actions</source>
         <translation type="vanished">ດາວໂຫຼດໂຄງການ %1 ສຳເລັດແລ້ວ, ຕອນນີ້ສາມາດເປີດໄດ້.</translation>
     </message>
     <message>
-        <source>Changes failed to reach QFieldCloud: %1</source>
-        <translation type="vanished">ການປ່ຽນແປງບໍ່ສາມາດສົ່ງໄປເຖິງ QFieldCloud ໄດ້: %1</translation>
+        <source>Changes failed to reach FfF Cloud: %1</source>
+        <translation type="vanished">ການປ່ຽນແປງບໍ່ສາມາດສົ່ງໄປເຖິງ FfF Cloud ໄດ້: %1</translation>
     </message>
     <message>
-        <source>Changes successfully pushed to QFieldCloud</source>
-        <translation type="vanished">ການປ່ຽນແປງໄດ້ຖືກສົ່ງໄປຫາ QFieldCloud ສຳເລັດແລ້ວ</translation>
+        <source>Changes successfully pushed to FfF Cloud</source>
+        <translation type="vanished">ການປ່ຽນແປງໄດ້ຖືກສົ່ງໄປຫາ FfF Cloud ສຳເລັດແລ້ວ</translation>
     </message>
     <message>
         <source>Press back again to close project and app</source>
@@ -10467,7 +10467,7 @@ to show actions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QFieldCloud</source>
+        <source>FfF Cloud</source>
         <translation type="unfinished"/>
     </message>
 </context>
